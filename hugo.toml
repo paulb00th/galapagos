@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://github.com/paulb00th/galapagos/'
 languageCode = 'en-us'
 title = 'Galapagos Dive Academy'
 theme = 'hugo-universal-theme'
