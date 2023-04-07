@@ -1,28 +1,15 @@
 <footer id="footer">
-    <div class="container">
-
-        <div class="footer-black-bar"></div>
-
-        <div class="row">
-            <div class="col-md-2">
-              {{ .Site.Params.about_us | safeHTML }}
-            </div>
-            <div class="col-md-2">
-              <img src="/img/footer/PADI.png" class="img-responsive" alt="Image 1">
-            </div>
-            <div class="col-md-2">
-              <img src="/img/footer/DAN.png" class="img-responsive" alt="Image 2">
-            </div>
-            <div class="col-md-3">
-              <img src="/img/footer/BBC_Natural_History.png" class="img-responsive" alt="Image 3">
-            </div>
-            <div class="col-md-3">
-              <img src="/img/footer/Parque_Nacional_Galapagos.png" class="img-responsive" alt="Image 4">
-            </div>
-        </div>
-        
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <p class="pull-left">{{ .Site.Params.about_us | safeHTML }}</p>
+      </div>
+      <div class="col-md-6 pull-right">
+        <img src="/img/footer/third_party_logos_648.png" class="img-responsive" alt="third party logos">
+      </div>
     </div>
-    <!-- /.container -->
+  </div>
+  <!-- /.container -->
 </footer>
 
 <!-- /#footer -->

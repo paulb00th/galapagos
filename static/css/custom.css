@@ -68,3 +68,8 @@ img {
     height: 2px; /* Adjust the height to your desired thickness */
     margin-bottom: 30px;
 }
+
+.bottom-aligned {
+    display: flex;
+    align-items: flex-end;
+  }

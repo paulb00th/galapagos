@@ -2,7 +2,7 @@
 title = "Home"
 +++
 
-{{< figure src="/img/600x300.png" alt="Photograph of trainees being introduced to their scuba diving equipment" class="align-right full-width-on-small" >}}
+{{< figure src="/img/570x285.png" alt="Trainees being introduced to their scuba diving equipment" class="align-right full-width-on-small" >}}
 
 There are several excellent scuba operators servicing the Galapagos, but each primarily specialises in taking qualified divers to distant sites - which are often very challenging for trainees.  Galapagos Dive Academy, founded by husband and wife team Claudia and Juan-Carlos, offers a service that negates this difficulty by providing high quality instruction to novice divers in the safe waters of Academy Bay.  This perfect training environment, set adjacent to the Charles Darwin Centre in Puerto Ayora, (the largest town in the Galapagos), has dive sites just 10 minutes from the town’s harbour.
 
@@ -18,4 +18,4 @@ Supporting international film crews working in the islands.  If you've seen the
 
 Together, Claudia and Juan-Carlos bring more than 35 years of dive industry expertise to everything they do.  Selecting Galapagos Dive Academy as the partner for your trip is a great way to improve the experience of a lifetime.
 
-{{< image-row images="/img/home_page/1_a_galapagos_fish.png,/img/home_page/2_two_young_divers.png,/img/home_page/3_a_galapagos_fish.png" alt="Photograph of a Galapagos fish,Photograph of two young scuba divers on a Discover Scuba Diving (DSD) adventure,Photograph of a Galapagos fish" paddingTop="10px" >}}
+{{< image-row images="/img/home_page/1_a_galapagos_fish.png,/img/home_page/2_two_young_divers.png,/img/home_page/3_a_galapagos_fish.png" alt="A Galapagos fish,Two young scuba divers on a Discover Scuba Diving (DSD) adventure,A Galapagos fish" paddingTop="10px" >}}
