@@ -16,6 +16,8 @@ paginate = 10
 
 # not pluralize title pages by default
 pluralizelisttitles = false
+
+canonifyURLs = true
     
 # Logo
 
