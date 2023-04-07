@@ -2678,7 +2678,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 /* nav */
 .nav > li > a {
-  padding: 10px 15px;
+  padding: 10px 12px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -2943,7 +2943,8 @@ fieldset[disabled] .btn-template-primary.active {
   text-decoration: none;
 }
 .navbar-brand img {
-  max-height: 42px;
+  margin-top: -8px;
+  max-height: 76px;
 }
 @media (min-width: 768px) {
   .navbar > .container .navbar-brand,
