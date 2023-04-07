@@ -1,0 +1,12 @@
+{{ $images := split (.Get "images") "," }}
+{{ $altText := split (.Get "alt") "," }}
+{{ $paddingTop := default "" (.Get "paddingTop") }}
+{{ $paddingBottom := default "" (.Get "paddingBottom") }}
+
+<div class="image-row" style="padding-top: {{ $paddingTop }}; padding-bottom: {{ $paddingBottom }}">
+    {{ range $index, $image := $images }}
+        <div class="image-wrapper">
+            <img src="{{ $image | safeURL }}" alt="{{ index $altText $index }}">
+        </div>
+    {{ end }}
+</div>

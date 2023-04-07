@@ -1,0 +1,131 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Galapagos Dive Academy'
+theme = 'hugo-universal-theme'
+
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+summaryLength = 70
+
+# Define the number of posts per page
+paginate = 10
+
+# not pluralize title pages by default
+pluralizelisttitles = false
+    
+# Logo
+
+[params]
+
+logo = "img/gda-logo.png"
+about_us = "<p>Marchena 177 Y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto Ayora<br/>Ecuador</p>"
+
+[menu]
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "Our Diving"
+    identifier = "menu.our-diving"
+    weight     = 2
+
+[[menu.main]]
+    name       = "More about Discover Scuba Diving"
+    weight     = 1
+    parent     = "menu.our-diving"
+    post       = 1
+
+[[menu.main]]
+    name       = "More about our Open Water Course"
+    weight     = 1
+    parent     = "menu.our-diving"
+    post       = 2
+
+[[menu.main]]
+    name       = "More about our Advanced Open Water Course"
+    weight     = 1
+    parent     = "menu.our-diving"
+    post       = 3
+
+[[menu.main]]
+    name       = "More about our Night Diving in Academy Bay"
+    weight     = 1
+    parent     = "menu.our-diving"
+    post       = 4
+
+[[menu.main]]
+    name       = "Our Prices"
+    weight     = 1
+    parent     = "menu.our-diving"
+    post       = 5
+
+[[menu.main]]
+    name       = "Accom & Travel"
+    identifier = "menu.acommodation"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Land & Sea Tours"
+    identifier = "menu.tours"
+    weight     = 4
+
+[[menu.main]]
+    name       = "Visiting us"
+    identifier = "menu.visit"
+    weight     = 5
+
+[[menu.main]]
+    name       = "Plan your trip"
+    weight     = 1
+    parent     = "menu.visit"
+    post       = 1    
+
+[[menu.main]]
+    name       = "Climate & dive conditions"
+    weight     = 1
+    parent     = "menu.visit"
+    post       = 2
+
+[[menu.main]]
+    name       = "About Us"
+    identifier = "menu.about"
+    weight     = 6
+
+[[menu.main]]
+    name       = "Terms & conditions"
+    weight     = 1
+    parent     = "menu.about"
+    post       = 1    
+
+[[menu.main]]
+    name       = "Gallery"
+    weight     = 1
+    parent     = "menu.about"
+    post       = 2    
+
+[[menu.main]]
+    name       = "Contact Us"
+    identifier = "menu.contact"
+    weight     = 7    
+
+# Top bar social links menu
+
+[params.topbar]
+    enable = true
+    text = "<p>Cell: <a href='tel:+593-98-5848720'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: info@GalapagosDiveAcademy.com</p>"
+
+# Footer
+
+[params.clients]
+    enable = true
+    title = "Our Clients"
+    subtitle = ""
