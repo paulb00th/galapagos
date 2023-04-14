@@ -1741,9 +1741,10 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/texture-bw.png') center center repeat;
+  background: url('../img/block-blue.png') center center repeat;
   padding: 20px 0;
   margin-bottom: 40px;
+  height: 40px;
 }
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;

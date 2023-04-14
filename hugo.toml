@@ -18,6 +18,12 @@ paginate = 10
 pluralizelisttitles = false
 
 canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      hardWraps = true
     
 # Logo
 
@@ -25,7 +31,7 @@ canonifyURLs = true
 
 logo = "img/gda-logo.png"
 logo_small = "img/gda-logo.png"
-about_us = "<p>Marchena 177 y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto Ayora<br/>Ecuador</p>"
+about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto Ayora<br/>Ecuador</p>"
 
 [menu]
 
@@ -42,44 +48,52 @@ about_us = "<p>Marchena 177 y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto 
     weight     = 2
 
 [[menu.main]]
-    name       = "More about Discover Scuba Diving"
+    name       = "Our Diving"
     weight     = 1
     parent     = "menu.our-diving"
-    post       = 1
+    url        = "/our-diving/our-diving"
 
 [[menu.main]]
-    name       = "More about our Open Water Course"
-    weight     = 1
+    name       = "Our main dive sites"
+    weight     = 2
     parent     = "menu.our-diving"
-    post       = 2
+    url        = "/our-diving/our-main-dive-sites"
 
 [[menu.main]]
-    name       = "More about our Advanced Open Water Course"
-    weight     = 1
+    name       = "Our other day dive sites"
+    weight     = 3
     parent     = "menu.our-diving"
-    post       = 3
+    url        = "/our-diving/our-other-day-dive-sites"
 
 [[menu.main]]
-    name       = "More about our Night Diving in Academy Bay"
-    weight     = 1
+    name       = "Liveaboards"
+    weight     = 4
     parent     = "menu.our-diving"
-    post       = 4
+    url        = "/our-diving/liveaboards"
+
+[[menu.main]]
+    name       = "Our boats"
+    weight     = 5
+    parent     = "menu.our-diving"
+    url        = "/our-diving/our-boats"
 
 [[menu.main]]
     name       = "Our Prices"
-    weight     = 1
+    weight     = 6
     parent     = "menu.our-diving"
-    post       = 5
+    url        = "/our-diving/our-prices"
 
 [[menu.main]]
     name       = "Accom/Travel"
     identifier = "menu.acommodation"
     weight     = 3
+    url        = "/accom-travel"
 
 [[menu.main]]
     name       = "Tours"
     identifier = "menu.tours"
     weight     = 4
+    url        = "/tours"
 
 [[menu.main]]
     name       = "Visiting"
@@ -87,16 +101,22 @@ about_us = "<p>Marchena 177 y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto 
     weight     = 5
 
 [[menu.main]]
-    name       = "Plan your trip"
+    name       = "Introuction"
     weight     = 1
     parent     = "menu.visit"
-    post       = 1    
+    url        = "/visiting/introduction"
+
+[[menu.main]]
+    name       = "Plan your trip"
+    weight     = 2
+    parent     = "menu.visit"    
+    url        = "/visiting/plan-your-trip"
 
 [[menu.main]]
     name       = "Climate & dive conditions"
-    weight     = 1
+    weight     = 3
     parent     = "menu.visit"
-    post       = 2
+    url        = "/visiting/climate-and-dive-conditions"
 
 [[menu.main]]
     name       = "About"
@@ -104,21 +124,28 @@ about_us = "<p>Marchena 177 y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto 
     weight     = 6
 
 [[menu.main]]
-    name       = "Terms & conditions"
+    name       = "Introduction"
     weight     = 1
     parent     = "menu.about"
-    post       = 1    
+    url        = "/about/introduction"
 
 [[menu.main]]
     name       = "Gallery"
-    weight     = 1
+    weight     = 2
+    parent     = "menu.about"  
+    url        = "/about/gallery"  
+
+[[menu.main]]
+    name       = "Terms & conditions"
+    weight     = 3
     parent     = "menu.about"
-    post       = 2    
+    url        = "/about/terms-and-conditions" 
 
 [[menu.main]]
     name       = "Contact"
     identifier = "menu.contact"
-    weight     = 7    
+    weight     = 7
+    url        = "/contact" 
 
 # Top bar social links menu
 

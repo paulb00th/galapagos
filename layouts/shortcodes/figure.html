@@ -1,7 +1,9 @@
 {{ $src := .Get "src" }}
 {{ $alt := .Get "alt" }}
 {{ $class := .Get "class" }}
+{{ $height := .Get "height" }}
+{{ $width := .Get "width" }}
 <figure class="{{ $class }}">
-  <img src="{{ $src }}" alt="{{ $alt }}">
+  <img src="{{ $src }}" alt="{{ $alt }}" {{ if $height }}height="{{ $height }}"{{ end }} {{ if $width }}width="{{ $width }}"{{ end }}>
   {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
 </figure>

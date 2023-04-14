@@ -2,6 +2,12 @@
     color: #455972;
 }
 
+.align-left {
+    float: left;
+    /* margin: 0 0 1em 1em; */
+    padding-right: 10px;
+}
+
 .align-right {
     float: right;
     margin: 0 0 1em 1em;
@@ -72,4 +78,24 @@ img {
 .bottom-aligned {
     display: flex;
     align-items: flex-end;
-  }
+}
+
+/* -- Strapline -- */
+
+.strapline {
+    color: #559FB8;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* -- Read more -- */
+
+.hidden-text {
+    display: none;
+}
+  
+.read-more-link {
+    cursor: pointer;
+    color: #559FB8;;
+    text-decoration: underline;
+}
