@@ -1215,6 +1215,11 @@ fieldset[disabled] .btn-template-primary.active {
     font-size: 36px;
   }
 }
+@media (max-width: 767px) {
+  .home-carousel h1 {
+    font-size: 30px;
+  }
+}
 .home-carousel h2 {
   font-weight: 700;
   text-transform: uppercase;
