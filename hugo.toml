@@ -158,10 +158,10 @@ about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa 
     url        = "/about/the-team"
 
 [[menu.main]]
-    name       = "Gallery"
+    name       = "Photo gallery"
     weight     = 2
     parent     = "menu.about"  
-    url        = "/about/gallery"  
+    url        = "/about/photo-gallery"  
 
 [[menu.main]]
     name       = "Terms & conditions"

@@ -3402,6 +3402,11 @@ h3,
   margin-top: 20px;
   margin-bottom: 20px;
 }
+h4,
+.h4 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
 p {
   margin: 0 0 10px;
 }
@@ -3462,6 +3467,10 @@ blockquote .small:before {
 .blockquote-reverse,
 blockquote.pull-right {
   border-right: 5px solid var(--primary-accent);
+}
+blockquote p {
+  line-height: 1.5;
+  margin-bottom: 12px;
 }
 address {
   margin-bottom: 20px;

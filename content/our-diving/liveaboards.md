@@ -3,9 +3,9 @@
 
 #### LIVEABOARD DIVING
 
+{{< figure src="/img/HumboldtExplorer1.png" class="align-right full-width-on-small" >}}
+
 <span class="strapline">Taking you to the best of the islands' remote locations </span>
-
-
 
 The world-famous dive sites of Wolf and Darwin are far from land and not accessible when day diving.  Taking a liveaboard to these and some of our other wonderful, but remote, dive locations is the way to see the very best of the Galapagos.
 

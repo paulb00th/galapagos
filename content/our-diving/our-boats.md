@@ -3,6 +3,8 @@
 
 #### OUR BOATS
 
+{{< figure src="/img/570-Nina_boat.png" class="align-right full-width-on-small" >}}
+
 <span class="strapline">The platforms we rely upon </span>
 
 Our boats are designed and equipped for comfort, safety, and seaworthiness, in the conditions that prevail in the Galapagos. 

@@ -3,6 +3,8 @@
 
 ### Our prices
 
+{{< figure src="/img/GDA-invoice-graphic_Bedge.png" class="align-right full-width-on-small" >}}
+
 <span class="strapline">The best prices on the Islands, delivering the best quality experiences </span>
 
 ##### Course fees

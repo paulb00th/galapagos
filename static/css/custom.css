@@ -75,6 +75,12 @@ img {
     margin-bottom: 30px;
 }
 
+.grey-bar {
+    background-color: #9198a7;
+    height: 2px; /* Adjust the height to your desired thickness */
+    margin-bottom: 20px;
+}
+
 .bottom-aligned {
     display: flex;
     align-items: flex-end;

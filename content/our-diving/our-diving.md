@@ -5,34 +5,37 @@
 
 <span class="strapline">Expertly taught and fun to learn! </span>
 
-**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centers and resorts.
+{{< figure src="/img/PADI-logo.png" class="align-right" width="60" >}}
 
-PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
+**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centers and resorts. PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
  
-See our dive pricing here… LINK TO: 2.05 - Our Prices ENGLISH]
+[See our dive pricing](/our-diving/our-prices)
 
-
-#### DISCOVER SCUBA DIVING (DSD)
+#### Discover Scuba Diving (DSD)
 
 The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI instructor.  Let the team at **Galapagos Dive Academy** introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
 
 **To join us for a DSD experience you must:**
 
-<I>Be a minimum of 10 years old 
+<blockquote>
+<p>Be a minimum of 10 years old</p>
 
-Know how to swim
+<p>Know how to swim</p>
 
-Be free of heart disease, advanced respiratory disease, and any temporary congestion, such as influenza (flu)
+<p>Be free of heart disease, advanced respiratory disease, and any temporary congestion, such as influenza (flu)</p>
 
-Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving</I>
+<p>Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving</p>
+</blockquote>
 
-Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora office and teaching center, at the dive site named Punta Estrada[LINK TO: info. In document 2.10 - Our main dive sites].  During your experience we will aim to take you to a maximum depth of 12m for about 45 minutes.  Please bear in mind that the actual time you will spent underwater depends on your breathing pattern, so start practicing long slow breathing techniques today!  We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to each candidate or pair of candidates, up to a maximum of 4 participants assisted by 2 instructors.
+Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora office and teaching center, at the dive site named [Punta Estrada](/our-diving/our-main-dive-sites).  During your experience we will aim to take you to a maximum depth of 12m for about 45 minutes.  Please bear in mind that the actual time you will spent underwater depends on your breathing pattern, so start practicing long slow breathing techniques today!  We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to each candidate or pair of candidates, up to a maximum of 4 participants assisted by 2 instructors.
  
 Learn more about [our DSD course](/our-diving/more-about-dsd)
  
-If you would like to book our DSD trip please either email us[LINK_email] or complete the Contact Us page[LINK TO: Contact Us].
+If you would like to book our DSD trip please [Contact Us](/contact)
 
 {{< image-row images="/img/our-diving/DSD1.png,/img/our-diving/DSD2.png,/img/our-diving/DSD3.png" paddingTop="10px" >}}
+
+<div class="grey-bar"></div>
 
 #### PADI OPEN WATER COURSE
 
@@ -43,14 +46,11 @@ This is PADI’s most popular course worldwide, being designed so that the stude
 The Open Water course is in two parts. The first is academic and theoretical, and conducted with new easy to access online materials.  You can undertake this section slowly at home or in just a few days while on vacation.  The second part is a mix of confined (pool-based) and open water practical training during which you learn how to handle scuba equipment and become an independent diver.  This section usually takes 3 days to complete and provides for a total of 4-dives in the sea.  Following certification, you are qualified to a maximum depth of 18m.
  
 To join us for an Open Water course you must:
-<blockquote> 
-Be a minimum of 10 years old 
-
-Know how to swim
-
-Be free of heart disease, advanced respiratory disease, and any temporary congestion, such as influenza (flu)  
-
-Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving)
+<blockquote>
+<p>Be a minimum of 10 years old</p>
+<p>Know how to swim</p>
+<p>Be free of heart disease, advanced respiratory disease, and any temporary congestion, such as influenza (flu)</p>
+<p>Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving)</p>
 </blockquote>
 We teach the PADI Open Water course in Academy Bay, using several sites, these being: 
  
@@ -69,6 +69,8 @@ Learn more about our PADI Open Water course here…[LINK TO: info. in document 2
 If you would like to book our Open Water course trip please either email us[LINK_email] or complete the Contact Us page[LINK TO: Contact Us].
 
 {{< image-row images="/img/our-diving/OW1.png,/img/our-diving/OW2.png,/img/our-diving/OW3.png" paddingTop="10px" >}}
+
+<div class="grey-bar"></div>
 
 #### PADI SCUBA DIVER COURSE
 
@@ -97,6 +99,8 @@ Learn more about the PADI Scuba Diver course here…[EXT LINK to PADI: https://w
 If you would like to book our Scuba Diver course please either email us[LINK_email] or complete the Contact Us page[LINK TO: Contact Us].
 
 {{< image-row images="/img/our-diving/SDC1.png,/img/our-diving/SDC2.png,/img/our-diving/SDC3.png" paddingTop="10px" >}}
+
+<div class="grey-bar"></div>
 
 #### PADI ADVANCED OPEN WATER
 
@@ -135,6 +139,8 @@ If you would like to book our PADI Advanced Open Water course please either emai
 
 {{< image-row images="/img/our-diving/AOW3.png,/img/our-diving/AOW2.png,/img/our-diving/AOW1.png" paddingTop="10px" >}}
 
+<div class="grey-bar"></div>
+
 #### EMERGENCY FIRST RESPONSE – EFR
 
 EFR is a first aid course, taught by our PADI instructors. Learn the skills to aid in primary and secondary emergencies through a combination of home-based online study and practical face-to-face classroom drills. This knowledge will help prepare you for any emergency that arises, wherever you are.
@@ -152,6 +158,8 @@ Learn more about the PADI EFR course here…[LINK TO: https://www.padi.com/cours
 If you would like to book our EFR course please either either email us[LINK_email] or complete the Contact Us page[LINK TO: Contact Us].
 
 {{< image-row images="/img/our-diving/EFR1.png,/img/our-diving/EFR2.png,/img/our-diving/EFR3.png" paddingTop="10px" >}}
+
+<div class="grey-bar"></div>
 
 #### PADI RESCUE DIVER
 
@@ -174,6 +182,8 @@ Learn more about the PADI Rescue Diver course here…[EXT LINK to PADI: https://
 If you would like to book our PADI Rescue Diver course please either either email us[LINK_email] or complete the Contact Us page[LINK TO: Contact Us].
 
 {{< image-row images="/img/our-diving/RD1.png,/img/our-diving/RD2.png,/img/our-diving/RD3.png" paddingTop="10px" >}}
+
+<div class="grey-bar"></div>
 
 #### PADI DIVE MASTER
 
@@ -214,6 +224,8 @@ If you would like to book our PADI Dive Master course please either either email
 
 {{< image-row images="/img/our-diving/DM1.png,/img/our-diving/DM2.png,/img/our-diving/DM3.png" paddingTop="10px" >}}
 
+<div class="grey-bar"></div>
+
 #### PADI ReActivate / Refresh
 
 If you haven't dived for several years, the PADI ReActivate / Refresh option is for you.  Whichever of these courses you take, you will have the opportunity to review the most important diving theories and techniques, on an outing with a PADI instructor in the sea or in a pool.  This will prepare you to re-enter the big blue feeling relaxed and confident.
@@ -231,6 +243,8 @@ Learn more about the PADI ReActivate/Refresh course here…[EXT LINK to PADI:  
 If you would like to book our ReActivate/Refresh course please either email us[LINK_email] or complete the Contact Us page[LINK TO: Contact Us].
 
 {{< image-row images="/img/our-diving/RA2.png,/img/our-diving/RA1.png,/img/our-diving/RA3.png" paddingTop="10px" >}}
+
+<div class="grey-bar"></div>
 
 #### PADI ENRICH AIR (NITROX)
 
@@ -251,6 +265,8 @@ Learn more about the PADI Enriched Air course here…  EXT LINK to PADI.
 If you would like to book our Enriched Air course please either email us[LINK_email] or complete the Contact Us page[LINK TO: Contact Us].
 
 {{< image-row images="/img/our-diving/EAN1.png,/img/our-diving/EAN2.png,/img/our-diving/EAN3.png" paddingTop="10px" >}}
+
+<div class="grey-bar"></div>
 
 #### NIGHT DIVE ADVENTURE
 
