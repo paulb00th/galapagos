@@ -1,0 +1,52 @@
++++
++++
+
+#### Suggested Galapagos Packing List
+
+Regardless of whether you arrive in the islands during the hot or cold season, the essential items you require are likely to be as follows:
+
+Essentials
+
+Passport
+
+Travel and accommodation documents
+
+Cash and cards
+
+Insurance documentation
+
+Small backpack for water, towel, food, camera, etc.
+
+Re-fillable, preferably recycled, water bottle.
+
+Dry Bag – if you plan on using day boats for outings.
+
+Camera and significant extra storage i.e., additional SD cards (preferably an underwater camera). Options here are limited and expensive.
+
+Sunhat with strap – you’re going to be on the equator! Some prefer a sun umbrella as a cooler option.
+
+Sunglasses (polarized if spending a lot of time on the water).
+
+Windbreaker/Light weight rain jacket – it can get cool in the mornings / out on a boat. Misty rain in the cold season and morning downpours in the hot season are common.
+
+Insect Repellant and Sunscreen, minimum 50 factor if you burn easily
+
+Some lightweight, light coloured, breathable clothes, inc. shorts, t-shirts and longer garments to counter the mosquitos in the evenings!
+
+Walking shoes/boots and comfortable sandals – some people bring the water-resistant type – great for all tours.
+
+Essential medicines and toiletry kit.
+
+ 
+
+If you are diving/snorkeling
+
+Bathing suit/s
+
+Mask & snorkel
+
+Perhaps an exposure suit (lycra rash vest, neoprene skin, or similar, it’s easy to burn in/on the water
+
+Perhaps also your full dive kit - but note all this gear can be rented once you’re here.
+
+Return to [Visiting us](/visiting/introduction)

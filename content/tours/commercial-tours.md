@@ -71,64 +71,17 @@ Transfer to airport
 
 The above package can be styled to suit every budget
 
-<B>This example tour includes:</B>
+**This example tour includes:**
 Hotel in Santa Cruz & Isabela (7 nights)
 Some meals 
 All transfers in Galapagos
 All tours mentioned in the itinerary
  
-<B>This example tour excludes:</B>
+**This example tour excludes:**
 Flights 
 National Park entrance fee ($100 payable on arrival at Baltra airport)
 Tourist card ($20 payable in airport in Quito or Guayaquil prior to outbound island flight)
-Most evening meals
- 
-#### TOURS - Free (and almost free) activities
-
-<span class="strapline">Economy choices, no less full of fun!</span>
-
-Land-based day trips around the Puerto Ayora area on Santa Cruz Island that you can organise for yourself:
- 
-##### Tortuga Bay:
-2 km west of Puerto Ayora, accessed via footpath (40-minute walk) or paid water ferry.  Open from 6am to 6pm.
-
-Called Tortuga Bay due to the green sea turtles that use it as a nesting site, this white sandy beach rivals the best throughout South America, and is an excellent place to swim, surf, walk, or just lay taking in the beautiful surroundings.  As well as turtles, the bay is home to marine iguanas, sharks, pelicans, and the occasional flamingo.
-
-If you want somewhere with no waves, just continue walking around the north point to a secluded lagoon where it is possible to snorkel and rent kayaks.  This is the location you are deposited/collected if you choose to access the area via boat from the town’s main harbour.
- 
-##### The Charles Darwin Research Center:
-A 15- to 20-minute walk east of town, set on Av. Charles Darwin.  Open 6am – 6pm. 
-
-More than 200 scientists and volunteers are involved with research and conservation efforts at the center, which is well known for its captive breeding program for giant tortoises. It offers, a baby tortoise house with incubators, a walk through an adult tortoise enclosure, an enclosure containing several land iguanas and explanations concerning efforts to restore their populations on islands.  Don’t miss the main national park information center with its magnificent whale skeletons and great souvenir shop.  You may want to consider taking your passport on the first occasion you visit the Darwin and asking that they stamp it for you, this provides a nice memento of your trip.
- 
-Visiting some parts of this site requires payment of a $10 fee per person.
- 
-##### Station Beach:
-A 12-15 minute walk east of Puerta Ayoral along Av. Charles Darwin (located a 5 minute walk away from the Darwin centre).  Open 6 a.m. – 6 p.m
-
-This beach is small but perfect on a hot day. It is on the way into the Charles Darwin Research Station and is excellent on low or high tide. Many locals swim laps here when the water is calm and the mornings are hot.  It’s a great place to see marine iguanas in the water.  Why not stop for a refreshing swim at Station Beach while on your way to/from the Charles Darwin Research Station.
- 
-##### German Beach:
-A 4-5 minute walk after taking a water taxi ride across the main bay in Puerta Ayora.
-
-The best time to visit German Beach is at high tide: you’ll find more water and fewer rocks!  This small bay with a gradual shelving beach is one of the the best swimming spots in Puerto Ayora and a nice stop on the way to Las Grietas - see immediately below. 
- 
-##### Las Grietas:
-Accessed via footpath (40-minute walk to the west of town) or paid water ferry.  Open from 6am to 7pm 
- 
-Las Grietas is a series of water filled crevices in the rocks adjacent to the seacoast of the island. The water is cool, clear, and perfect for snorkelling on a hot day.  Note - Please don’t take valuables to this site, they are easily lost in the deep water and some cameras and cell phones have been stolen there.
- 
-Visiting this site requires payment of a $10 fee per person.
- 
-##### Garrapatero Beach:
-A 30- to 40-minute taxi ride east of Puerto Ayora, followed by a 15-minute walk onto the beach.
- 
-Garrapatero offers a wide bay with multiple sandy beaches and tidal pools, it’s a great place to exploring and snorkel, especially on calm days. You can also rent kayaks and paddle across the bay to see the juvenile sharks.  There is a fresh water lagoon behind the beach, which is occasionally visited by pink flamingos.
- 
-##### Cerro Crocker and Media Luna:
-North of Bellavista, Santa Cruz Island
- 
-A path leads from the settlement of Bellavista towards Cerro Crocker, the high point on the island at 864 m. Follow this for several kilometres to Cerro Crocker/Media Luna.  From the high points, it’s possible to see the vegetation of the Scalesia, Miconia and fern-sedge zones around the island, and to look for birds such as the elusive Galapagos Rail and the Paint Billed crake.  
+Most evening meals 
  
 ##### Day-tours verses multi-day activities?
 
@@ -137,5 +90,3 @@ The positive side of some cruise boats is that they take you to islands that can
 Day tours, on the other hand, are usually done by 5pm, so you’re back to your hotel each evening and able to stroll around the town to look for dinner and a drink.  And, of course, if you are not naturally comfortable on a boat, you don’t fee awful throughout your whole trip!
 
 The decision really depends on your viewpoint and your budget.  Just bear in mind that the two options provide for very different experiences. 
-
-Return to  WRONG WRONG WRONG [Our Diving](/our-diving/our-diving)

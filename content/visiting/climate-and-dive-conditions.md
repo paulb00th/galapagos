@@ -24,34 +24,34 @@ If you take a liveaboard that visits Punta Vincente Roca on the northwest coast 
 ##### Life through the year
 As a result of these various influences, animal and plant life varies seasonally through the year (and cyclically, every 3 to 7 years, due to the fluctuations known as El Nino and La Nina).  Set out below is a general guide to the key marine animals that are present through the year:
  
-<B>Hammerhead Sharks</B>
+**Hammerhead Sharks**
 All year (but more frequent between February and June)
  
-<B>Sea Lions</B>
+**Sea Lions**
 All year
  
-<B>Reef Sharks</B>
+**Reef Sharks**
 All year
  
-<B>Golden Rays</B>
+**Golden Rays**
 All year (but more frequent between January and June)
  
-<B>Eagle Rays</B>
+**Eagle Rays**
 All year (but more frequent between January and June)
  
-<B>Green Sea Turtles</B>
+**Green Sea Turtles**
 All year
  
-<B>Marine Iguanas</B>
+**Marine Iguanas**
 All year
  
-<B>Manta Rays</B>
+**Manta Rays**
 Most prolific between December and May
  
-<B>Mola Mola</B>
+**Mola Mola**
 Generally August to December/January
  
-<B>Whale Sharks</B>
+**Whale Sharks**
 Generally, July to November
  
 Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.
@@ -60,18 +60,18 @@ Note - During significant El Nino and La Nina cycles some species increase in nu
 
 The weather on the islands is classified as subtropical, with two main seasons:
  
-<B>Warm season - January to May</B>
+**Warm season - January to May**
 During this period the southeast winds slacken, warmer water from the Panama Basin moves in, the skies clear and the temperature rises.  There is a far more tropical feel at this time of year, including some occasional downpours!
  
 Average: 27°-32° C (80°-90°F), Periodic rain. A good time to visit for sunshine and warm, calmer seas.
  
-<B>Cool season (June to September)</B>  
+**Cool season (June to September)**  
  
 Known locally as the Garùa (misty) season, this part of the year sees generally cool air, often with foggy skies and choppy seas - under the influence of the Humboldt Current and the southeast trade winds. During this cool, period, the islands usually receive no more than 10 mm of rain per month.
 
 Average 15°-21° C (60°-70° F), mornings are often misty.  Good time to visit for increased underwater animal activity.
  
-<B>The short season</B> 
+**The short season** 
 As indicated by the months covered above, there is another brief component to the year, during which the Galapagos experiences a short dry season (October to December).
  
 Average 21°-27° C (70°-80°F).  Good time to visit for mild weather, combining land and underwater activities.
@@ -90,4 +90,4 @@ On average, visibility in the Galapagos is between 8 and 10m (25ft to 35ft) with
  
 [LINK BACK TO: Visiting the Galapagos - Introduction 
 
-[Our Diving](/our-diving/our-diving)
+Return to [Visiting us](/visiting/introduction)

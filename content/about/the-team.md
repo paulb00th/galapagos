@@ -3,11 +3,11 @@
 
 #### ABOUT US - INTRODUCTION
 
-<B>Galapagos Dive Academy</B> provides excellence in dive safety and instruction, while offering the highest levels of customer service available in the Galapagos Marine Reserve
+**Galapagos Dive Academy** provides excellence in dive safety and instruction, while offering the highest levels of customer service available in the Galapagos Marine Reserve
  
 Company principals, Claudia and Juan-Carlos offer over 35 years of combined experience as instructors and trip advisors, a wealth of expert local knowledge, and a real passion for the natural environment of the Galapagos islands.
  
-Set our below is a little background material about the team at <B>Galapagos Dive Academy</B>.
+Set our below is a little background material about the team at **Galapagos Dive Academy**.
  
 ##### Claudia Molina - PADI IDC Staff Instructor and co-owner.
 PHOTO 
@@ -31,7 +31,7 @@ Apart from working with Claudia and Juan-Carlos, I’m employed at the town’s 
  
 ##### Alan Jacome - PADI Free-Diving Instructor
 PHOTO
-Alan has recently joined us and we are delighted to now offer freediving instruction at <B>Galapagos Dive Academy</B>.  Details about Alan will be added shortly.
+Alan has recently joined us and we are delighted to now offer freediving instruction at **Galapagos Dive Academy**.  Details about Alan will be added shortly.
  
 ##### Sofia Geen - Divemaster
 PHOTO

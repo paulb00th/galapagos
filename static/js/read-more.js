@@ -7,10 +7,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
             if (target.style.display === "none") {
                 target.style.display = "block";
-                link.textContent = "Read less";
+                link.textContent = "Read less...";
             } else {
                 target.style.display = "none";
-                link.textContent = "Read more";
+                link.textContent = "Read more...";
             }
         });
     });

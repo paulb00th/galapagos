@@ -43,7 +43,7 @@ about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa 
     weight     = 1
 
 [[menu.main]]
-    name       = "Our Diving"
+    name       = "Diving"
     identifier = "menu.our-diving"
     weight     = 2
 
@@ -85,15 +85,37 @@ about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa 
 
 [[menu.main]]
     name       = "Accom/Travel"
-    identifier = "menu.acommodation"
+    identifier = "menu.accommodation"
     weight     = 3
-    url        = "/accom-travel"
+
+[[menu.main]]
+    name       = "Accommodation & Travel"
+    weight     = 1
+    parent     = "menu.accommodation"    
+    url        = "/accommodation/accom-travel"
+
+[[menu.main]]
+    name       = "Accommodation gallery"
+    weight     = 2
+    parent     = "menu.accommodation"    
+    url        = "/accommodation/accom-gallery"
 
 [[menu.main]]
     name       = "Tours"
     identifier = "menu.tours"
     weight     = 4
-    url        = "/tours"
+
+[[menu.main]]
+    name       = "Commercial tours"
+    weight     = 1
+    parent     = "menu.tours"    
+    url        = "/tours/commercial-tours"
+
+[[menu.main]]
+    name       = "Free tours"
+    weight     = 2
+    parent     = "menu.tours"    
+    url        = "/tours/free-tours"
 
 [[menu.main]]
     name       = "Visiting"
@@ -101,9 +123,9 @@ about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa 
     weight     = 5
 
 [[menu.main]]
-    name       = "Introuction"
+    name       = "Introduction"
     weight     = 1
-    parent     = "menu.visit"
+    parent     = "menu.visit"    
     url        = "/visiting/introduction"
 
 [[menu.main]]
@@ -113,10 +135,16 @@ about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa 
     url        = "/visiting/plan-your-trip"
 
 [[menu.main]]
-    name       = "Climate & dive conditions"
+    name       = "Currents, climate and dive conditions"
     weight     = 3
-    parent     = "menu.visit"
+    parent     = "menu.visit"    
     url        = "/visiting/climate-and-dive-conditions"
+
+[[menu.main]]
+    name       = "Your packing list"
+    weight     = 4
+    parent     = "menu.visit"    
+    url        = "/visiting/packing-list"
 
 [[menu.main]]
     name       = "About"
@@ -124,10 +152,10 @@ about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa 
     weight     = 6
 
 [[menu.main]]
-    name       = "Introduction"
+    name       = "The team"
     weight     = 1
     parent     = "menu.about"
-    url        = "/about/introduction"
+    url        = "/about/the-team"
 
 [[menu.main]]
     name       = "Gallery"

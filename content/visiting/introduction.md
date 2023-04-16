@@ -59,7 +59,3 @@ For those arriving on San Cristobal Island it is a short walk, or a very brief t
 
 See also our section: Entry requirements into Ecuador and the Galapagos
 LINK HERE 
-
-
-
-[Our Diving](/our-diving/our-diving)

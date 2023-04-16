@@ -5,7 +5,7 @@
 
 <span class="strapline">Expertly taught and fun to learn! </span>
 
-<B>Galapagos Dive Academy</B> is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centers and resorts.
+**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centers and resorts.
 
 PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
  
@@ -14,9 +14,9 @@ See our dive pricing here… LINK TO: 2.05 - Our Prices ENGLISH]
 
 #### DISCOVER SCUBA DIVING (DSD)
 
-The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI instructor.  Let the team at <B>Galapagos Dive Academy</B> introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
+The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI instructor.  Let the team at **Galapagos Dive Academy** introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
 
-<B>To join us for a DSD experience you must:</B>
+**To join us for a DSD experience you must:**
 
 <I>Be a minimum of 10 years old 
 

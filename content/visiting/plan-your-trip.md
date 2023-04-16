@@ -11,24 +11,24 @@ Almost all visitors to Ecuador can obtain a visa on arrival for a period of 90 d
 
 Entry into the Galapagos islands is fairly straightforward, but please be aware of the following:
 
-<B>1</B> - All flights to Galapagos originate on mainland Ecuador, there are no direct international connections.
+**1** - All flights to Galapagos originate on mainland Ecuador, there are no direct international connections.
 
-<B>2</B> - Due to flight times, it is usual for visitors to overnight on the mainland upon arrival, flying out to Baltra airport or San Cristobal airport the following day.
+**2** - Due to flight times, it is usual for visitors to overnight on the mainland upon arrival, flying out to Baltra airport or San Cristobal airport the following day.
 
-<B>3</B> - Tourists are usually limited to a maximum of 60 days residency per year. Please also bear in mind that visitors are required to undertake three key steps to actually enter the islands:
+**3** - Tourists are usually limited to a maximum of 60 days residency per year. Please also bear in mind that visitors are required to undertake three key steps to actually enter the islands:
 
-<B>i) Obtain and pay for a Transit Control Immigration Card for each person in your group, at either Quito or Guayaquil airport.</B>
+**i) Obtain and pay for a Transit Control Immigration Card for each person in your group, at either Quito or Guayaquil airport.**
 
 The Governing Council of Galapagos uses the Transit Control Card System to monitor visitors´ time spent in the islands.  The information you provide to obtain your TCC will be stored in a database that is accessible by the Governing Council’s Technical Secretary and institutional members, such as the Ecuadorian Ministries of Environment and Tourism. The Governing Council classifies the information collected as confidential and it will not be made available to the general public.
 
 You can go to the Ecuadorian Government’s special website page to complete your TCC before you arrive in country, or you can register in Ecuador just before you check in for your flight to the Galapagos form Quito or Guayaquil airport. Whichever method you choose, the TCC costs $20 per person.
 
-<B>ii) Go through Bio-security Bag Screening</B>
+**ii) Go through Bio-security Bag Screening**
 After you have collected your TCC and before you check in at the airline counter, you will need to pass all of your luggage through the Galapagos bio security screening x-ray machine.  There is a limited list of fresh fruit and vegetables, nut and grains, that you can carry into the Galapagos. Generally, anything purchased in a store that is still sealed and with a label is okay but be aware you might have organic goods confiscated.
 
 After you have your TCC documentation, have paid the fee for this, and have taken your bags through Bio security, you can check in (with your return tickets) at the counter of the airline with which you are flying.
 
-<B>iii) Pay your National Park Entrance Fee - in cash in USA dollars</B>
+**iii) Pay your National Park Entrance Fee - in cash in USA dollars**
 Upon arrival in the islands you will need to sign a declaration stating you are not traveling with anything that contravenes the bio-security regulations and pay the National Park entrance fee. There is an ATM in the airport, but please note that this does not always work.
 
 The National Park entrance fee varies according to the visitor, see below:
@@ -37,16 +37,16 @@ Foreign tourists (not Ecuadorian resident) and over 12 years of age: $100
 
 Foreign tourists, (not Ecuadorian resident) and under 12 years of age: $50
 
-Foreign tourists, (not Ecuadorian resident) and over 12 years of age, who belong to the Andean Community of Nations (CAN)** or MERCOSUR***: $50
+Foreign tourists, (not Ecuadorian resident) and over 12 years of age, who belong to the Andean Community of Nations (CAN)\* or MERCOSUR\*\*: $50
 
-Foreign tourists, (not Ecuadorian resident) and under 12 years of age, who belon to the Andean Community of Nations (CAN)** or MERCOSUR***: $25
+Foreign tourists, (not Ecuadorian resident) and under 12 years of age, who belon to the Andean Community of Nations (CAN)\* or MERCOSUR\*\*: $25
 
 National or foreign tourists residing in Ecuador, over 12 years of age: $6 
 
 National or foreign tourists residing in Ecuador, under 12 years of age: $3
 
-** CAN countries: Bolivia, Colombia, Peru.
-*** MERCOSUR countries: Argentina, Brazil, Paraguay, Uruguay, Venezuela.
+\* CAN countries: Bolivia, Colombia, Peru.
+\*\* MERCOSUR countries: Argentina, Brazil, Paraguay, Uruguay, Venezuela.
 
 Please remember that you will need to present the paperwork you are issued with during entry upon departure from your chosen airport in Galapagos, so don’t lose it
 
@@ -110,4 +110,4 @@ While these rules might seem excessive, following them is the only way to protec
 [LINK BACK TO: Visiting the Galapagos - Introduction ]
 
 
-[Our Diving](/our-diving/our-diving)
+Return to [Visiting us](/visiting/introduction)
