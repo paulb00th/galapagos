@@ -4,10 +4,9 @@
 #### TERMS & CONDITIONS
 
 1. Responsibilities
-Galapagos Dive Academy is the direct operator for all Galapagos Dive Academy daily diving services. In regard to all land tours, hotels and apartment bookings, long range day diving activities and cruises, these are contracted through third parties and Galapagos Dive Academy acts only as an intermediary agent for passengers contracting with such service providers.
+Galapagos Dive Academy is the direct operator for all Galapagos Dive Academy daily diving services. In regard to all land tours, hotels and apartment bookings, long range day diving activities and cruises, these are contracted through third parties and Galapagos Dive Academy acts only as an intermediary agent for passengers contracting with such service providers.  
 Galapagos Dive Academy takes no responsibility for accidents, loss, damage, delay, inconvenience, or any other irregularity that may be caused by defects of any vehicle, or through situations of omission, neglect or negligence of any of these third-party companies. Galapagos Dive Academy also accepts no responsibility for tour or service cancellations by third-party operators, as a result of vandalism, strikes, war, governmental actions, weather conditions, or other factors which imply additional expenses caused by delays, itinerary changes or other causes.
 Galapagos Dive Academy reserves the right to accept or reject any request for reservation by any client, and to cancel or change a tour or accommodation package, if circumstances so warrant. The request for service to our company will be understood as a consent to these conditions.
-
 
 2. Prices and Rates
 All prices and rates are in US dollars and are subject to change without notice, until payment has been made and proper confirmation of availability and price issued.
@@ -23,7 +22,6 @@ The confirmation of hotels is subject to availability, if your specified hotel i
 Payment for our services can only be made as set out in, ‘Payment Methods’ below.  Once a tour package booking is confirmed with a customer by e-mail, via a service voucher, the tour or package is guaranteed, unless cancellation arises due to the reasons set out above, under the category of responsibilities which are unrelated to Galapagos Dive Academy.
 
 5. Payment Policy
-
 All our direct supply tours / packages must be paid for, in full, 30 days prior to commencement, unless otherwise arranged with Galapagos Dive Academy.
 If booking third party services with us, please note that some companies require payment a full 60 days prior to commencement.  You will be notified of such terms during the reservation process.
 Payment Methods:
@@ -45,7 +43,6 @@ We also require passengers participating in diving or snorkelling tours to sign 
 We will send a request for all this information. 
 
 7. Luggage
-
 Clients/passengers are responsible for their own luggage.  Any claim for loss or theft should be directed to the relevant transport operator.
 
 8. Obligations
@@ -54,7 +51,6 @@ Any claim regarding any services not provided during a trip will only be accepte
 
 
 9. Cancellations (Cancellation, Return & Refund Policies).
-
 Cancellation by you: Individual passengers and passengers in groups – PADI Courses only:
 If you enroll in a PADI course you will receive digital material, once you redeem your code it cannot be returned. You will be able to use your PADI material with another dive center if you so choose.
 a) Cancellations made 45 days or more prior to service date - refund given minus any bank fees/service charges.  We will discount 100% of the PADI material. 
@@ -62,7 +58,6 @@ b) Cancellations made 44 to 30 days prior to service date - we will retain 35% o
 c) Cancellations made 29 days or less prior to service date - we will retain 70% of your deposit – refund given for the balance minus any bank fees/service charges. We will discount 100% of the PADI material.
 d) Cancellations made less than 48 hours prior to service date - we will retain 100% of the monies paid
 If the candidate/student cannot continue with a course for personal reasons, such as family tragedy, fear or illness, no refund will be offered. Your instructor will nevertheless give you a ‘Referral Form’ with all the exercises performed/completed which you can take to any PADI diving center worldwide and use towards the completion of your training with them. Such referrals are valid for 12 months.
-
 Cancellation by you: Individual passengers and groups – 3rd Party packages:
 a) Cancellations made 90 days or more prior to service date - refund given minus any bank fees/service charges
 b) Cancellations made 89 to 60 days prior to service date – we will retain 75% of the monies paid

@@ -1,33 +1,32 @@
 +++ 
 +++
 
-{{< figure src="/img/PADI-logo.png" class="align-left" width="30" >}}
+### Our Diving - The PADI Courses and Adventures we offer
 
-<span class="strapline">Galapagos Dive Academy</span> is affiliated with [PADI](https://www.padi.com) the Professional Association of Diving Instructors. With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centers and resorts. PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
+<span class="strapline">Expertly taught and fun to learn! </span>
+
+<B>Galapagos Dive Academy</B> is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centers and resorts.
+
+PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
  
 See our dive pricing here… LINK TO: 2.05 - Our Prices ENGLISH]
 
-### The PADI Courses and Adventures we offer
 
 #### DISCOVER SCUBA DIVING (DSD)
 
-The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI instructor.  Let the team at Galapagos Dive Academy introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
+The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI instructor.  Let the team at <B>Galapagos Dive Academy</B> introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
 
-To join us for a DSD experience you must:
- 
-Be a minimum of 10 years old 
+<B>To join us for a DSD experience you must:</B>
+
+<I>Be a minimum of 10 years old 
 
 Know how to swim
 
 Be free of heart disease, advanced respiratory disease, and any temporary congestion, such as influenza (flu)
 
-Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving
- 
-Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora office and teaching center, at the dive site named Punta Estrada[LINK TO: info. In document 2.10 - Our main dive sites].
- 
-During your experience we will aim to take you to a maximum depth of 12m for about 45 minutes.  Please bear in mind that the actual time you will spent underwater depends on your breathing pattern, so start practicing long slow breathing techniques today!
- 
-We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to each candidate or pair of candidates, up to a maximum of 4 participants assisted by 2 instructors.  
+Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving</I>
+
+Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora office and teaching center, at the dive site named Punta Estrada[LINK TO: info. In document 2.10 - Our main dive sites].  During your experience we will aim to take you to a maximum depth of 12m for about 45 minutes.  Please bear in mind that the actual time you will spent underwater depends on your breathing pattern, so start practicing long slow breathing techniques today!  We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to each candidate or pair of candidates, up to a maximum of 4 participants assisted by 2 instructors.
  
 Learn more about [our DSD course](/our-diving/more-about-dsd)
  
@@ -44,7 +43,7 @@ This is PADI’s most popular course worldwide, being designed so that the stude
 The Open Water course is in two parts. The first is academic and theoretical, and conducted with new easy to access online materials.  You can undertake this section slowly at home or in just a few days while on vacation.  The second part is a mix of confined (pool-based) and open water practical training during which you learn how to handle scuba equipment and become an independent diver.  This section usually takes 3 days to complete and provides for a total of 4-dives in the sea.  Following certification, you are qualified to a maximum depth of 18m.
  
 To join us for an Open Water course you must:
- 
+<blockquote> 
 Be a minimum of 10 years old 
 
 Know how to swim
@@ -52,7 +51,7 @@ Know how to swim
 Be free of heart disease, advanced respiratory disease, and any temporary congestion, such as influenza (flu)  
 
 Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving)
- 
+</blockquote>
 We teach the PADI Open Water course in Academy Bay, using several sites, these being: 
  
 Punta Estrada[LINK TO: info. In document 2.10 - Our main dive sites]

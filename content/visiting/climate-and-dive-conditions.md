@@ -1,6 +1,93 @@
 +++
 +++
 
-#### CLIMATE AND DIVE CONDITIONS
+#### Visiting the Galapagos - Currents, climate and dive conditions
+ 
+ <span class="strapline">Choose the right time for your trip...</span>
+
+ 
+##### The currents and their influence on life
+The Galapagos islands astonishingly rich marine environment results from the convergence of five major ocean currents and the equatorial weather influence.
+ 
+1 - The Humbolt current, named after explorer Alexander von Humboldt, sweeps north up the western coast of South America, past Chile and Peru, carrying cold, nutrient rich water from the Antarctic.  
+ 
+2 - This current turns west at the equator and joins the South Equatorial current before heading straight towards the Galapagos and helping to create one of the world’s most productive marine ecosystems.
+ 
+3 - The Panama current, which flows down from Central America, is not as nutrient rich as the Humboldt, but it brings warm diving and better visibility between December and May each year. 
+ 
+4 - The wind driven north ‘Equatorial Countercurrent’ that runs from west to east, cuts through the above currents and directs flow south down the coast.
+ 
+5 - The final, and possibly most important current is the Cromwell ‘Pacific Equatorial’ undercurrent which flows about 100 m below the surface, from west to east.  When it hits the Galapagos, first on the west coasts of Ferandina and Isabela, it provides an upwelling of more cool, nutrient rich waters. 
+ 
+If you take a liveaboard that visits Punta Vincente Roca on the northwest coast of Isabela, you will come to understand the cool nature of the Cromwell undercurrent!
+ 
+##### Life through the year
+As a result of these various influences, animal and plant life varies seasonally through the year (and cyclically, every 3 to 7 years, due to the fluctuations known as El Nino and La Nina).  Set out below is a general guide to the key marine animals that are present through the year:
+ 
+<B>Hammerhead Sharks</B>
+All year (but more frequent between February and June)
+ 
+<B>Sea Lions</B>
+All year
+ 
+<B>Reef Sharks</B>
+All year
+ 
+<B>Golden Rays</B>
+All year (but more frequent between January and June)
+ 
+<B>Eagle Rays</B>
+All year (but more frequent between January and June)
+ 
+<B>Green Sea Turtles</B>
+All year
+ 
+<B>Marine Iguanas</B>
+All year
+ 
+<B>Manta Rays</B>
+Most prolific between December and May
+ 
+<B>Mola Mola</B>
+Generally August to December/January
+ 
+<B>Whale Sharks</B>
+Generally, July to November
+ 
+Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.
+ 
+##### The local climate and dive conditions
+
+The weather on the islands is classified as subtropical, with two main seasons:
+ 
+<B>Warm season - January to May</B>
+During this period the southeast winds slacken, warmer water from the Panama Basin moves in, the skies clear and the temperature rises.  There is a far more tropical feel at this time of year, including some occasional downpours!
+ 
+Average: 27°-32° C (80°-90°F), Periodic rain. A good time to visit for sunshine and warm, calmer seas.
+ 
+<B>Cool season (June to September)</B>  
+ 
+Known locally as the Garùa (misty) season, this part of the year sees generally cool air, often with foggy skies and choppy seas - under the influence of the Humboldt Current and the southeast trade winds. During this cool, period, the islands usually receive no more than 10 mm of rain per month.
+
+Average 15°-21° C (60°-70° F), mornings are often misty.  Good time to visit for increased underwater animal activity.
+ 
+<B>The short season</B> 
+As indicated by the months covered above, there is another brief component to the year, during which the Galapagos experiences a short dry season (October to December).
+ 
+Average 21°-27° C (70°-80°F).  Good time to visit for mild weather, combining land and underwater activities.
+ 
+##### Sea Temperatures (Average)
+ 
+•    January – June: average 21°-27°C (70°-80°F)
+ 
+•    July – December: average 18°-23°C (65°-75°F)
+ 
+Depending upon the season during which you visit, we provide 5 to 7mm wetsuits, so that nobody is shivering rather than enjoying themselves!  In the cooler seasons we also provide accessories such as hoods.  If you are not used to cold seas or if you feel the cold more than others, please feel free to bring an extra base layer (although we do keep a few spares on hand).
+If you plan to snorkel, we recommend using a 3mm wetsuit during the cooler period of the year and a dive skin during the warmer period.  You can rent these locally or bring your own.
+ 
+##### Visibility
+On average, visibility in the Galapagos is between 8 and 10m (25ft to 35ft) with an increase to some 18m (60ft) on good days.  If you’re used to 20, 30, 40 or 50 m of visibility, don’t worry! A unique aspect of the Galapagos is that its wildlife is both abundant and often curious. You will be diving close enough to sea lions, sharks, rays and other animals that the difficulty is most often choosing where to look, not the vis!
+ 
+[LINK BACK TO: Visiting the Galapagos - Introduction 
 
 [Our Diving](/our-diving/our-diving)

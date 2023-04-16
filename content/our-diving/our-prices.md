@@ -1,7 +1,9 @@
 +++
 +++
 
-#### Our prices
+### Our prices
+
+<span class="strapline">The best prices on the Islands, delivering the best quality experiences </span>
 
 ##### Course fees
 
@@ -62,4 +64,4 @@ $25
 Logbooks
 $12
 
-[Our Diving](/our-diving/our-diving)
+Return to [Our Diving](/our-diving/our-diving)
