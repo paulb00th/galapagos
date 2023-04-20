@@ -1,15 +1,22 @@
 +++
 +++
 
-#### TOURS - Commercial land- and water-based day-trip tours from Santa Cruz
+### TOURS - Commercial land- & water-based day-trips
 
+{{< figure src="/img/Bartolome-bay.png" class="align-right full-width-on-small" >}}
  
 <span class="strapline">Organised by professionals, with professionals, to improve the experience of a lifetime!</span>
 
-Our land- and sea-based day trips can take you across wonderful Santa Cruz Island itself, where we are based, or far beyond to many of the surrounding islands that comprise our magnificent archipelago.  Whether you want to snorkel with the local sea life or marvel at tortoises or huge bird colonies, we can show you to the best the islands have to offer.  Here’s a brief taster of the daytrips we can arrange, all perfect for the resting diver and non-diver alike.  If you would like further inforrmation, ask us for an e-brochure!
+Our land- and sea-based day trips can take you across wonderful Santa Cruz Island itself, where we are based, or far beyond to many of the surrounding islands that comprise our magnificent archipelago.  
 
+Whether you want to snorkel with the local sea life or marvel at tortoises or huge bird colonies, we can show you to the best the islands have to offer.  Here’s a brief taster of the daytrips we can arrange, all perfect for the resting diver and non-diver alike.  
+
+If you would like further inforrmation, request an e-brochure and let us power-up your imagination!  
+
+Interested, then [Contact Us](/contact)
+ <Br></B>
 ##### Bartolome Island
-A wild and unearthly moon-scape-like lava landscape, with penguins and giant rocks.   
+A wild and unearthly moon-scape-like lava landscape, with penguins and giant rocks. See the image to the right! 
 ##### Floreana Island
 Explore some of the finest snorkelling in the Galapagos.  
 ##### Highlands of Santa Cruz
@@ -25,8 +32,11 @@ Wonderful, picturesque, and rich with opportunities to swim and snorkel.
 ##### Santa Fe & Playa Escondida
 Fabulous swimming and snorkelling locations.
 
- 
-#### TOURS - multiday land- and water-based tours:
+{{< image-row images="/img/about/600PG-Booby-nest.png,/img/about/600PG-Bird-flight.png,/img/about/600PG_Preening-bird.png,"paddingTop="10px" >}}
+
+### TOURS - Commercial multiday land- & water-based tours
+
+{{< figure src="/img/Iguana-image.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Longer tours, to extend the experience of a lifetime!</span>
 

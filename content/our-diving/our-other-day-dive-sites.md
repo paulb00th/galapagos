@@ -9,7 +9,7 @@ Go directly to the list of day dive sites ANCHOR
 
 #### Introduction
 
-{{< figure src="/img/Bartolome-bay.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/G_ROCKS.png" class="align-right full-width-on-small" >}}
 
 When **Galapagos Dive Academy** clients hold a PADI Advanced Open Water qualification or higher and have at minimum 25 logged dives, (or have amassed a comparable level of knowledge and experience) we collaborate with the best of the other scuba operators in town to widen the variety of sites that can be visited.  This ensures that our customers can experience the full breadth of the underwater world in the Galapagos as they explore our legendary archipelago.
 
@@ -178,7 +178,7 @@ Description:  Visitors have for some time been forbidden to go ashore on North P
 
 White tipped reef sharks, marble and diamond rays, and waving fields of Galapagos garden-eels are found in sandy patches throughout this area. 
 
-Huge schools of yellowtail surgeonfish, yellow tailed mullet and lots of parrotfish in generally present in the shallows. Pelagics, including hammerheads and Galápagos sharks, are most often at the eastern end of the islet. During the warm season (January- May in particular) this point can also be very good for manta rays, which are attracted to the local cross current.
+Huge schools of yellowtail surgeonfish, yellow tailed mullet and lots of parrotfish are generally present in the shallows. Pelagics, including hammerheads and Galápagos sharks, are most often at the eastern end of the islet. During the warm season (January- May in particular) this point can also be very good for manta rays, which are attracted to the local cross current.
 
 Sea lions at this site are almost constant ‘buddies’ and during the hot season solitary whale sharks are occasional visitors.
 
@@ -194,7 +194,7 @@ Dive Difficulty: Qualification required, Open Water Diver.  Easy shallow diving 
 
 Location: To the southeast of Santa Cruz Island.
 
-Description:  Santa Fe is renowned for offering some of the easiest diving in the Galapagos Islands, with a mean depth of 18 m. But the location’s easily negotiated dive sites do not diminish the beauty on offer at La Bahia and El Arco, the two main dive sites.  Sea lions, turtles, whitetip reef sharks, rays, and large assemblies of schooling fish are ever present, along with corals and sponges.  An easily negotiated cavern/cave dive at 16 meters also makes for a pleasant experience for both novice and experienced divers alike.
+Description:  Santa Fe is renowned for offering some of the easiest diving in the Galapagos Islands, with a mean depth of 18 m. But the location’s easily negotiated dive sites do not diminish the beauty on offer at La Bahia and El Arco, the two main dive sites.  Sea lions, turtles, whitetip reef sharks, rays, and large assemblies of schooling fish are ever present, along with corals and sponges.  An easily negotiated cavern/cave dive, at 16 meters, also makes for a pleasant experience for both novice and experienced divers alike.
 
 <div class="grey-bar"></div>
 
@@ -238,8 +238,8 @@ Please note that we can likely find you better priced last-minute deals, at betw
 
 When you are ready to start the booking process, please complete the fields in the Contact Us form and set out your personal requirements in the text box provided.  One of our team will be in contact soon after we receive your details. 
 
-See our other dive prices… LINK TO: 2.05 - Our Prices ENGLISH]
+[See our dive pricing](/our-diving/our-prices)
 
-See our Terms & Conditions…[LINK TO: 6.02 - Ts and Cs ENGLISH]
+[See our Terms & Conditions](/about/terms-and-conditions)
 
 Return to [Our Diving](/our-diving/our-diving)

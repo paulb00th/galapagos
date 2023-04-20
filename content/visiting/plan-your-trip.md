@@ -1,11 +1,11 @@
 +++
 +++
 
-#### Visiting the Galapagos - Entry requirements into Ecuador and the islands
+### VISITING THE GALAPAGOS - Plan your trip
 
-<span class="strapline">The essentials to get you here...</span>
+<span class="strapline">The essentials regarding entry into Ecuador and the islands...</span>
 
-
+{{< figure src="/img/Arriving.png" class="align-right full-width-on-small" >}}
  
 Almost all visitors to Ecuador can obtain a visa on arrival for a period of 90 days, provided their passport is valid for 6 months or more and they hold a return ticket. However, we always recommend that you double-check regarding up to the minute entry requirements with your local Ecuadorian Consulate. 
 
@@ -80,34 +80,28 @@ Park rules are necessarily strict, as human interaction with endemic species and
 
 The most important rules when exploring the islands are as follows:
 
-1	Do not take food to the islands (especially organic products)
+**1**	- Do not take food to the islands (especially organic products)
 
-2	Clean the soles of your shoes before disembarking onto a new island. You may be carrying seeds endemic to one island that should not be introduced to another.
-
-
-3	Always follow marked trails, or your guide
-
-4	Do not touch animals
+**2** -	Clean the soles of your shoes before disembarking onto a new island. You may be carrying seeds endemic to one island that should not be introduced to another.
 
 
-5	Do not take souvenirs (rocks/shells, etc)
+**3** -	Always follow marked trails, or your guide
 
-6	Do not get too close to animals (especially newborn animals and juveniles).  The rule is generally. keep 2 m distance.
-
-
-7	Do not drop/leave litter
-
-8	Do not smoke in the National Park
+**4** -	Do not touch animals
 
 
-9	Always stay with your group.
+**5** -	Do not take souvenirs (rocks/shells, etc)
 
-While these rules might seem excessive, following them is the only way to protect our unique archipelago for future generations.
-
-
+**6** -	Do not get too close to animals (especially newborn animals and juveniles).  The rule is generally. keep 2 m distance.
 
 
-[LINK BACK TO: Visiting the Galapagos - Introduction ]
+**7** -	Do not drop/leave litter
+
+**8** -	Do not smoke in the National Park
 
 
+**9** -	Always stay with your group.
+
+**While these rules might seem excessive, following them is the only way to protect our unique archipelago for future generations.**
+<Br></Br>
 Return to [Visiting us](/visiting/introduction)

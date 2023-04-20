@@ -1,12 +1,13 @@
 +++
 +++
 
-#### Visiting the Galapagos - Currents, climate and dive conditions
- 
- <span class="strapline">Choose the right time for your trip...</span>
+### VISITING THE GALAPAGOS - Currents, climate and dive conditions
 
- 
-##### The currents and their influence on life
+<span class="strapline">Choose the right time for your trip...</span>
+
+{{< figure src="/img/visiting/Currents2.png" class="align-right full-width-on-small" >}}
+
+#### The currents and their influence on life
 The Galapagos islands astonishingly rich marine environment results from the convergence of five major ocean currents and the equatorial weather influence.
  
 1 - The Humbolt current, named after explorer Alexander von Humboldt, sweeps north up the western coast of South America, past Chile and Peru, carrying cold, nutrient rich water from the Antarctic.  
@@ -20,8 +21,8 @@ The Galapagos islands astonishingly rich marine environment results from the con
 5 - The final, and possibly most important current is the Cromwell ‘Pacific Equatorial’ undercurrent which flows about 100 m below the surface, from west to east.  When it hits the Galapagos, first on the west coasts of Ferandina and Isabela, it provides an upwelling of more cool, nutrient rich waters. 
  
 If you take a liveaboard that visits Punta Vincente Roca on the northwest coast of Isabela, you will come to understand the cool nature of the Cromwell undercurrent!
- 
-##### Life through the year
+
+#### Life through the year
 As a result of these various influences, animal and plant life varies seasonally through the year (and cyclically, every 3 to 7 years, due to the fluctuations known as El Nino and La Nina).  Set out below is a general guide to the key marine animals that are present through the year:
  
 **Hammerhead Sharks**
@@ -54,9 +55,9 @@ Generally August to December/January
 **Whale Sharks**
 Generally, July to November
  
-Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.
- 
-##### The local climate and dive conditions
+*Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.*
+
+#### The local climate and dive conditions
 
 The weather on the islands is classified as subtropical, with two main seasons:
  
@@ -75,19 +76,19 @@ Average 15°-21° C (60°-70° F), mornings are often misty.  Good time to visi
 As indicated by the months covered above, there is another brief component to the year, during which the Galapagos experiences a short dry season (October to December).
  
 Average 21°-27° C (70°-80°F).  Good time to visit for mild weather, combining land and underwater activities.
- 
-##### Sea Temperatures (Average)
+
+#### Sea Temperatures (Average)
  
 •    January – June: average 21°-27°C (70°-80°F)
  
 •    July – December: average 18°-23°C (65°-75°F)
  
 Depending upon the season during which you visit, we provide 5 to 7mm wetsuits, so that nobody is shivering rather than enjoying themselves!  In the cooler seasons we also provide accessories such as hoods.  If you are not used to cold seas or if you feel the cold more than others, please feel free to bring an extra base layer (although we do keep a few spares on hand).
+
 If you plan to snorkel, we recommend using a 3mm wetsuit during the cooler period of the year and a dive skin during the warmer period.  You can rent these locally or bring your own.
- 
-##### Visibility
+
+#### Visibility
 On average, visibility in the Galapagos is between 8 and 10m (25ft to 35ft) with an increase to some 18m (60ft) on good days.  If you’re used to 20, 30, 40 or 50 m of visibility, don’t worry! A unique aspect of the Galapagos is that its wildlife is both abundant and often curious. You will be diving close enough to sea lions, sharks, rays and other animals that the difficulty is most often choosing where to look, not the vis!
- 
-[LINK BACK TO: Visiting the Galapagos - Introduction 
+
 
 Return to [Visiting us](/visiting/introduction)

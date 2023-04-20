@@ -1,11 +1,13 @@
 +++
 +++
 
-#### TOURS - Free (and almost free) activities
+### TOURS - Free, and almost free, activities for all
+
+{{< figure src="/img/Feet.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Economy choices, no less full of fun!</span>
-
-Land-based day trips around the Puerto Ayora area on Santa Cruz Island that you can organise for yourself:
+<B></B>
+Here;s a list of land-based day trips around the Puerto Ayora area on Santa Cruz Island that you can organise for yourself:
  
 ##### Tortuga Bay:
 2 km west of Puerto Ayora, accessed via footpath (40-minute walk) or paid water ferry.  Open from 6am to 6pm.
@@ -47,3 +49,5 @@ Garrapatero offers a wide bay with multiple sandy beaches and tidal pools, it’
 North of Bellavista, Santa Cruz Island
  
 A path leads from the settlement of Bellavista towards Cerro Crocker, the high point on the island at 864 m. Follow this for several kilometres to Cerro Crocker/Media Luna.  From the high points, it’s possible to see the vegetation of the Scalesia, Miconia and fern-sedge zones around the island, and to look for birds such as the elusive Galapagos Rail and the Paint Billed crake. 
+
+{{< image-row images="/img/free-tours/Cero-C-600.png,/img/free-tours/Las-Grietas-600.png,/img/free-tours/Garrapatero-B-600.png,"paddingTop="10px" >}}
