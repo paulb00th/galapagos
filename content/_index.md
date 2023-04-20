@@ -4,7 +4,7 @@ title = "Home"
 
 {{< figure src="/img/570x285.png" alt="Trainees being introduced to their scuba diving equipment" class="align-right full-width-on-small" >}}
 
-<span class="strapline">GALAPAGOS DIVE ACADEMY - DESIGNED TO IMPROVE THE EXPERIENCE OF A LIFETIME!</span>
+<span class="large-strapline">GALAPAGOS DIVE ACADEMY - DESIGNED TO IMPROVE THE EXPERIENCE OF A LIFETIME!</span>
 
 #### We provide:
 

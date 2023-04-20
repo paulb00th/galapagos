@@ -94,6 +94,13 @@ img {
     font-weight: bold;
 }
 
+.large-strapline {
+    color: #DF4538;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
 /* -- Read more -- */
 
 .hidden-text {
