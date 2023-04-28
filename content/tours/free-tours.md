@@ -33,8 +33,11 @@ A 4-5 minute walk after taking a water taxi ride across the main bay in Puerta A
 
 The best time to visit German Beach is at high tide: you’ll find more water and fewer rocks!  This small bay with a gradual shelving beach is one of the the best swimming spots in Puerto Ayora and a nice stop on the way to Las Grietas - see immediately below. 
 
-*Set out above, images of the Darwin centre, Station and German beaches.*
-{{< image-row images="/img/free-tours/CD-centre-600.png,/img/free-tours/Station-B-600.png,/img/free-tours/German-B-600.png,"paddingTop="10px" >}}
+{{< 
+image-row 
+title="Set out below, images of the Darwin centre, Station and German beaches."
+images="/img/free-tours/CD-centre-600.png,/img/free-tours/Station-B-600.png,/img/free-tours/German-B-600.png" paddingTop="10px"
+>}}
 
 ##### Las Grietas:
 
@@ -54,5 +57,10 @@ North of Bellavista, Santa Cruz Island
  
 A path leads from the settlement of Bellavista towards Cerro Crocker, the high point on the island at 864 m. Follow this for several kilometres to Cerro Crocker/Media Luna.  From the high points, it’s possible to see the vegetation of the Scalesia, Miconia and fern-sedge zones around the island, and to look for birds such as the elusive Galapagos Rail and the Paint Billed crake. 
 
-{{< image-row images="/img/free-tours/Las-Grietas-600.png,/img/free-tours/Garrapatero-B-600.png,/img/free-tours/Cero-C-600.png,"paddingTop="10px" >}}
-*Set out above, images of Las Grietas, Garrapatero Beach and Cerro Crocker.*
+{{< 
+image-row 
+title="Set out below, images of Las Grietas, Garrapatero Beach and Cerro Crocker."
+images="/img/free-tours/Las-Grietas-600.png,/img/free-tours/Garrapatero-B-600.png,/img/free-tours/Cero-C-600.png" 
+paddingTop="10px"
+>}}
+

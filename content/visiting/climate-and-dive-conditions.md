@@ -55,9 +55,13 @@ Generally August to December/January
 **Whale Sharks**
 Generally, July to November
  
-*Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.*
-
-{{< image-row images="/img/visiting/Climate-600-galapagos_fish1.png,/img/visiting/Climate-600-galapagos_fish2.png,/img/visiting/Climate-600-galapagos_fish3.png" paddingTop="10px" >}}
+{{< 
+image-row 
+title="Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation."
+images="/img/visiting/Climate-600-galapagos_fish1.png,/img/visiting/Climate-600-galapagos_fish2.png,/img/visiting/Climate-600-galapagos_fish3.png" 
+paddingTop="10px"
+paddingBottom="0px" 
+>}}
 
 #### The local climate and dive conditions
 
