@@ -33,6 +33,12 @@ logo = "img/gda-logo.png"
 logo_small = "img/gda-logo.png"
 about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa Cruz<br/>200350<br/>Puerto Ayora<br/>Ecuador</p>"
 
+formspree_action = "https://formspree.io/f/xknakdek"
+contact_form_ajax = false
+
+enableRecaptchaInContactForm = true
+googleRecaptchaKey = "6LccvsUlAAAAAO_vHnZrMaQ2CaKEsv_Ara723nBm"
+
 [menu]
 
 # Main menu
