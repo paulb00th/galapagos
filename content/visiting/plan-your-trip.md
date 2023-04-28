@@ -103,5 +103,6 @@ The most important rules when exploring the islands are as follows:
 **9** -	Always stay with your group.
 
 **While these rules might seem excessive, following them is the only way to protect our unique archipelago for future generations.**
-<Br></Br>
+
+**-**
 Return to [Visiting us](/visiting/introduction)

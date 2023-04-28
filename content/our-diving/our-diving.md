@@ -11,6 +11,8 @@
  
 [See our dive pricing](/our-diving/our-prices)
 
+[See our Terms & Conditions](/about/terms-and-conditions)
+
 #### Discover Scuba Diving (DSD)
 
 The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI instructor.  Let the team at **Galapagos Dive Academy** introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
@@ -121,7 +123,7 @@ Learn more about our [PADI Advanced Open Water course](/our-diving/more-about-ao
  
 If you would like to book our PADI Advanced Open Water course please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/AOW3.png,/img/our-diving/AOW2.png,/img/our-diving/AOW1.png" paddingTop="10px" >}}
+{{< image-row images="/img/our-diving/AOW1.png,/img/our-diving/AOW2.png,/img/our-diving/AOW3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 

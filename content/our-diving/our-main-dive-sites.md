@@ -3,7 +3,7 @@
 
 ### OUR MAIN DIVE SITES
 
-{{< figure src="/img/GDA-dive-sites.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/GDA-dive-sites2.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Selected, safe and sheltered locations close to our dive centre and the town</span>
  
@@ -17,7 +17,7 @@ Set out below is a brief description of each site.
 
 #### PUNTA ESTRADA
 
-{{< figure src="/img/main-dive-sites/300_OurDsites1.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/main-dive-sites/300_OurDsites1.1.png" class="align-right full-width-on-small" >}}
 
 Travel duration:  Approx. 10 mins from Puerto Ayora.
 
@@ -36,7 +36,7 @@ We cannot recommend a better place to train in the Galapagos than Punta Estrada,
 
 #### LOBERIA (Caamaño Islet)
 
-{{< figure src="/img/main-dive-sites/300_OurDsites2.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/main-dive-sites/300_OurDsites1.2.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 15 - 20 mins from Puerto Ayora.
 
@@ -54,7 +54,7 @@ Loberia is also a site much loved by Free Divers and is an excellent choice for 
 
 #### EL BAJO
 
-{{< figure src="/img/main-dive-sites/300_OurDsites3.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/main-dive-sites/300_OurDsites1.3.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 15 mins from Puerto Ayora.
 
@@ -62,7 +62,7 @@ Dive Difficulty: Ideal for 'advanced' students & clients taking a re-activate co
 
 Location: To the south-west side of the bay.
 
-Description:  A seamount rising from 40 m to approx. 10 m, this is an ideal location to practice when taking the Advanced course.  Our clients can experience current and depth in controlled conditions and will likely see pelagic species such as hammerhead sharks, eagle rays, sea turtles as well as reef fish.
+Description:  A seamount rising from 40 m to approx. 10 m, this is an ideal location to practice when taking the Advanced course. Our clients can experience current and depth in controlled conditions and will likely see pelagic species such as hammerhead and reef sharks, eagle rays, sea turtles, and schooling fish.
 
 Sometimes, El Bajo even provides divers witht he chance to watch canoodling octopus!
 
@@ -90,4 +90,5 @@ There is the chance to enter a small cavern at this location, in which it is com
 
 [See our Terms & Conditions](/about/terms-and-conditions)
 
+**-**
 Return to [Our Diving](/our-diving/our-diving)

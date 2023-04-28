@@ -11,7 +11,9 @@ We are espacially grateful to the following for their contributions to the Galle
 
 **Joshua Vela,**
 **Naire - Thanaporn Sajjavanij,**
+**Nick T,**
 and 
-**Nick T**
+**The Galapagos Dive Academy Team**
+
 
 {{< image-row images="/img/about/600PG-Booby-nest.png,/img/about/600PG-Bird-flight.png,/img/about/600PG_Preening-bird.png,"paddingTop="10px" >}}

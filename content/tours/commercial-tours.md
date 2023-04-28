@@ -3,7 +3,7 @@
 
 ### TOURS - Commercial land & water based day-trips
 
-{{< figure src="/img/Bartolome-bay.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/Iguana-image.png" class="align-right full-width-on-small" >}}
  
 <span class="strapline">Organised by professionals, with professionals, to improve the experience of a lifetime!</span>
 
@@ -36,7 +36,7 @@ Fabulous swimming and snorkelling locations.
 
 ### TOURS - Commercial multiday land & water based tours
 
-{{< figure src="/img/Iguana-image.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/Bartolome-bay.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Longer tours, to extend the experience of a lifetime!</span>
 
@@ -92,9 +92,10 @@ Flights
 National Park entrance fee ($100 payable on arrival at Baltra airport)
 Tourist card ($20 payable in airport in Quito or Guayaquil prior to outbound island flight)
 Most evening meals 
- 
-##### Day-tours verses multi-day activities?
 
+{{< image-row images="/img/1Sealion.png,/img/2Penguins.png,/img/3Pelican.png,"paddingTop="10px" >}}
+
+##### Day-tours verses multi-day activities?
 We are regularly asked by visitors whether multi-day trips/cruises or day tours are the better option.  The truth is, both have a lot to offer.
 The positive side of some cruise boats is that they take you to islands that cannot be visited during one-day tours. On the other hand, some day vessels visit the same sites as the cruise ships.  Bear in mind also that when cruising, you are on a multiday break, so your trip has no set pause points while its ongoing and is perhaps more relaxing.   
 Day tours, on the other hand, are usually done by 5pm, so you’re back to your hotel each evening and able to stroll around the town to look for dinner and a drink.  And, of course, if you are not naturally comfortable on a boat, you don’t fee awful throughout your whole trip!

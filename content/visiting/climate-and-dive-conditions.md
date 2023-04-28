@@ -57,6 +57,8 @@ Generally, July to November
  
 *Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.*
 
+{{< image-row images="/img/visiting/Climate-600-galapagos_fish1.png,/img/visiting/Climate-600-galapagos_fish2.png,/img/visiting/Climate-600-galapagos_fish3.png" paddingTop="10px" >}}
+
 #### The local climate and dive conditions
 
 The weather on the islands is classified as subtropical, with two main seasons:
@@ -90,5 +92,5 @@ If you plan to snorkel, we recommend using a 3mm wetsuit during the cooler perio
 #### Visibility
 On average, visibility in the Galapagos is between 8 and 10m (25ft to 35ft) with an increase to some 18m (60ft) on good days.  If you’re used to 20, 30, 40 or 50 m of visibility, don’t worry! A unique aspect of the Galapagos is that its wildlife is both abundant and often curious. You will be diving close enough to sea lions, sharks, rays and other animals that the difficulty is most often choosing where to look, not the vis!
 
-
+**-**
 Return to [Visiting us](/visiting/introduction)

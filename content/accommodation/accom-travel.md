@@ -17,5 +17,7 @@ To help make the most of your stay, why not have us organise an integrated trave
 
 Feel free to [Contact Us](/contact)
 
+Set out below, three images showing one of the island’s public buses, a water taxi and a local cab (inevitable, a white pick-up truck).
 
-{{< image-row images="/img/accom-travel/Footer-image1.png,/img/accom-travel/Footer-image2.png,/img/accom-travel/Footer-image3.png"paddingTop="10px" >}}
+
+{{< image-row images="/img/accom-travel/Bus.png,/img/accom-travel/Wtaxi.png,/img/accom-travel/Ltaxi.png"paddingTop="10px" >}}

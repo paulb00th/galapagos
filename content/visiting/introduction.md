@@ -60,6 +60,6 @@ Morning ferries servicing Santa Cruz, Isabela, and San Cristobal generally depar
 #### Intra-island air travel
 There are small passenger planes that regularly fly between Baltra, Isabela and San Cristobal, at a cost of approx $170 per leg. Although expensive, those who suffer from sea sickness might find this a more comfortable way to travel, especially in the colder season when the ocean is rough.
 
-<br></Br>
+**-**
 For details of the entry requirements to visit the Galapagos[See 'Plan Your Trip'](/our-diving/our-prices)
 

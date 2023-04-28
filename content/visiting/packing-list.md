@@ -52,5 +52,6 @@ Mask & snorkel
 Perhaps an exposure suit lycra rash vest, neoprene skin, or similar - *it’s easy to burn in/on the water*
 
 Perhaps also your full dive kit - *but note all this gear can be rented once you’re here*
- 
+
+**-**
 Return to [Visiting us](/visiting/introduction)
