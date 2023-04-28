@@ -1,0 +1,14 @@
+{{ $images := split (.Get "images") "," }}
+{{ $altText := split (.Get "alt") "," }}
+{{ $paddingTop := default "" (.Get "paddingTop") }}
+{{ $paddingBottom := default "" (.Get "paddingBottom") }}
+
+<div class="image-row" style="padding-top: {{ $paddingTop }}; padding-bottom: {{ $paddingBottom }}">
+    {{ range $index, $image := $images }}
+        <div class="image-wrapper">
+            <a href="{{ $image | safeURL }}" class="lightbox-image gallery">
+                <img src="{{ $image | safeURL }}" alt="{{ index $altText $index }}" title="{{ index $altText $index }}">
+            </a>
+        </div>    
+    {{ end }}
+</div>

@@ -14,4 +14,17 @@ We are espacially grateful to the following for their contributions to the Galle
 and 
 **Nick T**
 
-{{< image-row images="/img/about/600PG-Booby-nest.png,/img/about/600PG-Bird-flight.png,/img/about/600PG_Preening-bird.png,"paddingTop="10px" >}}
+<ul>
+{{< 
+gallery-row 
+images="/img/gallery/R1-1.JPG,/img/gallery/R1-2.JPG,/img/gallery/R1-3.JPG"
+alt="Photo 1,Photo 2,Photo 3"
+paddingTop="10px" 
+>}}
+
+{{< 
+gallery-row 
+images="/img/gallery/R1-1.JPG,/img/gallery/R1-2.JPG,/img/gallery/R1-3.JPG"
+alt="Photo 4,Photo 5,Photo 6"
+>}}
+<ul/>
