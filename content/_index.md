@@ -10,7 +10,7 @@ title = "Home"
 
 **High quality instruction for novice divers, in the safe waters of Academy Bay.**  This perfect training environment is set adjacent to the Charles Darwin Centre in Puerto Ayora and has dive sites just 10 minutes from the town’s harbour.
 
-**Access to the best dive- and land-based operators on the islands.**  If you're already confident diving in the big blue or simply want to explore the wonders of Galapagos verde (green Galapagos), let us connect you to the most professional service-providers available.
+**Access to the best dive and land based operators on the islands.**  If you're already confident diving in the big blue or simply want to explore the wonders of Galapagos verde (green Galapagos), let us connect you to the most professional service-providers available.
 
 **Support to international film crews.**  If you’ve seen the BBC’s [Blue Planet](https://www.bbcearth.com/shows/blue-planet), presented by David Attenborough, or [My Family & The Galapagos](https://www.channel4.com/programmes/my-family-and-the-galapagos), presented by Monty Halls, our team was there, taking care of the safety diving, the remote camping, the logistics, etc.
 
@@ -27,7 +27,7 @@ Let **Galapagos Dive Academy** teach you to the highest of standards in the safe
 
 Besides offering the highest quality dive training, **Galapagos Dive Academy** specialises in providing:
 
-1) Access to the most professional dive and land-based operators on the islands; perfect for clients seeking the big blue, or who want to take a break from the water and explore the land.
+1) Access to the most professional dive and land based operators on the islands; perfect for clients seeking the big blue, or who want to take a break from the water and explore the land.
 
 2) Support for international film crews working in the islands.  **Galapagos Dive Academy** regularly provides safety-diver cover, remove camping services, assistance with filming permits, dive boats, captains, specialised guides, supplies, transportation, accommodation, and more...
 
