@@ -3,7 +3,7 @@
 
 ### OUR PRICES
 
-{{< figure src="/img/GDA-invoice-graphic_Bedge2.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/GDA-invoice.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">The best prices on the Islands, delivering the best quality experiences </span>
  
@@ -54,6 +54,10 @@ $150 per person
 **Long range day dive tours**
 $250 to $270 per person
 
+**Night Dive Experience**
+1 diver, $305
+2 or more students, $180 each
+
 **Private Guide to accompany diver/dive group on 3rd party boat**
 $130 per day
 
@@ -66,4 +70,5 @@ $25
 **Logbooks**
 $12
 
+**-**
 Return to [Our Diving](/our-diving/our-diving)

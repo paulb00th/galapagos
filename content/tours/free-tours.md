@@ -32,9 +32,13 @@ This beach is small but perfect on a hot day. It is on the way into the Charles 
 A 4-5 minute walk after taking a water taxi ride across the main bay in Puerta Ayora.
 
 The best time to visit German Beach is at high tide: you’ll find more water and fewer rocks!  This small bay with a gradual shelving beach is one of the the best swimming spots in Puerto Ayora and a nice stop on the way to Las Grietas - see immediately below. 
- 
+
+*Set out above, images of the Darwin centre, Station and German beaches.*
+{{< image-row images="/img/free-tours/CD-centre-600.png,/img/free-tours/Station-B-600.png,/img/free-tours/German-B-600.png,"paddingTop="10px" >}}
+
 ##### Las Grietas:
-Accessed via footpath (40-minute walk to the west of town) or paid water ferry.  Open from 6am to 7pm 
+
+Accessed via footpath (40-minute walk to the west of town) or paid water ferry. Open from 6am to 7pm.
  
 Las Grietas is a series of water filled crevices in the rocks adjacent to the seacoast of the island. The water is cool, clear, and perfect for snorkelling on a hot day.  Note - Please don’t take valuables to this site, they are easily lost in the deep water and some cameras and cell phones have been stolen there.
  
@@ -50,4 +54,5 @@ North of Bellavista, Santa Cruz Island
  
 A path leads from the settlement of Bellavista towards Cerro Crocker, the high point on the island at 864 m. Follow this for several kilometres to Cerro Crocker/Media Luna.  From the high points, it’s possible to see the vegetation of the Scalesia, Miconia and fern-sedge zones around the island, and to look for birds such as the elusive Galapagos Rail and the Paint Billed crake. 
 
-{{< image-row images="/img/free-tours/Cero-C-600.png,/img/free-tours/Las-Grietas-600.png,/img/free-tours/Garrapatero-B-600.png,"paddingTop="10px" >}}
+{{< image-row images="/img/free-tours/Las-Grietas-600.png,/img/free-tours/Garrapatero-B-600.png,/img/free-tours/Cero-C-600.png,"paddingTop="10px" >}}
+*Set out above, images of Las Grietas, Garrapatero Beach and Cerro Crocker.*

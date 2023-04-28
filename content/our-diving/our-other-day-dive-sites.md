@@ -242,4 +242,5 @@ When you are ready to start the booking process, please complete the fields in t
 
 [See our Terms & Conditions](/about/terms-and-conditions)
 
+**-**
 Return to [Our Diving](/our-diving/our-diving)
