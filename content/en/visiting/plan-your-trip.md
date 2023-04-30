@@ -5,7 +5,7 @@
 
 <span class="strapline">The essentials regarding entry into Ecuador and the islands...</span>
 
-{{< figure src="/img/Arriving.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/Arriving.png" class="align-right full-width-on-small" >}}
  
 Almost all visitors to Ecuador can obtain a visa on arrival for a period of 90 days, provided their passport is valid for 6 months or more and they hold a return ticket. However, we always recommend that you double-check regarding up to the minute entry requirements with your local Ecuadorian Consulate. 
 

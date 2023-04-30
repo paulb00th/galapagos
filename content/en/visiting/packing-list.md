@@ -5,7 +5,7 @@
 
 <span class="strapline">This might help!</span>
 
-{{< figure src="/img/visiting/Travel-docs.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/visiting/Travel-docs.png" class="align-right full-width-on-small" >}}
 
 Regardless of whether you arrive in the islands during the hot or cold season, the essential items you require are likely to be as follows:
 

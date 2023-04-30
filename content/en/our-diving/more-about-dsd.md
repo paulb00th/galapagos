@@ -3,7 +3,7 @@
 
 #### MORE ABOUT OUR DISCOVER SCUBA DIVING ACTIVITY
 
-{{< figure src="/img/our-diving/more-about/DSD.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/our-diving/more-about/DSD.png" class="align-right full-width-on-small" >}}
 
 The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI instructor.  
  

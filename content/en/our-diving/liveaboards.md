@@ -3,7 +3,7 @@
 
 ### LIVEABOARD DIVING
 
-{{< figure src="/img/HumboldtExplorer1.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/HumboldtExplorer1.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Taking you to the best of the islands' remote locations </span>
  
@@ -41,6 +41,10 @@ https://masterliveaboards.com/galapagos
 **Pinguino Explorer**
 http://www.ecuadmc.com/Products-and-Services/Galapagos-Cruises/PINGUINO-EXPLORER
 
-{{< image-row images="/img/liveaboard/600Penguino.jpg,/img/liveaboard/600Calipso.png,/img/liveaboard/600Master.jpg,"paddingTop="10px" >}}
+{{<
+image-row 
+images="img/liveaboard/600Penguino.jpg,img/liveaboard/600Calipso.png,img/liveaboard/600Master.jpg"
+paddingTop="10px" 
+>}}
 
 Return to [Our Diving](/our-diving/our-diving)

@@ -5,7 +5,7 @@
 
 <span class="strapline">Choose the right time for your trip...</span>
 
-{{< figure src="/img/visiting/Currents2.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/visiting/Currents2.png" class="align-right full-width-on-small" >}}
 
 #### The currents and their influence on life
 The Galapagos islands astonishingly rich marine environment results from the convergence of five major ocean currents and the equatorial weather influence.
@@ -58,7 +58,7 @@ Generally, July to November
 {{< 
 image-row 
 title="Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation."
-images="/img/visiting/Climate-600-galapagos_fish1.png,/img/visiting/Climate-600-galapagos_fish2.png,/img/visiting/Climate-600-galapagos_fish3.png" 
+images="img/visiting/Climate-600-galapagos_fish1.png,img/visiting/Climate-600-galapagos_fish2.png,img/visiting/Climate-600-galapagos_fish3.png" 
 paddingTop="10px"
 paddingBottom="0px" 
 >}}

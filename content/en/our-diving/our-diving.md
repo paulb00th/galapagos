@@ -5,7 +5,7 @@
 
 <span class="strapline">Expertly taught and fun to learn! </span>
  
-{{< figure src="/img/PADI-logo.png" class="align-right" width="60" >}}
+{{< figure src="img/PADI-logo.png" class="align-right" width="60" >}}
 
 **Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centers and resorts. PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
  
@@ -35,7 +35,7 @@ Learn more about [our DSD course](/our-diving/more-about-dsd)
  
 If you would like to book our DSD trip please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/DSD1.png,/img/our-diving/DSD2.png,/img/our-diving/DSD3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/DSD1.png,img/our-diving/DSD2.png,img/our-diving/DSD3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -61,7 +61,7 @@ Learn more about [our PADI Open Water course](/our-diving/more-about-ow)
  
 If you would like to book our PADI Open Water course please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/OW1.png,/img/our-diving/OW2.png,/img/our-diving/OW3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/OW1.png,img/our-diving/OW2.png,img/our-diving/OW3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -86,7 +86,7 @@ Learn more about [our Scuba Diver course](https://www.padi.com/courses/scuba-div
  
 If you would like to book our Scuba Diver course please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/SDC1.png,/img/our-diving/SDC2.png,/img/our-diving/SDC3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/SDC1.png,img/our-diving/SDC2.png,img/our-diving/SDC3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -123,7 +123,7 @@ Learn more about our [PADI Advanced Open Water course](/our-diving/more-about-ao
  
 If you would like to book our PADI Advanced Open Water course please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/AOW1.png,/img/our-diving/AOW2.png,/img/our-diving/AOW3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/AOW1.png,img/our-diving/AOW2.png,img/our-diving/AOW3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -147,7 +147,7 @@ Learn more about our [EFR course](https://www.padi.com/courses/efr)
  
 If you would like to book our EFR course please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/EFR1.png,/img/our-diving/EFR2.png,/img/our-diving/EFR3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/EFR1.png,img/our-diving/EFR2.png,img/our-diving/EFR3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -172,7 +172,7 @@ Learn more about the [PADI Rescue Diver course](https://www.padi.com/courses/res
 
 If you would like to book our PADI Rescue Diver course please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/RD1.png,/img/our-diving/RD2.png,/img/our-diving/RD3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/RD1.png,img/our-diving/RD2.png,img/our-diving/RD3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -214,7 +214,7 @@ Learn more about the [PADI Dive Master course](https://www.padi.com/courses/dive
 
 If you would like to book our PADI Dive Master course please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/DM1.png,/img/our-diving/DM2.png,/img/our-diving/DM3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/DM1.png,img/our-diving/DM2.png,img/our-diving/DM3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -236,7 +236,7 @@ Learn more about the [PADI ReActivate/Refresh course](https://www.padi.com/cours
 If you would like to book our PADI ReActivate/Refresh course please [Contact Us](/contact)
 
 
-{{< image-row images="/img/our-diving/RA2.png,/img/our-diving/RA1.png,/img/our-diving/RA3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/RA2.png,img/our-diving/RA1.png,img/our-diving/RA3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -257,7 +257,7 @@ Learn more about the [PADI Enriched Air course](https://www.padi.com/courses/enr
 
 If you would like to book our PADI Enriched Air course please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/EAN1.png,/img/our-diving/EAN2.png,/img/our-diving/EAN3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/EAN1.png,img/our-diving/EAN2.png,img/our-diving/EAN3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
@@ -280,5 +280,5 @@ Learn more about our [Night Dive Adventure](/our-diving/more-about-nd)
 
 If you would like to book our Night Dive Adventure please [Contact Us](/contact)
 
-{{< image-row images="/img/our-diving/ND1.png,/img/our-diving/ND2.png,/img/our-diving/ND3.png" paddingTop="10px" >}}
+{{< image-row images="img/our-diving/ND1.png,img/our-diving/ND2.png,img/our-diving/ND3.png" paddingTop="10px" >}}
 

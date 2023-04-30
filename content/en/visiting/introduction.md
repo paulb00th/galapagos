@@ -5,7 +5,7 @@
 
 <span class="strapline">Take a step towards the extraordinary!</span>
 
-{{< figure src="/img/visiting/Islands-map.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/visiting/Islands-map.png" class="align-right full-width-on-small" >}}
 
 #### A brief history
 The Galapagos Archipelago was discovered by accident in 1535 by Tomás de Berlanga the first Bishop of Panama, who drifted off course whilst sailing from Panama to Peru. The islands didn’t appear on maps until the 1560-1570s, where they were noted for their tortoises - probably as a signpost to mariners who right through until the 19th century, ate them during long sea journeys.  The first charts of the archipelago were made by buccaneers in the late 17th century.  Scientific exploration began in the late 18th century.
@@ -20,7 +20,7 @@ To many people, the Galapagos Islands are imagined as a far away off mythical la
 <I>‘Nothing could be less inviting than the first appearance. A broken field of black basaltic lava thrown into the most rugged waves, and crossed by great fissures, is everywhere covered by stunted, sunburnt brushwood, which shows little signs of life. The dry parched surface, being heated by the noon day sun, gave the air a close and sultry feeling, like that from a stove: we fancied that even the bushes smelt unpleasantly’.</I> (C Darwin, 1845)
 
 #### Our location
-{{< figure src="/img/visiting/Google-map.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/visiting/Google-map.png" class="align-right full-width-on-small" >}}
 
 The Galapagos Islands are located in the Pacific Ocean, almost 1000 km west of mainland Ecuador, the home nation of the archipelago.  Here are found 13 large islands, 6 smaller islands and 107 islets and rocks scattered across the open ocean. 
 
@@ -40,7 +40,7 @@ The five inhabited islands are Isabela, with the largest landmass, Santa Cruz, w
 
 #### Travel from the mainland to the Islands
 
-{{< figure src="/img/visiting/Flight-routes.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/visiting/Flight-routes.png" class="align-right full-width-on-small" >}}
 
 There are currently several passenger airlines operating from the mainland to the Galapagos, the main carriers being Avianca, Latam and equair. It is sometimes possible to obtain a seat at the airport on the day of departure, but to avoid disappointment it is best to make a reservation ahead of your journey.
 

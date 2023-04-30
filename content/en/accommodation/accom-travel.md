@@ -3,7 +3,7 @@
 
 ### ACCOMODATION & TRAVEL
 
-{{< figure src="/img/accom-travel/570Sol-Marina-suite.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/accom-travel/570Sol-Marina-suite.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Let those in the know help...</span>
  
@@ -20,4 +20,4 @@ Feel free to [Contact Us](/contact)
 Set out below, three images showing one of the island’s public buses, a water taxi and a local cab (inevitable, a white pick-up truck).
 
 
-{{< image-row images="/img/accom-travel/Bus.png,/img/accom-travel/Wtaxi.png,/img/accom-travel/Ltaxi.png"paddingTop="10px" >}}
+{{< image-row images="img/accom-travel/Bus.png,img/accom-travel/Wtaxi.png,img/accom-travel/Ltaxi.png"paddingTop="10px" >}}

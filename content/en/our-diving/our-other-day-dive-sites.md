@@ -9,7 +9,7 @@ Go directly to the list of day dive sites ANCHOR
 
 #### Introduction
 
-{{< figure src="/img/G_ROCKS.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/G_ROCKS.png" class="align-right full-width-on-small" >}}
 
 When **Galapagos Dive Academy** clients hold a PADI Advanced Open Water qualification or higher and have at minimum 25 logged dives, (or have amassed a comparable level of knowledge and experience) we collaborate with the best of the other scuba operators in town to widen the variety of sites that can be visited.  This ensures that our customers can experience the full breadth of the underwater world in the Galapagos as they explore our legendary archipelago.
 
@@ -54,7 +54,7 @@ All our long range day diving trips include:
 
 **BARTOLOME**
 
-{{< figure src="/img/dive-sites/300-Bartolome.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Bartolome.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 90-120 mins from Puerto Ayora, depending upon sea conditions.
 
@@ -72,7 +72,7 @@ During the surface interval, it is common for penguins to be observed close to t
 
 **BEAGLE ROCKS**
 
-{{< figure src="/img/dive-sites/300-Beagle.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Beagle.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 80-100 mins from Puerto Ayora, depending upon sea conditions.
 
@@ -86,7 +86,7 @@ Description:  Named after the ship that carried Charles Darwin to the Galapagos,
 
 **COUSINS** 
 
-{{< figure src="/img/dive-sites/300-Cousins.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Cousins.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 90-120 mins from Puerto Ayora, depending upon sea conditions.
 
@@ -102,7 +102,7 @@ Expect to also see some of the following, sealions, green sea turtles, cleaning 
 
 **DAPHNE MINOR**
 
-{{< figure src="/img/dive-sites/300-Daphne.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Daphne.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 50-60 mins from Puerto Ayora.
 
@@ -116,7 +116,7 @@ Description:  An exposed rock providing for a single dive site, with a small cav
 
 **FLOREANA**
 
-{{< figure src="/img/dive-sites/300-Floreana.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Floreana.png" class="align-right full-width-on-small" >}}
 
 Travel duration: 1.5 – 2 hours from Puerto Ayora, depending on sea conditions.
 
@@ -130,7 +130,7 @@ Description:  Floreana offers 3 dive sites, Punta Cormorant, Champion and Enderb
 
 **GORDON ROCKS**
 
-{{< figure src="/img/dive-sites/300-Gordon.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Gordon.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 60-70 mins from Puerto Ayora.
 
@@ -148,7 +148,7 @@ The conditions at Gordon Rocks attract schools of hammerhead sharks and it’s n
 
 **MOSQUERA (NORTH AND SOUTH)**
 
-{{< figure src="/img/dive-sites/300-MOSQUERA.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-MOSQUERA.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 60-70 mins from Puerto Ayora.
 
@@ -166,7 +166,7 @@ The more northerly site presents a rocky area that connects with Seymour channel
 
 **PLAZAS**
 
-{{< figure src="/img/dive-sites/300-PLAZAS.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-PLAZAS.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 60-70 mins from Puerto Ayora.
 
@@ -186,7 +186,7 @@ Sea lions at this site are almost constant ‘buddies’ and during the hot seas
 
 **SANTE FE**
 
-{{< figure src="/img/dive-sites/300-Santa-Fe.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Santa-Fe.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 55 mins from Puerto Ayora.
 
@@ -200,7 +200,7 @@ Description:  Santa Fe is renowned for offering some of the easiest diving in th
 
 **NORTH SEYMOUR (CHANNEL)**
 
-{{< figure src="/img/dive-sites/300-Seymour-C.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Seymour-C.png" class="align-right full-width-on-small" >}}
 
 Travel duration: 45 – 60 mins from Puerto Ayora.
 
@@ -216,7 +216,7 @@ With reefs over a sandy bottom. The site has a lot of fish cleaning stations, th
 
 **NORTH SEYMOUR POINT**
 
-{{< figure src="/img/dive-sites/300-N-Seymour.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-N-Seymour.png" class="align-right full-width-on-small" >}}
 
 Travel duration: 45 – 60 mins from Puerto Ayora.
 

@@ -3,7 +3,7 @@
 
 ### TOURS - Free, and almost free, activities for all
 
-{{< figure src="/img/Feet.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/Feet.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Economy choices, no less full of fun!</span>
 <B></B>
@@ -36,7 +36,7 @@ The best time to visit German Beach is at high tide: you’ll find more water an
 {{< 
 image-row 
 title="Set out below, images of the Darwin centre, Station and German beaches."
-images="/img/free-tours/CD-centre-600.png,/img/free-tours/Station-B-600.png,/img/free-tours/German-B-600.png" paddingTop="10px"
+images="img/free-tours/CD-centre-600.png,img/free-tours/Station-B-600.png,img/free-tours/German-B-600.png" paddingTop="10px"
 >}}
 
 ##### Las Grietas:
@@ -60,7 +60,7 @@ A path leads from the settlement of Bellavista towards Cerro Crocker, the high p
 {{< 
 image-row 
 title="Set out below, images of Las Grietas, Garrapatero Beach and Cerro Crocker."
-images="/img/free-tours/Las-Grietas-600.png,/img/free-tours/Garrapatero-B-600.png,/img/free-tours/Cero-C-600.png" 
+images="img/free-tours/Las-Grietas-600.png,img/free-tours/Garrapatero-B-600.png,img/free-tours/Cero-C-600.png" 
 paddingTop="10px"
 >}}
 

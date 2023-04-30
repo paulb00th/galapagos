@@ -12,7 +12,7 @@ Here’ a little detail about those at the heart of the operation..
  
 ##### Claudia Molina - PADI IDC Staff Instructor and co-owner.
 
-{{< figure src="/img/about/A-Us-ClaudiaMolina.png" class="align-right full-width">}}
+{{< figure src="img/about/A-Us-ClaudiaMolina.png" class="align-right full-width">}}
 
 I grew up in Brazil, living close to the sea, and quickly learned to love the marine world.  
 
@@ -28,7 +28,7 @@ I’ve worked with all of the best operators across the islands, forged great re
 
 ##### Juan-Carlos Balda - PADI Master Scuba Diver Trainer and co-owner.
 
-{{< figure src="/img/about/A-Us-Juan-Carlos-Balda.png" class="align-right full-width">}}
+{{< figure src="img/about/A-Us-Juan-Carlos-Balda.png" class="align-right full-width">}}
 
 I was born in Guayaquil in southern Ecuador and fell in love with marine animals and the unique character of the underwater world at a very young age, thanks to my family.  
 
@@ -44,7 +44,7 @@ Alongside Claudia, I’ve been developing our business supporting international 
 
 ##### Mathieu Idrovo - PADI Instructor 
 
-{{< figure src="/img/about/A-Us-Mathieu-Idrovo.png" class="align-right full-width">}}
+{{< figure src="img/about/A-Us-Mathieu-Idrovo.png" class="align-right full-width">}}
 
 I’ve grown up in the Galapagos Islands. 
 
@@ -62,7 +62,7 @@ Apart from working with Claudia and Juan-Carlos, I’m employed at the town’s 
 
 ##### Sofia Green - Divemaster
 
-{{< figure src="/img/about/A-Us-SofiaMGreen.png" class="align-right full-width">}}
+{{< figure src="img/about/A-Us-SofiaMGreen.png" class="align-right full-width">}}
 
 Sofía Green Iturralde is a marine biologist and divemaster from Ecuador. 
 
@@ -88,7 +88,7 @@ Further details about Alan will be added shortly.
 
 ##### Javier Rodriguez - Boat Captain
 
-{{< figure src="/img/about/A-Us-captain.png" class="align-right full-width">}}
+{{< figure src="img/about/A-Us-captain.png" class="align-right full-width">}}
 
 Javier looks after our dive vessel, ‘NINA’, and all aboard her.  
 

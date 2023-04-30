@@ -2,7 +2,7 @@
 title = "Home"
 +++
 
-{{< figure src="/img/570x285.png" alt="Trainees being introduced to their scuba diving equipment" class="align-right full-width-on-small" >}}
+{{< figure src="img/570x285.png" alt="Trainees being introduced to their scuba diving equipment" class="align-right full-width-on-small" >}}
 
 <span class="large-strapline">GALAPAGOS DIVE ACADEMY - DESIGNED TO IMPROVE THE EXPERIENCE OF A LIFETIME!</span>
 
@@ -34,4 +34,4 @@ Besides offering the highest quality dive training, **Galapagos Dive Academy** s
 Together, the crew at **Galapagos Dive Academy**  bring more than 50 years of dive industry expertise to everything they do.  Selecting **Galapagos Dive Academy** as your partner in the islands is the perfect way to improve your Galapagos experience.
 {{< /readmore >}}
 
-{{< image-row images="/img/home_page/S-under2.png,/img/home_page/L-iguana.png,/img/home_page/D-shoal2.png" paddingTop="10px" >}}
+{{< image-row images="img/home_page/S-under2.png,img/home_page/L-iguana.png,img/home_page/D-shoal2.png" paddingTop="10px" >}}

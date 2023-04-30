@@ -3,7 +3,7 @@
 
 ### OUR MAIN DIVE SITES
 
-{{< figure src="/img/GDA-dive-sites2.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/GDA-dive-sites2.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Selected, safe and sheltered locations close to our dive centre and the town</span>
  
@@ -17,7 +17,7 @@ Set out below is a brief description of each site.
 
 #### PUNTA ESTRADA
 
-{{< figure src="/img/main-dive-sites/300_OurDsites1.1.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/main-dive-sites/300_OurDsites1.1.png" class="align-right full-width-on-small" >}}
 
 Travel duration:  Approx. 10 mins from Puerto Ayora.
 
@@ -36,7 +36,7 @@ We cannot recommend a better place to train in the Galapagos than Punta Estrada,
 
 #### LOBERIA (Caamaño Islet)
 
-{{< figure src="/img/main-dive-sites/300_OurDsites1.2.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/main-dive-sites/300_OurDsites1.2.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 15 - 20 mins from Puerto Ayora.
 
@@ -54,7 +54,7 @@ Loberia is also a site much loved by Free Divers and is an excellent choice for 
 
 #### EL BAJO
 
-{{< figure src="/img/main-dive-sites/300_OurDsites1.3.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/main-dive-sites/300_OurDsites1.3.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 15 mins from Puerto Ayora.
 
@@ -70,7 +70,7 @@ Sometimes, El Bajo even provides divers witht he chance to watch canoodling octo
 
 #### El BARRANCO
 
-{{< figure src="/img/main-dive-sites/300_OurDsites4.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/main-dive-sites/300_OurDsites4.png" class="align-right full-width-on-small" >}}
 
 Travel duration: Approx. 15 - 20 mins from Puerto Ayora.
 

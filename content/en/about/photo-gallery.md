@@ -19,14 +19,14 @@ and
 <ul>
 {{< 
 gallery-row 
-images="/img/gallery/R1-1.JPG,/img/gallery/R1-2.JPG,/img/gallery/R1-3.JPG"
+images="img/gallery/R1-1.JPG,img/gallery/R1-2.JPG,img/gallery/R1-3.JPG"
 alt="Photo 1,Photo 2,Photo 3"
 paddingTop="10px" 
 >}}
 
 {{< 
 gallery-row 
-images="/img/gallery/R1-1.JPG,/img/gallery/R1-2.JPG,/img/gallery/R1-3.JPG"
+images="img/gallery/R1-1.JPG,img/gallery/R1-2.JPG,img/gallery/R1-3.JPG"
 alt="Photo 4,Photo 5,Photo 6"
 >}}
 <ul/>

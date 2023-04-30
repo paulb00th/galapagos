@@ -3,7 +3,7 @@
 
 ### TOURS - Commercial land & water based day-trips
 
-{{< figure src="/img/Iguana-image.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/Iguana-image.png" class="align-right full-width-on-small" >}}
  
 <span class="strapline">Organised by professionals, with professionals, to improve the experience of a lifetime!</span>
 
@@ -32,11 +32,11 @@ Wonderful, picturesque, and rich with opportunities to swim and snorkel.
 ##### Santa Fe & Playa Escondida
 Fabulous swimming and snorkelling locations.
 
-{{< image-row images="/img/about/600PG-Booby-nest.png,/img/about/600PG-Bird-flight.png,/img/about/600PG_Preening-bird.png,"paddingTop="10px" >}}
+{{< image-row images="img/about/600PG-Booby-nest.png,img/about/600PG-Bird-flight.png,img/about/600PG_Preening-bird.png,"paddingTop="10px" >}}
 
 ### TOURS - Commercial multiday land & water based tours
 
-{{< figure src="/img/Bartolome-bay.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/Bartolome-bay.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">Longer tours, to extend the experience of a lifetime!</span>
 
@@ -93,7 +93,11 @@ National Park entrance fee ($100 payable on arrival at Baltra airport)
 Tourist card ($20 payable in airport in Quito or Guayaquil prior to outbound island flight)
 Most evening meals 
 
-{{< image-row images="/img/1Sealion.png,/img/2Penguins.png,/img/3Pelican.png,"paddingTop="10px" >}}
+{{< 
+image-row 
+images="img/1Sealion.png,img/2Penguins.png,img/3Pelican.png"
+paddingTop="10px"
+>}}
 
 ##### Day-tours verses multi-day activities?
 We are regularly asked by visitors whether multi-day trips/cruises or day tours are the better option.  The truth is, both have a lot to offer.

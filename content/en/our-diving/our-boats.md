@@ -3,7 +3,7 @@
 
 ### OUR BOATS
 
-{{< figure src="/img/570-Nina_boat.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/570-Nina_boat.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">The platforms we rely upon </span>
  
@@ -15,6 +15,10 @@ If you select us as your provider for longer-range day diving, (suitable for the
 
 Set out below are three images of such boats, each of which we reguarly use for clients.
 
-{{< image-row images="/img/our-boats/600AB-boat.png,/img/our-boats/600SI-boat.png,/img/our-boats/600GT-boat.png,"paddingTop="10px" >}}
+{{< 
+image-row 
+images="img/our-boats/600AB-boat.png,img/our-boats/600SI-boat.png,img/our-boats/600GT-boat.png"
+paddingTop="10px" 
+>}}
 
 Return to [Our Diving](/our-diving/our-diving)
