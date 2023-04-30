@@ -111,3 +111,26 @@ img {
     cursor: pointer;
     color: #559FB8;;
 }
+
+.accom-item {
+    background-color:#c3eefa;
+    /* border-style: solid; */
+    border-color: #455972;
+    border-width: thin;
+    border-radius: 5px;
+}
+.accom-item img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.accom-item h4 {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #2C4C97
+}
+.accom-item p {
+    margin-left: 10px;
+    margin-right: 10px;
+    /* color: red; */
+}
