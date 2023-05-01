@@ -5,7 +5,9 @@
 
 <span class="strapline">World class diving with an evolutionary edge!</span>
 
-Go directly to the list of day dive sites ANCHOR
+
+[Go directly to](/Our long-range, day-trip, dive locations) set out below
+
 
 #### Introduction
 
@@ -13,7 +15,7 @@ Go directly to the list of day dive sites ANCHOR
 
 When **Galapagos Dive Academy** clients hold a PADI Advanced Open Water qualification or higher and have at minimum 25 logged dives, (or have amassed a comparable level of knowledge and experience) we collaborate with the best of the other scuba operators in town to widen the variety of sites that can be visited.  This ensures that our customers can experience the full breadth of the underwater world in the Galapagos as they explore our legendary archipelago.
 
-If you were to dive with any one third party operator you would be tied to their weekly dive itinerary, as laid down by the National Park Authority.  However, by having us organize your schedule across a combination of the best operators, you get the best of dive experiences tailored to meet your personal dive aspirations
+If you were to dive with any one third party operator you would be tied to their weekly dive itinerary, as laid down by the National Park Authority.  However, by having us organize your schedule across a combination of the best operators, you get the best of dive experiences tailored to meet your personal dive aspirations.
 
 *Please be aware that diving the island’s more remote sites requires longer travel times.  The two model itineraries set out below highlight the basics involved:*
 
@@ -21,7 +23,7 @@ If you were to dive with any one third party operator you would be tied to their
 Between 07.00 and 08.00, you take a 45-minute car ride north from Puerto Ayora to the ‘Itabaca Channel’ close to Baltra Island.  From here the boat will depart to your selected destination/s (for example, Bartolome/Cousins, North Seymour/Mosquera, Mosquera/Daphne, Gordon Rocks).  The boat run time will varying between 25 minutes and 1 hour and 30 minutes in each direction, depending on the site/s you have nominated. 
 
 **Model 2**
-Your chosen destination/s is located to the south or east of Santa Cruz island, (for example, Gordon Rocks, Santa Fe and Floreana), in which case, between 07.00 and 08.00, your boat will depart directly from the harbor in Puerto Ayora and the run time will be between 1 and 2 hours in each direction.
+Your chosen destination/s is located to the south or east of Santa Cruz Island, (for example, Gordon Rocks, Santa Fe and Floreana), in which case, between 07.00 and 08.00, your boat will depart directly from the harbour in Puerto Ayora and the run time will be between 1 and 2 hours in each direction.
 
 *In either circumstance, participants complete two dives during the trip and enjoy snacks during the dive interval and lunch at the end of the second dive.   You are generally returned to your accommodation between 15.30 and 16.00 hrs., depending on the destination and vessel involved.*
 
@@ -29,16 +31,16 @@ For further detail about individual trips/trip combinations, ask us.  LINK
 
 #### Notes
 1) Young divers: It is mandatory in the Galapagos that 10- to 11-year-old Open Water certified children require a private guide on day trips, because they are certified to a maximum depth of 12 m/40feet, while the rest of the group will be diving to a minimum of 18 m/60feet. 
-For 12- to 14-year-old certified children we still recommend booking a private guide but this is optional. In the case that a private guide is not contracted, such children must be accompanied by a dive qualified adult family member.  For the advanced diving location Gordon Rocks [ANCHOR TO:  Gordon Rocks, below] special regulations apply. If further detail is required, ask us.
+For 12- to 14-year-old certified children we still recommend booking a private guide, but this is optional. In the case that a private guide is not contracted, such children must be accompanied by a dive qualified adult family member.  For the advanced diving location Gordon Rocks [ANCHOR TO:  Gordon Rocks, below] special regulations apply. If further detail is required, ask us.
 
 2) Gordon Rocks:  This dive site is very popular but can have strong currents. If your dive experience is limited, please arrange your dates so that you dive Gordon Rocks at the end of your trip rather than on your first day.
 We reserve the right to cancel your diving at Gordon Rocks if our guides feel that your experience level is insufficient and that the trip would therefore be unsafe.
 
 3) Non-Divers:  For members of your group who are not undertaking SCUBA, we can arrange non-diving tours and activities that will allow them to experience the extraordinarily diverse land animals and and magical places of our enchanted islands.
 
-<I>With the above points in mind, please plan your diving tours taking into account both your own experience and that of your accompanying friends/family.</I>
+<I>With the above points in mind, please plan your diving tours considering both your own experience and that of your accompanying friends/family.</I>
 
-All our long range day diving trips include:
+All our long-range day diving trips include:
 
 •	Local travel relating to your departure and return locations
 •	Experienced bilingual guides/instructors
@@ -80,7 +82,7 @@ Dive Difficulty: Qualification required, Open Water Diver.  This dive site has m
 
 Location: To the northwest of Santa Cruz Island and the south of Santiago Island.
 
-Description:  Named after the ship that carried Charles Darwin to the Galapagos, the site consists of 3 rocks, the remains of a tuff cone.  Diving generally begins over a 12-meter platform and proceeds to a drop-off wall that descends to approx. 60 meters.  The face of the wall is covered with black coral, sea fans, and a wide variety of colorful reef fishes.  Rays, green sea turtles, and sea lions are commonly found close to the wall and, during the hot season, (January to May) manta rays are a special treat. Galapagos and hammerhead sharks are sometimes to be spotted away from the wall, passing in the blue.
+Description:  Named after the ship that carried Charles Darwin to the Galapagos, the site consists of 3 rocks, the remains of a tuff cone.  Diving generally begins over a 12-meter platform and proceeds to a drop-off wall that descends to approx. 60 meters.  The face of the wall is covered with black coral, sea fans, and a wide variety of colourful reef fishes.  Rays, green sea turtles, and sea lions are commonly found close to the wall and, during the hot season, (January to May) manta rays are a special treat. Galapagos and hammerhead sharks are sometimes to be spotted away from the wall, passing in the blue.
 
 <div class="grey-bar"></div>
 
@@ -124,7 +126,7 @@ Dive Difficulty: Qualification required, Open Water Diver.  This site does not n
 
 Location: To the south of Santa Cruz Island. 
 
-Description:  Floreana offers 3 dive sites, Punta Cormorant, Champion and Enderby.  Between them, these provide for an interesting topography, sporting rocky outcrops, small caves, and areas of sand, each providing resting/hiding places for the varied marine animals present.  These include large schools of black-striped Salema which envelop the diver, the red-lipped batfish, with leg-like fins and cherry-red lips, white and blacktip reef sharks, green sea turtles, stingrays, eagle rays, and hammerhead sharks.  Floreana is a special place to snorkel and dive with the baby sea lions, who often appear to stick themselves to the tips of your fins!
+Description:  Floreana offers 3 dive sites, Punta Cormorant, Champion, and Enderby.  Between them, these provide for an interesting topography, sporting rocky outcrops, small caves, and areas of sand, each providing resting/hiding places for the varied marine animals present.  These include large schools of black striped salema, which envelop the diver, the red-lipped batfish, with leg-like fins and cherry-red lips, white and blacktip reef sharks, green sea turtles, stingrays, eagle rays, and hammerhead sharks.  Floreana is a special place to snorkel and dive with the baby sea lions, who often appear to stick themselves to the tips of your fins!
 
 <div class="grey-bar"></div>
 
@@ -142,7 +144,7 @@ Description:  An extinct volcanic crater with a sandy bottom at 32 meters, the w
 
 The site has three exposed pinnacles surrounding the crater, a further three submerged beneath the surface, these rising to between 6 and 8 m at the northern edge of the crater, and a large central pinnacle, approximately 21 m below the surface.
 
-The conditions at Gordon Rocks attract schools of hammerhead sharks and it’s not unusual to see 50 such animals, maybe even more if you’re lucky!  White and blacktip reef sharks, and Galapagos sharks also frequent the area, as do sea lions, green sea turtles, stingrays, eagle and mobula rays, large schools of barracuda and snapper, and a variety of invertebrates.  Occasionally, manta ray and mola mola are also spotted.
+The conditions at Gordon Rocks attract schools of hammerhead sharks and it’s not unusual to see 50 such animals, maybe even more if you’re lucky!  White and blacktip reef sharks, and Galapagos sharks also frequent the area, as do sea lions, green sea turtles, stingrays, eagle and mobula rays, large schools of barracuda and snapper, and a variety of invertebrates.  Occasionally, manta ray and the ocean sun fish (Mola mola) are also spotted.
 
 <div class="grey-bar"></div>
 
@@ -174,11 +176,11 @@ Dive Difficulty: Qualification required, Open Water Diver.  Easy relaxing diving
 
 Location: To the northeast of Santa Cruz Island.
 
-Description:  Visitors have for some time been forbidden to go ashore on North Plaza but diving off the backside of the site is permitted. Entry is usually along the center of the north shore, where a boulder-laden slope inclines gradually to a sand bottom at about 24m (80 ft).
+Description:  Visitors have for some time been forbidden to go ashore on North Plaza but diving off the backside of the site is permitted. Entry is usually along the centre of the north shore, where a boulder-laden slope inclines gradually to a sand bottom at about 24m (80 ft).
 
 White tipped reef sharks, marble and diamond rays, and waving fields of Galapagos garden-eels are found in sandy patches throughout this area. 
 
-Huge schools of yellowtail surgeonfish, yellow tailed mullet and lots of parrotfish are generally present in the shallows. Pelagics, including hammerheads and Galápagos sharks, are most often at the eastern end of the islet. During the warm season (January- May in particular) this point can also be very good for manta rays, which are attracted to the local cross current.
+Huge schools of yellowtail surgeonfish, yellow tailed mullet and lots of parrotfish are generally present in the shallows. Pelagic fish, including hammerheads and Galápagos sharks, are most often at the eastern end of the islet. During the warm season (January- May in particular) this point can also be very good for manta rays, which are attracted to the local cross current.
 
 Sea lions at this site are almost constant ‘buddies’ and during the hot season solitary whale sharks are occasional visitors.
 
@@ -224,7 +226,7 @@ Dive Difficulty: Qualification required, Open Water Diver.  Although currents ca
 
 Location: To the north of Santa Cruz Island. 
 
-Description:  The site can experience fairly strong currents. The nearshore area is with a rocky bottom and small caves at approx. 12 m.  Here you can find turtles and sharks resting.  Out in the blue large pelagics are frequently found.  Because of these characteristics, diving is often split between the two areas 
+Description:  The site can experience fairly strong currents. The nearshore area is with a rocky bottom and small caves at approx. 12 m.  Here you can find turtles and sharks resting.  Out in the blue large pelagic fish are frequently found.  Because of these characteristics, diving is often split between the two areas. 
 
 The site regularly delivers turtles, Galapagos, white tip reef, and hammerhead sharks, mobulas, sting rays, eagle rays, Galapagos eel, barracudas, turtles, reef fishes, and a variety of invertebrates.
 
@@ -232,13 +234,13 @@ The site regularly delivers turtles, Galapagos, white tip reef, and hammerhead s
 
 #### Prices for long range day diving trips:
 
-Our 2023 price list for longer range day diving varies from $250 to $270 per person/per day, depending on the dive center with which we book you, the destination you select, and whether you bring own dive gear. 
+Our 2023 price list for longer range day diving varies from $250 to $270 per person/per day, depending on the dive centre with which we book you, the destination you select, and whether you bring own dive gear. 
 
 Please note that we can likely find you better priced last-minute deals, at between $180 and $200 per person/per day, if you are prepared to accept that there will sometimes be no spaces left on your preferred trip and that you will then need to book an alternative location/tour.
 
 When you are ready to start the booking process, please complete the fields in the Contact Us form and set out your personal requirements in the text box provided.  One of our team will be in contact soon after we receive your details. 
 
-[See our dive pricing](/our-diving/our-prices)
+[See Our Prices](/our-diving/our-prices)
 
 [See our Terms & Conditions](/about/terms-and-conditions)
 

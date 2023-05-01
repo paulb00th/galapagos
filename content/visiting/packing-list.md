@@ -33,7 +33,7 @@ Sunglasses *(polarized if spending a lot of time on the water)*
 
 Windbreaker/Light weight rain jacket, it can get cool in the mornings and out on a boat. *Misty rain in the cold season and morning downpours in the hot season are common*
 
-Insect Repellant and Sunscreen, minimum 50 factor if you burn easily
+Insect Repellent and Sunscreen, minimum 50 factor if you burn easily
 
 Some lightweight, light coloured, breathable clothes, inc. shorts, t-shirts and longer garments to counter the mosquitos in the evenings!
 
@@ -43,7 +43,7 @@ Essential medicines and toiletry kit
 
  
 
-**If you are diving/snorkeling**
+**If you are diving/snorkelling**
 
 Bathing suit/s
 
@@ -51,7 +51,7 @@ Mask & snorkel
 
 Perhaps an exposure suit lycra rash vest, neoprene skin, or similar - *it’s easy to burn in/on the water*
 
-Perhaps also your full dive kit - *but note all this gear can be rented once you’re here*
+Perhaps also your full dive kit - *but note all this gear can be rented once you’re here!*
 
 **-**
 Return to [Visiting us](/visiting/introduction)

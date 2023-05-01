@@ -9,7 +9,7 @@
  
 Our Novice and Refresher diver training sessions are mostly conducted in Academy Bay, so named by the California Academy of Sciences during an expedition conducted in 1905.  Academia Bay lays aside Puerto Ayora, the largest town in the Galapagos, and is adjacent to the Charles Darwin Research Station.  This was founded in 1959 to preserve and study the fauna and flora of the Galapagos Islands.
 
-The bay has four dive sites that are ideal for training and refresher purposes, all accessible within a 10-to-20-minute boat ride from the town’s main harbor.
+The bay has four dive sites that are ideal for training and refresher purposes, all accessible within a 10-to-20-minute boat ride from the town’s main harbour.
 
 We offer daily trips to the bay at 08:00, 13.00, and 18.00 hrs, for 1 and 2 tank adventures.  As required, we offer buoys with ropes, to assist with ascent and descent.
 
@@ -21,7 +21,7 @@ Set out below is a brief description of each site.
 
 Travel duration:  Approx. 10 mins from Puerto Ayora.
 
-Dive Difficulty:  Ideal for novice & reactivate students. Also with much to offer divers with advanced qualifications.
+Dive Difficulty:  Ideal for novice & reactivate students. Also, with much to offer divers with advanced qualifications.
 
 Location:  To the southwest side of the bay.
 
@@ -40,7 +40,7 @@ We cannot recommend a better place to train in the Galapagos than Punta Estrada,
 
 Travel duration: Approx. 15 - 20 mins from Puerto Ayora.
 
-Dive Difficulty: Ideal for novice & reactivate students. Also with much to offer divers with advanced qualifications.
+Dive Difficulty: Ideal for novice & reactivate students. Also, with much to offer divers with advanced qualifications.
 
 Location: To the south side of the bay.
 
@@ -64,7 +64,7 @@ Location: To the south-west side of the bay.
 
 Description:  A seamount rising from 40 m to approx. 10 m, this is an ideal location to practice when taking the Advanced course. Our clients can experience current and depth in controlled conditions and will likely see pelagic species such as hammerhead and reef sharks, eagle rays, sea turtles, and schooling fish.
 
-Sometimes, El Bajo even provides divers witht he chance to watch canoodling octopus!
+Sometimes, El Bajo even provides divers with the chance to watch canoodling octopuses!
 
 <div class="grey-bar"></div>
 
@@ -86,7 +86,7 @@ There is the chance to enter a small cavern at this location, in which it is com
 
 <div class="grey-bar"></div>
 
-[See our dive pricing](/our-diving/our-prices)
+[See Our Prices](/our-diving/our-prices)
 
 [See our Terms & Conditions](/about/terms-and-conditions)
 

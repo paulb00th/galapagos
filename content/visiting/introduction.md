@@ -40,9 +40,9 @@ The five inhabited islands are Isabela, with the largest landmass, Santa Cruz, w
 
 #### Travel from the mainland to the Islands
 
-{{< figure src="/img/visiting/Flight-routes.png" class="align-right full-width-on-small" >}}
+{{< figure src="/img/visiting/Flight-routes2.png" class="align-right full-width-on-small" >}}
 
-There are currently several passenger airlines operating from the mainland to the Galapagos, the main carriers being Avianca, Latam and equair. It is sometimes possible to obtain a seat at the airport on the day of departure, but to avoid disappointment it is best to make a reservation ahead of your journey.
+There are currently several passenger airlines operating from the mainland to the Galapagos, the main carriers being Avianca, Latam and equair. Services are provided from both Quito and Guayaquil airports.  It is sometimes possible to obtain a seat at the airport on the day of departure, but to avoid disappointment it is best to make a reservation ahead of your journey.
 
 Ticket prices between airlines does not vary much and the cost is high, but this is the way things are at present, as there is currently no practical alternative to air travel.
  
