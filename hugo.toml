@@ -11,10 +11,10 @@ defaultContentLanguage = "en"
     languageName = "English"
     contentDir = "content/en"
     weight = 1
-  [languages.es]
-    languageName = "Español"
-    contentDir = "content/es"
-    weight = 2
+#  [languages.es]
+#    languageName = "Español"
+#    contentDir = "content/es"
+#    weight = 2
 
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
@@ -56,6 +56,12 @@ googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
     name       = "Home"
     identifier = "menu.home"
     url        = "/"
+    weight     = 1
+
+[[languages.es.menu.main]]
+    name       = "Inicio"
+    identifier = "menu.home"
+    url        = "/es/" 
     weight     = 1
 
 [[menu.main]]
