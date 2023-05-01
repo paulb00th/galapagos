@@ -3,7 +3,7 @@
 
 ### TERMS & CONDITIONS
 
-{{< figure src="/img/about/ClauT-570x285.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/about/ClauT-570x285.png" class="align-right full-width-on-small" >}}
 
 1. **Responsibilities**
 Galapagos Dive Academy is the direct operator for all Galapagos Dive Academy daily diving services. In regard to all land tours, hotels and apartment bookings, long range day diving activities and cruises, these are contracted through third parties and Galapagos Dive Academy acts only as an intermediary agent for passengers contracting with such service providers.
