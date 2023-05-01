@@ -46,7 +46,7 @@ about_us = "<p>Galapagos Dive Academy<br/>Marchena 177 y Adolfo Hanny<br/>Santa 
 formspree_action = "https://formspree.io/f/xknakdek"
 contact_form_ajax = false
 
-enableRecaptchaInContactForm = true
+enableRecaptchaInContactForm = false
 googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
 
 [menu]
