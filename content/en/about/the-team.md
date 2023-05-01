@@ -78,6 +78,24 @@ When you dive with Sofia you will experience her passion for sea life and discov
 
 ##### Alan Jacome - PADI Free-Diving Instructor
 
+{{< figure src="img/about/A-Us-captain.png" class="align-right full-width">}}
+
+I'm a local, having been born and raised on Santa Cruz Island in the Galapagos. 
+
+Since I was a kid, I've been exploring the island's snorkeling and surfing sites. 
+
+While visiting 'Las Grietas' one day, (perhaps my favourite dive venue), I was overcome with the desire to reach the bottom and this became my motivation to learn the techniques of freediving.
+
+I started a formal freediving courses during the pandemic, in 2020, and became a PADI Freedive Instructor in 2021. Since then I've been able to explore many of the islands best sites to a whole new level.
+
+In 2022 I was invited by Claudia and Juan Carlos to join the Galapagos Dive Academy team and, since then, I've been sharing my passion for freediving and my love of the Galapagos - such an amazing place to live!
+
+I'm often asked, 'why should I free dive'?  The answer is simple, freediving provides an entirely different way to experience the underwater world - taking you deeper for longer, and connecting you directly to the ocean - nature at its very best.
+
+Freedivers silently blend into the underwater environment. They enjoy magical encounters with shy marine life and hear the many sounds of the ocean itself.
+
+Freediving is the perfect way to rexplore the depths of the oceans with minimal impact. While some people freedive for the challenge, for many, the true appeal  is in the silence and calm it brings to a hectic life.
+
 Alan has recently joined us and we are delighted to now offer freediving instruction at **Galapagos Dive Academy**.  
 
 Further details about Alan will be added shortly.
@@ -86,19 +104,19 @@ Further details about Alan will be added shortly.
 
 <div class="grey-bar"></div>
 
-##### Javier Rodriguez - Boat Captain
+##### Cristian Rodriguez - Boat Captain
 
 {{< figure src="img/about/A-Us-captain.png" class="align-right full-width">}}
 
-Javier looks after our dive vessel, ‘NINA’, and all aboard her.  
+Cristian looks after our dive vessel, ‘NINA’, and all aboard her.  
 
-Javier has more than 20-years of experience navigating in the Galapagos islands and brings great expertise and humour to our trips.  
+Cristian has more than 20-years of experience navigating in the Galapagos islands and brings great expertise and humour to our trips.  
 
-We greatly enjoy having Javier as our dive boat captain and encourage you to get to know him when onboard, we are sure you will appreciate his enthusiasm, knowledge, friendly disposition and his supporting hand as you climb back onboard the boat!
+We greatly enjoy having Cristian as our dive boat captain and encourage you to get to know him when onboard, we are sure you will appreciate his enthusiasm, knowledge, friendly disposition and his supporting hand as you climb back onboard the boat!
 
-Javier owns several dozen peaked caps and he especially appreciates guests who bring an extra one to add to his ever-growing collection, perhaps you have a hat for Javier! 
+Cristian owns several dozen peaked caps and he especially appreciates guests who bring an extra one to add to his ever-growing collection, perhaps you have a hat for Cristian! 
 
-*Image - Javier onboard NINA in Academy Bay - busily navigating!*
+*Image - Cristian onboard NINA in Academy Bay - busily navigating!*
 
 <br>
 
