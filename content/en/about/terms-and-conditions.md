@@ -3,6 +3,8 @@
 
 ### TERMS & CONDITIONS
 
+{{< figure src="/img/about/ClauT-570x285.png" class="align-right full-width-on-small" >}}
+
 1. **Responsibilities**
 Galapagos Dive Academy is the direct operator for all Galapagos Dive Academy daily diving services. In regard to all land tours, hotels and apartment bookings, long range day diving activities and cruises, these are contracted through third parties and Galapagos Dive Academy acts only as an intermediary agent for passengers contracting with such service providers.
 Galapagos Dive Academy takes no responsibility for accidents, loss, damage, delay, inconvenience, or any other irregularity that may be caused by defects of any vehicle, or through situations of omission, neglect or negligence of any of these third-party companies. Galapagos Dive Academy also accepts no responsibility for tour or service cancellations by third-party operators, as a result of vandalism, strikes, war, governmental actions, weather conditions, or other factors which imply additional expenses caused by delays, itinerary changes or other causes.
@@ -31,7 +33,7 @@ VISA / MASTERCARD credit or debit card payment via online system, this incurs a 
 Cash payments in our office
 
 6. **Documentation**
-The client/passenger is responsible for holding a valid passport (or other relevant travel document) and any required visa/s.To confirm your booking, we will require this information from you.
+The client/passenger is responsible for holding a valid passport (or other relevant travel document) and any required visa/s. To confirm your booking, we will require this information from you.
 Necessary details vary by trip; but include and are not limited to:
 Nationality
 Full name as per passport,
@@ -52,12 +54,12 @@ Any claim regarding any services not provided during a trip will only be accepte
 
 9. **Cancellations (Cancellation, Return & Refund Policies)**
 Cancellation by you: Individual passengers and passengers in groups – PADI Courses only:
-If you enroll in a PADI course you will receive digital material, once you redeem your code it cannot be returned. You will be able to use your PADI material with another dive center if you so choose.
+If you enroll in a PADI course you will receive digital material, once you redeem your code it cannot be returned. You will be able to use your PADI material with another dive centre if you so choose.
 a) Cancellations made 45 days or more prior to service date - refund given minus any bank fees/service charges.  We will discount 100% of the PADI material. 
 b) Cancellations made 44 to 30 days prior to service date - we will retain 35% of your deposit – refund given for the balance minus any bank fees/service charges. We will discount 100% of the PADI material.
 c) Cancellations made 29 days or less prior to service date - we will retain 70% of your deposit – refund given for the balance minus any bank fees/service charges. We will discount 100% of the PADI material.
 d) Cancellations made less than 48 hours prior to service date - we will retain 100% of the monies paid
-If the candidate/student cannot continue with a course for personal reasons, such as family tragedy, fear or illness, no refund will be offered. Your instructor will nevertheless give you a ‘Referral Form’ with all the exercises performed/completed which you can take to any PADI diving center worldwide and use towards the completion of your training with them. Such referrals are valid for 12 months.
+If the candidate/student cannot continue with a course for personal reasons, such as family tragedy, fear or illness, no refund will be offered. Your instructor will nevertheless give you a ‘Referral Form’ with all the exercises performed/completed which you can take to any PADI diving centre worldwide and use towards the completion of your training with them. Such referrals are valid for 12 months.
 **Cancellation by you: Individual passengers and groups – 3rd Party packages:**
 a) Cancellations made 90 days or more prior to service date - refund given minus any bank fees/service charges
 b) Cancellations made 89 to 60 days prior to service date – we will retain 75% of the monies paid
@@ -74,5 +76,5 @@ During the high season, Galapagos Dive Academy reserves the right to alter cance
 A “Force Majeure Event” includes but is not limited to: acts of God; war; civil commotion; riot; blockade or embargo; fire; explosion; breakdown; union dispute; earthquake; epidemic, pandemic or other health emergency; flood; windstorm or other extreme weather event; lack or failure of courses of supply; passage of any law, order, proclamation, regulation, ordinance, demand, requisition or requirement or any other act of any government authority, beyond the reasonable control of the parties, whether or not foreseeable, which would make it dangerous or not viable for a trip to commence or continue.
 
 10. **Travel & Dive Insurance**
-Travel insurance / Dive Insurance is recommended for customers. Some travel insurance does include dive insurance whilst others categorise diving as an extreme sport and do not include it.We recommend that your travel insurance includes cover against personal accident, death, medical expenses, and emergency repatriation with a recommended minimum coverage of US $200,000 for each of the categories of cover. 
-We also strongly recommend it covers cancellation, curtailment, personal liability and loss of luggage and personal effects. If you have travel insurance connected to your credit card or bank account please ensure you have details of the participating insurer, the insurance policy number and emergency contact number with you, rather than just the bank’s name and credit card details.
+Travel insurance / Dive Insurance is recommended for customers. Some travel insurance does include dive insurance whilst others categorise diving as an extreme sport and do not include it. We recommend that your travel insurance includes cover against personal accident, death, medical expenses, and emergency repatriation with a recommended minimum coverage of US $200,000 for each of the categories of cover. 
+We also strongly recommend it covers cancellation, curtailment, personal liability and loss of luggage and personal effects. If you have travel insurance connected to your credit card or bank account, please ensure you have details of the participating insurer, the insurance policy number and emergency contact number with you, rather than just the bank’s name and credit card details.

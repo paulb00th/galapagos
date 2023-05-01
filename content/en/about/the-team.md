@@ -8,7 +8,7 @@
 
 **Galapagos Dive Academy** provides excellence in dive safety and instruction, while offering the highest levels of customer service available in the islands.  Between them, company principals **Claudia** and **Juan-Carlos** bring together more than 35 years of experience as instructors, a wealth of specialist local knowledge, and a real passion for the natural environment. Add in the competencies of the others in the team and **Galapagos Dive Academy** provides an unrivalled capability drawing upon more than 50 years of know how!
 
-Here’ a little detail about those at the heart of the operation..
+Here’ a little detail about those at the heart of the operation...
  
 ##### Claudia Molina - PADI IDC Staff Instructor and co-owner.
 
@@ -20,7 +20,7 @@ I moved to Ecuador at the age of 16 to study Ecological Tourism in Quito.  Foll
 
 It’s the islands here (and my Ecuadorian husband) that have captured my heart - and now I’m here to stay.
  
-I’ve worked with all of the best operators across the islands, forged great relations with them, and certified over 600 PADI students in recent years. When I’m not working on behalf of our dive or film companies, I’m to be found enjoying the sun’s rays and playing in the sea alongside my husband, Juan Carlos, and our two children.
+I’ve worked with all the best operators across the islands, forged great relations with them, and certified over 600 PADI students in recent years. When I’m not working on behalf of our dive or film companies, I’m to be found enjoying the sun’s rays and playing in the sea alongside my husband, Juan Carlos, and our two children.
 
 *Image - Claudia Molina*
 
@@ -68,7 +68,7 @@ Sofía Green Iturralde is a marine biologist and divemaster from Ecuador.
 
 Sophia has been working in the Galapagos Islands as a scientific researcher, diver, and wildlife photographer since 2017, and working as a divemaster and lecturer on board educational expeditions since 2021. 
 
-Sophia's main scientific focus has been on the the whale shark population in the islands, as she has worked collaboratively with a research project led by a local Galapagos organisation. 
+Sophia's main scientific focus has been on the whale shark population in the islands, as she has worked collaboratively with a research project led by a local Galapagos organisation. 
 
 When you dive with Sofia you will experience her passion for sea life and discover how you can work as a citizen scientist in support of marine conservation. 
 
@@ -96,7 +96,7 @@ Javier has more than 20-years of experience navigating in the Galapagos islands 
 
 We greatly enjoy having Javier as our dive boat captain and encourage you to get to know him when onboard, we are sure you will appreciate his enthusiasm, knowledge, friendly disposition and his supporting hand as you climb back onboard the boat!
 
-Javier owns several dozen peaked caps and always appreciates guests who bring an extra one to add to his collection! 
+Javier owns several dozen peaked caps and he especially appreciates guests who bring an extra one to add to his ever-growing collection! 
 
 *Image - Javier onboard NINA in Academy Bay - busily navigating!*
 

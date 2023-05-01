@@ -7,9 +7,9 @@
  
 {{< figure src="img/PADI-logo.png" class="align-right" width="60" >}}
 
-**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centers and resorts. PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
+**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centres and resorts. PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
  
-[See our dive pricing](/our-diving/our-prices)
+[See Our Prices](/our-diving/our-prices)
 
 [See our Terms & Conditions](/about/terms-and-conditions)
 
@@ -29,11 +29,11 @@ The DSD program is designed to offer your first diving experience, under the sup
 <p>Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving</p>
 </blockquote>
 
-Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora office and teaching center, at the dive site named [Punta Estrada](/our-diving/our-main-dive-sites).  During your experience we will aim to take you to a maximum depth of 12m for about 45 minutes.  Please bear in mind that the actual time you will spent underwater depends on your breathing pattern, so start practicing long slow breathing techniques today!  We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to each candidate or pair of candidates, up to a maximum of 4 participants assisted by 2 instructors.
+Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora office and teaching centre, at the dive site named [Punta Estrada](/our-diving/our-main-dive-sites).  During your experience we will aim to take you to a maximum depth of 12m for about 45 minutes.  Please bear in mind that the actual time you will spend underwater depends on your breathing pattern, so start practicing long slow breathing techniques today!  We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to each candidate or pair of candidates, up to a maximum of 4 participants assisted by 2 instructors.
  
 Learn more about [our DSD course](/our-diving/more-about-dsd)
  
-If you would like to book our DSD trip please [Contact Us](/contact)
+If you would like to book our DSD trip, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/DSD1.png,img/our-diving/DSD2.png,img/our-diving/DSD3.png" paddingTop="10px" >}}
 
@@ -59,7 +59,7 @@ We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an i
  
 Learn more about [our PADI Open Water course](/our-diving/more-about-ow)
  
-If you would like to book our PADI Open Water course please [Contact Us](/contact)
+If you would like to book our PADI Open Water course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/OW1.png,img/our-diving/OW2.png,img/our-diving/OW3.png" paddingTop="10px" >}}
 
@@ -69,7 +69,7 @@ If you would like to book our PADI Open Water course please [Contact Us](/contac
 
 If your time is limited (or you were unable to complete your PADI Open Water course for any reason), the PADI Scuba Diver course is for you.  You complete the same academic study as for the Open Water qualification, but the confined water practices and two open water dives are conducted in just 2 days.
  
-Upon completion of the course, you will receive a digital certificate as a PADI Scuba Diver which will allow you to descend, under the direct supervision of a PADI professional, to a maximum depth 12m/40ft.  Once you have the PADI Scuba Diver qualification, you can complete Open Water training at any PADI dive center worldwide and thereby UPGRADE your qualification.
+Upon completion of the course, you will receive a digital certificate as a PADI Scuba Diver which will allow you to descend, under the direct supervision of a PADI professional, to a maximum depth 12m/40ft.  Once you have the PADI Scuba Diver qualification, you can complete Open Water training at any PADI dive centre worldwide and thereby UPGRADE your qualification.
  
 **To join us for the PADI Scuba Diver course you must:**
 <blockquote>
@@ -84,7 +84,7 @@ We teach the PADI Scuba Diver course in Academy Bay, at the dive site we call [P
  
 Learn more about [our Scuba Diver course](https://www.padi.com/courses/scuba-diver)
  
-If you would like to book our Scuba Diver course please [Contact Us](/contact)
+If you would like to book our Scuba Diver course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/SDC1.png,img/our-diving/SDC2.png,img/our-diving/SDC3.png" paddingTop="10px" >}}
 
@@ -103,7 +103,7 @@ The other three dives are chosen by the student from a range of ‘adventure’ 
 
 3)  Peak Performance Buoyancy - our strongest recommendation.  A course geared to improving your control over descents and ascents, your position in the water and your breathing.  This activity will transform your diving experience for life!
  
-4)  Night adventure - without doubt another of our absolute favorites and a chance for us to show you the intriguing and wonderful creatures that come out of hiding after it’s dark.
+4)  Night adventure - without doubt another of our absolute favourites  and a chance for us to show you the intriguing and wonderful creatures that come out of hiding after it’s dark.
  
 5)  Multilevel adventure - the opportunity to learn more about dive planning and the use of dive computers.
 You might also like to ask us about our Naturalist, Fish ID, Drift Dive and other adventure specialties.
@@ -121,7 +121,7 @@ At Galapagos Dive Academy we can combine the advanced course with long trips to 
 
 Learn more about our [PADI Advanced Open Water course](/our-diving/more-about-aow)
  
-If you would like to book our PADI Advanced Open Water course please [Contact Us](/contact)
+If you would like to book our PADI Advanced Open Water course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/AOW1.png,img/our-diving/AOW2.png,img/our-diving/AOW3.png" paddingTop="10px" >}}
 
@@ -145,7 +145,7 @@ EFR is a first aid course, taught by our PADI instructors. Learn the skills to a
 
 Learn more about our [EFR course](https://www.padi.com/courses/efr)
  
-If you would like to book our EFR course please [Contact Us](/contact)
+If you would like to book our EFR course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/EFR1.png,img/our-diving/EFR2.png,img/our-diving/EFR3.png" paddingTop="10px" >}}
 
@@ -155,7 +155,7 @@ If you would like to book our EFR course please [Contact Us](/contact)
 
 The PADI Rescue Diver course will change the way you dive in the best possible way. Learn to identify and fix minor issues before they become big ones, gain confidence, and have some serious fun along the way.
  
-Thinking like a rescue diver is taught through a combination of home study and practical skills training set over 2-3 days. PADI’s course is flexible, and highly performance based. You first get to practice basic rescue techniques and then to show how you can apply them effectively in an open water environment (max. water depth for training, 10 m).  **Our version of the course offers a unique extra, courtesy of our co-location with DAN,** a presentation about dive medicine given by Dr. Gabriel Idrobo, a hyperbaric specialist and PADI instructor. For many of our divers this is their favorite course, providing the knowledge and inspiration to progress a career as a PADI Pro.
+Thinking like a rescue diver is taught through a combination of home study and practical skills training set over 2-3 days. PADI’s course is flexible, and highly performance based. You first get to practice basic rescue techniques and then to show how you can apply them effectively in an open water environment (max. water depth for training, 10 m).  **Our version of the course offers a unique extra, courtesy of our co-location with DAN,** a presentation about dive medicine given by Dr. Gabriel Idrobo, a hyperbaric specialist and PADI instructor. For many of our divers this is their favourite  course, providing the knowledge and inspiration to progress a career as a PADI Pro.
  
 **To take the PADI Rescue Diver course with us you must:**
 <blockquote>
@@ -170,7 +170,7 @@ Thinking like a rescue diver is taught through a combination of home study and p
 
 Learn more about the [PADI Rescue Diver course](https://www.padi.com/courses/rescue-diver)
 
-If you would like to book our PADI Rescue Diver course please [Contact Us](/contact)
+If you would like to book our PADI Rescue Diver course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/RD1.png,img/our-diving/RD2.png,img/our-diving/RD3.png" paddingTop="10px" >}}
 
@@ -212,7 +212,7 @@ Topics and hands-on seminars associated with the DM course include:
 
 Learn more about the [PADI Dive Master course](https://www.padi.com/courses/divemaster)
 
-If you would like to book our PADI Dive Master course please [Contact Us](/contact)
+If you would like to book our PADI Dive Master course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/DM1.png,img/our-diving/DM2.png,img/our-diving/DM3.png" paddingTop="10px" >}}
 
@@ -233,7 +233,7 @@ If you haven't dived for several years, the PADI ReActivate/Refresh option is fo
 
 Learn more about the [PADI ReActivate/Refresh course](https://www.padi.com/courses/reactivate)
 
-If you would like to book our PADI ReActivate/Refresh course please [Contact Us](/contact)
+If you would like to book our PADI ReActivate/Refresh course, please [Contact Us](/contact)
 
 
 {{< image-row images="img/our-diving/RA2.png,img/our-diving/RA1.png,img/our-diving/RA3.png" paddingTop="10px" >}}
@@ -244,7 +244,7 @@ If you would like to book our PADI ReActivate/Refresh course please [Contact Us]
 
 Enriched air, also known as nitrox or EANx, contains less nitrogen than normal air. Breathing less nitrogen when you’re underwater means you can enjoy longer dives and shorter surface intervals. It's no wonder that PADI’s Enriched Air course has become so famous!
  
-PADI’s online ‘eLearning’® technology makes it easy to take the Enriched Air course, even if you have a busy schedule - complete the knowledge development section of the qualification where and when it is convenient, working at your own pace.  You can connect with your instructor whenever you have a question and after you’ve completed the independent study, they will teach you how to analyze a tank, fill out an enriched air log, and set up your dive computer for nitrox.  Thereafter, you can take two optional dives with your instructor.
+PADI’s online ‘eLearning’® technology makes it easy to take the Enriched Air course, even if you have a busy schedule - complete the knowledge development section of the qualification where and when it is convenient, working at your own pace.  You can connect with your instructor whenever you have a question and after you’ve completed the independent study, they will teach you how to analyse a tank, fill out an enriched air log, and set up your dive computer for nitrox.  Thereafter, you can take two optional dives with your instructor.
  
 **To take the PADI enriched air course with us, you must:**
 <blockquote>
@@ -255,7 +255,7 @@ PADI’s online ‘eLearning’® technology makes it easy to take the Enriched 
 
 Learn more about the [PADI Enriched Air course](https://www.padi.com/courses/enriched-air-diver)
 
-If you would like to book our PADI Enriched Air course please [Contact Us](/contact)
+If you would like to book our PADI Enriched Air course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/EAN1.png,img/our-diving/EAN2.png,img/our-diving/EAN3.png" paddingTop="10px" >}}
 
@@ -263,7 +263,7 @@ If you would like to book our PADI Enriched Air course please [Contact Us](/cont
 
 #### NIGHT DIVE ADVENTURE
 
-Without a doubt, this is one of our favorite adventures.  The feeling of diving at night is, for, many akin to going to the stars - but instead of going up into outer space you descend to inner space! (maximum night time dive depth 13 m / 43 ft).  
+Without a doubt, this is one of our favourite adventures.  The feeling of diving at night is, for, many akin to going to the stars - but instead of going up into outer space you descend to inner space! (Maximum night-time dive depth 13 m / 43 ft).  
 
 No matter how many times you dive a site during daylight hours, when you return there at night you enter a whole new world and watch it come to life beneath the light of your dive torch.  Don’t miss this most magical of dive activities.
  
@@ -278,7 +278,7 @@ No matter how many times you dive a site during daylight hours, when you return 
 
 Learn more about our [Night Dive Adventure](/our-diving/more-about-nd)
 
-If you would like to book our Night Dive Adventure please [Contact Us](/contact)
+If you would like to book our Night Dive Adventure, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/ND1.png,img/our-diving/ND2.png,img/our-diving/ND3.png" paddingTop="10px" >}}
 

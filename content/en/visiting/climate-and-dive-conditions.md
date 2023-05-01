@@ -1,7 +1,7 @@
 +++
 +++
 
-### VISITING THE GALAPAGOS - Currents, climate and dive conditions
+### VISITING THE GALAPAGOS - Currents, climate, and dive conditions
 
 <span class="strapline">Choose the right time for your trip...</span>
 
@@ -10,15 +10,15 @@
 #### The currents and their influence on life
 The Galapagos islands astonishingly rich marine environment results from the convergence of five major ocean currents and the equatorial weather influence.
  
-1 - The Humbolt current, named after explorer Alexander von Humboldt, sweeps north up the western coast of South America, past Chile and Peru, carrying cold, nutrient rich water from the Antarctic.  
+1 - The Humboldt Current, named after explorer Alexander von Humboldt, sweeps north up the western coast of South America, past Chile and Peru, carrying cold, nutrient rich water from the Antarctic. 
  
 2 - This current turns west at the equator and joins the South Equatorial current before heading straight towards the Galapagos and helping to create one of the world’s most productive marine ecosystems.
  
-3 - The Panama current, which flows down from Central America, is not as nutrient rich as the Humboldt, but it brings warm diving and better visibility between December and May each year. 
+3 - The Panama current, which flows down from Central America, is not as nutrient rich as the Humboldt, but it brings warm diving and better visibility between December and May each year.
  
-4 - The wind driven north ‘Equatorial Countercurrent’ that runs from west to east, cuts through the above currents and directs flow south down the coast.
+4 - The wind driven north ‘Equatorial Counter-current’ that runs from west to east, cuts through the above currents and directs flow south down the coast.
  
-5 - The final, and possibly most important current is the Cromwell ‘Pacific Equatorial’ undercurrent which flows about 100 m below the surface, from west to east.  When it hits the Galapagos, first on the west coasts of Ferandina and Isabela, it provides an upwelling of more cool, nutrient rich waters. 
+5 - The final, and possibly most important current is the Cromwell ‘Pacific Equatorial’ undercurrent which flows about 100 m below the surface, from west to east.  When it hits the Galapagos, first on the west coasts of Fernandina and Isabela, it provides an upwelling of more cool, nutrient rich waters.
  
 If you take a liveaboard that visits Punta Vincente Roca on the northwest coast of Isabela, you will come to understand the cool nature of the Cromwell undercurrent!
 
@@ -49,18 +49,18 @@ All year
 **Manta Rays**
 Most prolific between December and May
  
-**Mola Mola**
-Generally August to December/January
+**Mola mola**
+Generally, August to December/January
  
 **Whale Sharks**
 Generally, July to November
  
-{{< 
-image-row 
-title="Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation."
+{{<
+image-row
+title="Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.  Set out below a few of the locals!"
 images="img/visiting/Climate-600-galapagos_fish1.png,img/visiting/Climate-600-galapagos_fish2.png,img/visiting/Climate-600-galapagos_fish3.png" 
 paddingTop="10px"
-paddingBottom="0px" 
+paddingBottom="0px"
 >}}
 
 #### The local climate and dive conditions
@@ -78,7 +78,7 @@ Known locally as the Garùa (misty) season, this part of the year sees generally
 
 Average 15°-21° C (60°-70° F), mornings are often misty.  Good time to visit for increased underwater animal activity.
  
-**The short season** 
+**The short season**
 As indicated by the months covered above, there is another brief component to the year, during which the Galapagos experiences a short dry season (October to December).
  
 Average 21°-27° C (70°-80°F).  Good time to visit for mild weather, combining land and underwater activities.

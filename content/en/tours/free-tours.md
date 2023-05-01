@@ -7,7 +7,7 @@
 
 <span class="strapline">Economy choices, no less full of fun!</span>
 <B></B>
-Here;s a list of land-based day trips around the Puerto Ayora area on Santa Cruz Island that you can organise for yourself:
+Here's a list of land-based day trips around the Puerto Ayora area on Santa Cruz Island that you can organise for yourself:
  
 ##### Tortuga Bay:
 2 km west of Puerto Ayora, accessed via footpath (40-minute walk) or paid water ferry.  Open from 6am to 6pm.
@@ -16,10 +16,10 @@ Called Tortuga Bay due to the green sea turtles that use it as a nesting site, t
 
 If you want somewhere with no waves, just continue walking around the north point to a secluded lagoon where it is possible to snorkel and rent kayaks.  This is the location you are deposited/collected if you choose to access the area via boat from the town’s main harbour.
  
-##### The Charles Darwin Research Center:
-A 15- to 20-minute walk east of town, set on Av. Charles Darwin.  Open 6am – 6pm. 
+##### The Charles Darwin Research Centre:
+A 15- to 20-minute walk east of town, set on Av. Charles Darwin.  Open 6am – 6pm.
 
-More than 200 scientists and volunteers are involved with research and conservation efforts at the center, which is well known for its captive breeding program for giant tortoises. It offers, a baby tortoise house with incubators, a walk through an adult tortoise enclosure, an enclosure containing several land iguanas and explanations concerning efforts to restore their populations on islands.  Don’t miss the main national park information center with its magnificent whale skeletons and great souvenir shop.  You may want to consider taking your passport on the first occasion you visit the Darwin and asking that they stamp it for you, this provides a nice memento of your trip.
+More than 200 scientists and volunteers are involved with research and conservation efforts at the centre, which is well known for its captive breeding program for giant tortoises. It offers, a baby tortoise house with incubators, a walk through an adult tortoise enclosure, an enclosure containing several land iguanas and explanations concerning efforts to restore their populations on islands.  Don’t miss the main national park information centre with its magnificent whale skeletons and great souvenir shop.  You may want to consider taking your passport on the first occasion you visit the Darwin and asking that they stamp it for you, this provides a nice memento of your trip.
  
 Visiting some parts of this site requires payment of a $10 fee per person.
  
@@ -31,11 +31,11 @@ This beach is small but perfect on a hot day. It is on the way into the Charles 
 ##### German Beach:
 A 4-5 minute walk after taking a water taxi ride across the main bay in Puerta Ayora.
 
-The best time to visit German Beach is at high tide: you’ll find more water and fewer rocks!  This small bay with a gradual shelving beach is one of the the best swimming spots in Puerto Ayora and a nice stop on the way to Las Grietas - see immediately below. 
+The best time to visit German Beach is at high tide: you’ll find more water and fewer rocks!  This small bay with a gradual shelving beach is one of the best swimming spots in Puerto Ayora and a nice stop on the way to Las Grietas - see immediately below.
 
-{{< 
-image-row 
-title="Set out below, images of the Darwin centre, Station and German beaches."
+{{<
+image-row
+title="Set out below, images of the Darwin centre, Station, and German beaches."
 images="img/free-tours/CD-centre-600.png,img/free-tours/Station-B-600.png,img/free-tours/German-B-600.png" paddingTop="10px"
 >}}
 
@@ -50,17 +50,16 @@ Visiting this site requires payment of a $10 fee per person.
 ##### Garrapatero Beach:
 A 30- to 40-minute taxi ride east of Puerto Ayora, followed by a 15-minute walk onto the beach.
  
-Garrapatero offers a wide bay with multiple sandy beaches and tidal pools, it’s a great place to exploring and snorkel, especially on calm days. You can also rent kayaks and paddle across the bay to see the juvenile sharks.  There is a fresh water lagoon behind the beach, which is occasionally visited by pink flamingos.
+Garrapatero offers a wide bay with multiple sandy beaches and tidal pools, it’s a great place to exploring and snorkel, especially on calm days. You can also rent kayaks and paddle across the bay to see the juvenile sharks.  There is a freshwater lagoon behind the beach, which is occasionally visited by pink flamingos.
  
 ##### Cerro Crocker and Media Luna:
 North of Bellavista, Santa Cruz Island
  
 A path leads from the settlement of Bellavista towards Cerro Crocker, the high point on the island at 864 m. Follow this for several kilometres to Cerro Crocker/Media Luna.  From the high points, it’s possible to see the vegetation of the Scalesia, Miconia and fern-sedge zones around the island, and to look for birds such as the elusive Galapagos Rail and the Paint Billed crake. 
 
-{{< 
-image-row 
+{{<
+image-row
 title="Set out below, images of Las Grietas, Garrapatero Beach and Cerro Crocker."
-images="img/free-tours/Las-Grietas-600.png,img/free-tours/Garrapatero-B-600.png,img/free-tours/Cero-C-600.png" 
+images="img/free-tours/Las-Grietas-600.png,img/free-tours/Garrapatero-B-600.png,img/free-tours/Cero-C-600.png"
 paddingTop="10px"
 >}}
-

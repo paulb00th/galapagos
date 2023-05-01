@@ -34,4 +34,8 @@ Besides offering the highest quality dive training, **Galapagos Dive Academy** s
 Together, the crew at **Galapagos Dive Academy**  bring more than 50 years of dive industry expertise to everything they do.  Selecting **Galapagos Dive Academy** as your partner in the islands is the perfect way to improve your Galapagos experience.
 {{< /readmore >}}
 
-{{< image-row images="img/home_page/S-under2.png,img/home_page/L-iguana.png,img/home_page/D-shoal2.png" paddingTop="10px" >}}
+{{< image-row images="/img/home_page/R2L-Clau1.png,/img/home_page/Clau-2.jpg,/img/home_page/R2R-Clau-triple.png" paddingTop="10px" >}}
+
+{{< image-row images="/img/home_page/S-under2.png,/img/home_page/R2C-ClauT.png,/img/home_page/D-shoal2.png" paddingTop="10px" >}}
+
+{{< image-row images="/img/home_page/1_Whale-shark.jpg,/img/home_page/2_Sealion.jpg,/img/home_page/3_Hammerhead.jpg" paddingTop="10px" >}}
