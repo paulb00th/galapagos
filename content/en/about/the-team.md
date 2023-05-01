@@ -80,27 +80,17 @@ When you dive with Sofia you will experience her passion for sea life and discov
 
 {{< figure src="img/about/A-Us-captain.png" class="align-right full-width">}}
 
-I'm a local, having been born and raised on Santa Cruz Island in the Galapagos. 
+I'm a local, having been born and raised on Santa Cruz Island in the Galapagos.  Since I was a kid, I've been exploring the island's snorkeling and surfing sites. 
 
-Since I was a kid, I've been exploring the island's snorkeling and surfing sites. 
-
-While visiting 'Las Grietas' one day, (perhaps my favourite dive venue), I was overcome with the desire to reach the bottom and this became my motivation to learn the techniques of freediving.
-
-I started a formal freediving courses during the pandemic, in 2020, and became a PADI Freedive Instructor in 2021. Since then I've been able to explore many of the islands best sites to a whole new level.
+While visiting 'Las Grietas' a few years ago, (perhaps my favourite dive venue), I was overcome with the desire to reach the bottom and this became my motivation to learn the techniques of freediving.  I started a formal freediving courses during the pandemic, in 2020, and became a PADI Freedive Instructor in 2021. Since then I've been able to explore many of the islands best sites to a whole new level.
 
 In 2022 I was invited by Claudia and Juan Carlos to join the Galapagos Dive Academy team and, since then, I've been sharing my passion for freediving and my love of the Galapagos - such an amazing place to live!
 
-I'm often asked, 'why should I free dive'?  The answer is simple, freediving provides an entirely different way to experience the underwater world - taking you deeper for longer, and connecting you directly to the ocean - nature at its very best.
-
-Freedivers silently blend into the underwater environment. They enjoy magical encounters with shy marine life and hear the many sounds of the ocean itself.
+I'm often asked, 'why should I free dive'?  The answer is simple, freediving provides an entirely different way to experience the underwater world - taking you deeper for longer, and connecting you directly to the ocean - nature at its very best.  Freedivers silently blend into the underwater environment. They enjoy magical encounters with shy marine life and hear the many sounds of the ocean itself.
 
 Freediving is the perfect way to rexplore the depths of the oceans with minimal impact. While some people freedive for the challenge, for many, the true appeal  is in the silence and calm it brings to a hectic life.
 
-Alan has recently joined us and we are delighted to now offer freediving instruction at **Galapagos Dive Academy**.  
 
-Further details about Alan will be added shortly.
-
-*Image - To follow*
 
 <div class="grey-bar"></div>
 
