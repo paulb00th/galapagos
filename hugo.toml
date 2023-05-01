@@ -6,6 +6,16 @@ theme = 'hugo-universal-theme'
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 1
+#  [languages.es]
+#    languageName = "Español"
+#    contentDir = "content/es"
+#    weight = 2
+
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -17,7 +27,7 @@ paginate = 10
 # not pluralize title pages by default
 pluralizelisttitles = false
 
-canonifyURLs = true
+canonifyURLs = false
 
 [markup]
   [markup.goldmark]
@@ -46,6 +56,12 @@ googleRecaptchaKey = "6LfW3MUlAAAAAJza-nr4MaUR12gerj3BMHthSJcQ"
     name       = "Home"
     identifier = "menu.home"
     url        = "/"
+    weight     = 1
+
+[[languages.es.menu.main]]
+    name       = "Inicio"
+    identifier = "menu.home"
+    url        = "/es/" 
     weight     = 1
 
 [[menu.main]]

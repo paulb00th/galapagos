@@ -10,7 +10,7 @@
 <div class="image-row" style="padding-top: {{ $paddingTop }}; padding-bottom: {{ $paddingBottom }}">
     {{ range $index, $image := $images }}
         <div class="image-wrapper">
-            <img src="{{ $image | safeURL }}" alt="{{ index $altText $index }}">
+            <img src="{{ $image | safeURL | relURL }}" alt="{{ index $altText $index }}">
         </div>
     {{ end }}
 </div>

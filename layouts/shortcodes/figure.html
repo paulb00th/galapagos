@@ -4,6 +4,6 @@
 {{ $height := .Get "height" }}
 {{ $width := .Get "width" }}
 <figure class="{{ $class }}">
-  <img src="{{ $src }}" alt="{{ $alt }}" {{ if $height }}height="{{ $height }}"{{ end }} {{ if $width }}width="{{ $width }}"{{ end }}>
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" {{ if $height }}height="{{ $height }}"{{ end }} {{ if $width }}width="{{ $width }}"{{ end }}>
   {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
 </figure>
