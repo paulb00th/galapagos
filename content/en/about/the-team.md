@@ -96,7 +96,7 @@ Javier has more than 20-years of experience navigating in the Galapagos islands 
 
 We greatly enjoy having Javier as our dive boat captain and encourage you to get to know him when onboard, we are sure you will appreciate his enthusiasm, knowledge, friendly disposition and his supporting hand as you climb back onboard the boat!
 
-Javier owns several dozen peaked caps and he especially appreciates guests who bring an extra one to add to his ever-growing collection! 
+Javier owns several dozen peaked caps and he especially appreciates guests who bring an extra one to add to his ever-growing collection, perhaps you have a hat for Javier! 
 
 *Image - Javier onboard NINA in Academy Bay - busily navigating!*
 
