@@ -100,6 +100,8 @@ Javier owns several dozen peaked caps and he especially appreciates guests who b
 
 *Image - Javier onboard NINA in Academy Bay - busily navigating!*
 
+<br>
+
 <div class="grey-bar"></div>
 
 <span class="strapline">Want to join our team? </span>
