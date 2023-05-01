@@ -3,7 +3,7 @@
 
 ### OUR PRICES
 
-{{< figure src="img/GDA-invoice.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/GDA-invoice2.png" class="align-right full-width-on-small" >}}
 
 <span class="strapline">The best prices on the Islands, delivering the best quality experiences </span>
  

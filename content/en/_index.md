@@ -38,4 +38,4 @@ Together, the crew at **Galapagos Dive Academy**  bring more than 50 years of di
 
 {{< image-row images="img/home_page/S-under2.png,img/home_page/R2C-ClauT.png,img/home_page/D-shoal2.png" paddingTop="10px" >}}
 
-{{< image-row images="img/home_page/1_Whale-shark.jpg,img/home_page/2_Sealion.jpg,img/home_page/3_Hammerhead.jpg" paddingTop="10px" >}}
+{{< image-row images="img/home_page/1_Whale-shark2.jpg,img/home_page/2_Sealion2.jpg,img/home_page/3_Hammerhead2.jpg" paddingTop="10px" >}}
