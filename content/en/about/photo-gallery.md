@@ -16,7 +16,6 @@ We are especially grateful to the following for their contributions to the Galle
 and
 **The Galapagos Dive Academy Team**
 
-
 <ul>
 {{<
 gallery-row
@@ -102,4 +101,4 @@ gallery-row
 images="img/gallery/R14-1Cactus-flowers.jpg,img/gallery/R14-2-Finch.jpg,img/gallery/R14-3-D-arch-down.jpg"
 alt="Cactus flowers at night,Local finch, Ops - there goes Darwin's Arch!"
 >}}
-<ul/>
+</ul>
