@@ -6,7 +6,8 @@
 <span class="strapline">World class diving with an evolutionary edge!</span>
 
 
-[Go directly to](/Our long-range, day-trip, dive locations) set out below
+Go directly to [Our long-range, day-trip, dive locations](#2-full-dives) set out below
+
 
 
 #### Introduction
@@ -45,7 +46,7 @@ All our long-range day diving trips include:
 •	Local travel relating to your departure and return locations
 •	Experienced bilingual guides/instructors
 •	Check dives, when required, to assess weight and gear (duration, 5-10 minutes)
-•	2 full dives
+•	<span id="2-full-dives">2 full dives</span>
 •	All dive equipment:  wetsuit (5 or 7mm), BCD, regulator, booties, fins, hood, tanks
 •	Snacks, lunch and drinking water
 •	Towels
