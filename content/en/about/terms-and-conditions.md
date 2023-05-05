@@ -53,22 +53,22 @@ Any claim regarding any services not provided during a trip will only be accepte
 
 
 9. **Cancellations (Cancellation, Return & Refund Policies)**
-Cancellation by you: Individual passengers and passengers in groups – PADI Courses only:
-If you enroll in a PADI course you will receive digital material, once you redeem your code it cannot be returned. You will be able to use your PADI material with another dive centre if you so choose.
-a) Cancellations made 45 days or more prior to service date - refund given minus any bank fees/service charges.  We will discount 100% of the PADI material. 
-b) Cancellations made 44 to 30 days prior to service date - we will retain 35% of your deposit – refund given for the balance minus any bank fees/service charges. We will discount 100% of the PADI material.
-c) Cancellations made 29 days or less prior to service date - we will retain 70% of your deposit – refund given for the balance minus any bank fees/service charges. We will discount 100% of the PADI material.
+9.1 **Cancellation by you: Individual passengers and passengers in groups – PADI/SSI Courses only:**
+If you enroll in a PADI/SSI course you may receive digital material, once you redeem your code this may not be returable. You will be able to use your PADI/SSI material with another dive centre if you so choose.
+a) Cancellations made 45 days or more prior to service date - refund given minus any bank fees/service charges.  We will discount 100% of any PADI/SSI material. 
+b) Cancellations made 44 to 30 days prior to service date - we will retain 35% of your deposit – refund given for the balance minus any bank fees/service charges. We will discount 100% of any PADI/SSI material.
+c) Cancellations made 29 days or less prior to service date - we will retain 70% of your deposit – refund given for the balance minus any bank fees/service charges. We will discount 100% of any PADI/SSI material.
 d) Cancellations made less than 48 hours prior to service date - we will retain 100% of the monies paid
-If the candidate/student cannot continue with a course for personal reasons, such as family tragedy, fear or illness, no refund will be offered. Your instructor will nevertheless give you a ‘Referral Form’ with all the exercises performed/completed which you can take to any PADI diving centre worldwide and use towards the completion of your training with them. Such referrals are valid for 12 months.
-**Cancellation by you: Individual passengers and groups – 3rd Party packages:**
+If the candidate/student cannot continue with a course for personal reasons, such as family tragedy, fear or illness, no refund will be offered. Your instructor will nevertheless give you a ‘Referral Form’ with all the exercises performed/completed which you can take to any PADI/SSI diving centre worldwide and use towards the completion of your training with them. Such referrals are valid for 12 months.
+9.2 **Cancellation by you: Individual passengers and groups – 3rd Party packages:**
 a) Cancellations made 90 days or more prior to service date - refund given minus any bank fees/service charges
 b) Cancellations made 89 to 60 days prior to service date – we will retain 75% of the monies paid
 c) Cancellations made less than 59 days prior to service date– We will retain the remaining 100% of monies paid by you
 Note: Certain Hotels and all cruises have stricter cancellations policies than this, Galapagos Dive Academy reserves the right to apply the cancellation policy of specific hotels, cruises and tour operators included in your package.
 Any credit resulting from a cancellation under this clause is valid for 9 months from the original service date and may be applied towards any available tour or package offered by us. This credit is not transferrable or redeemable for cash.
-**Cancellation by us:**
+9.3 **Cancellation by us:**
 Certain services may be interrupted or may be cancelled due to weather conditions, force majeure, or other reasons beyond the control of the hotels, airlines, suppliers to us (or Galapagos Dive Academy itself).
-**Cancellation due to Force Majeure**
+9.4 **Cancellation due to Force Majeure**
 If a trip is cancelled due to a Force Majeure Event, we can offer you a choice of: a) A 100% credit of monies paid for your trip: or, b) A refund minus unrecoverable costs.
 If the cancellation due to a Force Majeure Event occurs after a trip has commenced, we can offer you a choice of a pro-rata: a) 100% credit for the days that remain on your trip; or b) Refund minus unrecoverable costs of the days that remain on your trip.
 Any credit resulting from a cancellation under this clause (Cancellation by us): does not have an expiry date and may be applied towards any other available trip offered by us.  Note, the credit is not redeemable for cash.
