@@ -5,8 +5,8 @@
 
 <span class="strapline">Expertly taught and fun to learn! </span>
  
-{{< figure src="img/PADI-logo.png" class="align-left" width="60" >}}
-{{< figure src="img/60_SSI-logo2.png" class="align-left" width="60" >}}
+<!-- {{< figure src="img/60-SSI-PADI-logo.png" class="align-right" width="60" >}} -->
+{{< padi-ssi >}}
 
 **Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors and with with [SSI](https://www.divessi.com) Scuba Schools International.  
 
