@@ -106,6 +106,24 @@ Cristian is a diver and regularly spends time under the water.  When he’s not 
 
 *Image - Cristian Solis*
 
+<div class="grey-bar"></div>
+
+##### Nick and Paul - IT Services
+
+{{< figure src="img/about/N&Pworking_small.png" class="align-right full-width">}}
+
+Nick and Paul both live in the UK.  Nick in Brighton and Paul in Hove.
+
+They have know each other for many years and when not busy with work and their families they occassionally collaborate to produce websites and provide IT support to organisations working in the scuba diving and outdoor activities industries.
+
+We have come to hold those at Galapagos Dive Academy in high regard and are keen to see their business realise its full potential
+
+Our best wishes to to Claudia, Juan-Carlos and everyone associoated with the new company!
+
+For any techies out there we built this website using Hugo and we've hosted it on Github Pages.  If you need to contact us, use the email in the website footer.
+
+*Image - Nick and Paul at work on the GDA website*
+
 <br>
 
 <div class="grey-bar"></div>
