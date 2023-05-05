@@ -19,7 +19,6 @@ and
 *The Galapagos Dive Academy Team*
 
 Some recent, mostly 2023, images
-
 <ul>
 {{<
 gallery-row

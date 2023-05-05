@@ -9,7 +9,9 @@ Set out below is a selection of our favourite accommodations in the Puerto Ayora
 
 Feel free to [Contact Us](/contact) if any of these appeal, or if you are looking for something similar on Santa Cruz Island of elsewhere in the Galapagos.
 
-### Sol Marina Suite 
+**Standard**
+
+### Sol Marina Properties 
 
 {{< 
 figure src="img/accom-travel/Sol-Marina-Suite-2.png" 
@@ -17,51 +19,202 @@ class="full-width-on-small"
 paddingBottom="20px"
 >}}
 
-**DESCRIPTION:** A cozy upper floor suite set within an attractive private garden in a quite residential neighbourhood.  Perfect for up to two people, the location is within easy walking distance of the Charles Darwin Station, the town centre and harbour.
+**DESCRIPTION:** Sol Marina offer three options, a Garden House a pleasing two storey, two bedroom, one and a half bathroom garden house designed for up to four visitors, two delightful duplex apartments each filled with light designed for two visitors but with a sofa bed for additional guests if required, and a cozy, single storey, upper floor suite, designed for one or two people (and when necessary a small child).
 
-This unit, accessed by a single flight of stairs, offers a kitchen with extensive accessories, a full bathroom, and a main room with a large and comfortable bed.  Off of the bedroom is a private balcony overlooking the garden. 
+All of the above units are set in an attractive private garden located in the quiet, El Eden, residential neighbourhood of Puerto Ayora, on Santa Cruz Island.  The accommodations are within easy walking distance of the Charles Darwin Research Station, the town centre, and its harbour (5-15 mins.)  If you’re seeking access to our local tourist sites and a comfortable and secure place to stay, look no further!
 
-The unit comes with free laundry and housekeeping services (every other day), WiFi, cable TV and filtered water.
+At the entranceway to each unit, excluding the Suite, there’s a wooden deck with hammock/s, while, in the garden there’s also a swing for children.
 
-**For further details about this unit and for up to the minute reviews, see [airbnb](
-https://www.airbnb.co.uk/rooms/48081467) suite.  Please note, the airbnb calendar for this accommodation is often not maintained, please contact us directly when you are ready to book.**
+The units each provide kitchens, alongside dining, living, bedroom and bathroom areas and all come with high ceilings, large windows and inbuilt A/C, 
 
-<br>
+Additionally, the units all come with:
+A free laundry service
+A housekeeping service (provided every other day)
+WiFi
+Cable TV
+Filtered water
 
-<div class="grey-bar"></div>
-
-### Sol Marina Garden Apartment
-
-{{< 
-figure src="img/accom-travel/Sol-Marina-Garden-appartment-2.png" 
-class="full-width-on-small"
-paddingBottom="20px"
->}}
-
-**DESCRIPTION:** One of two delightful duplex apartments set within an attractive private garden in a quite residential neighbourhood.  Each is full of light, located in a private garden, and is within easy walking distance of the Charles Darwin Station, the town centre and harbour.
-
-At the entranceway to the property there’s a small wooden deck with hammock.  The ground floor provides a well equipped kitchen, dining and living area.  The upper floor offers a spacious bedroom with A/C, full bathroom and a small balcony. 
-
-The unit/s come with free laundry and housekeeping services (every other day), WiFi, cable TV and filtered water.
-
-**For further details about this unit and for up to the minute reviews, see [airbnb](https://www.airbnb.co.uk/rooms/12645937) apartment.  Please note, the airbnb calendar for this accommodation is often not maintained, please contact us directly when you are ready to book.**
+**For further details about Sol Marina Properties, please [Contact Us](/contact).**
 
 <div class="grey-bar"></div>
 
-### Sol Marina Garden House
+### Lava House
 
 {{< 
-figure src="img/accom-travel/Sol-Marina-Garden-house-2.png" 
+figure src="img/accom-travel/LavaHouseHostal.png" 
 class="full-width-on-small"
 paddingBottom="20px"
 >}} 
 
-**DESCRIPTION:** A pleasing two storey, two bedroom, one and a half bathroom home, set within an attractive private garden in a quite residential neighbourhood.  Perfect for up to four people, the location is within easy walking distance of the Charles Darwin Station, the town centre and harbour.
+**DESCRIPTION:** In a privileged location, Lava House provides clients with the means to easily enjoy the most exclusive area in Puerto Ayora, while being only minutes away from the central Charles Darwin Avenue.
 
-At the entranceway to the property there’s a large wooden deck with table, chairs and hammocks. Adjacent to the deck is a garden swing - perfect for children!
+Lave House provides 11 rooms with private bathrooms, each with hot water, A/C, cable TV, telephone in the room, purified water, hair dryer, hand and bath towels, eco soap, shampoo and conditioner.  At reception guests will find beach towels, and a safe deposit box.  The hostel is happy to provide tourist information and to safeguard clients bags on the day of checkout.  Breakfast and WIFI are both available.
 
-The ground floor provides a well equipped kitchen (with oven), a dining and living area, and the 1/2 bathroom.  The upper floor offers the two spacious bedrooms, each with big windows looking over the garden and A/C and a full bathroom.
+Please note, Lave House does not provide, sodas, beers, etc. or free airport-hostel transfers. 
 
-The unit comes with free laundry and housekeeping services (every other day), WiFi, cable TV and filtered water.
+**For further details about Lave House, please [Contact Us](/contact).**
 
-**For further details about this unit and for up to the minute reviews, see [airbnb](https://www.airbnb.co.uk/rooms/4158020) house.  Please note, the airbnb calendar for this accommodation is often not maintained, please contact us directly when you are ready to book.**
+
+<div class="grey-bar"></div>
+
+### Casa de Mathias
+
+{{< 
+figure src="img/accom-travel/Casa de Mathias.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Casa de Mathias, please [Contact Us](/contact).**
+
+
+<div class="grey-bar"></div>
+
+### Captain Max
+
+{{< 
+figure src="img/accom-travel/Captain Max.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Captain Max, please [Contact Us](/contact).**
+
+
+<div class="grey-bar"></div>
+
+### Hostal Sueños Silvestres
+
+{{< 
+figure src="img/accom-travel/Hostal Sueños Silvestres.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Hostal Sueños Silvestres, please [Contact Us](/contact).**
+
+
+<div class="grey-bar"></div>
+
+**Comfort**
+
+### Galapagos Suites
+
+{{< 
+figure src="img/accom-travel/Galapagos Suites.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Galapagos Suites,please [Contact Us](/contact).**
+
+<div class="grey-bar"></div>
+
+### La Isla
+
+{{< 
+figure src="img/accom-travel/La isla .png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about La isla, please [Contact Us](/contact).**
+
+<div class="grey-bar"></div>
+
+### Hotel Fiesta
+
+{{< 
+figure src="img/accom-travel/Hotel Fiesta.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Hotel Fiesta, please [Contact Us](/contact).**
+
+<div class="grey-bar"></div>
+
+### Villa Laguna
+
+{{< 
+figure src="img/accom-travel/Villa Laguna.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Villa Laguna, please [Contact Us](/contact).**
+
+<div class="grey-bar"></div>
+
+**Superior**
+
+### Ikala
+
+{{< 
+figure src="img/accom-travel/Ikala.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Ikala, please [Contact Us](/contact).**
+
+
+<div class="grey-bar"></div>
+
+### Finch-Bay
+
+{{< 
+figure src="img/accom-travel/Finch-Bay.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Finch-Bay, please [Contact Us](/contact).**
+
+
+<div class="grey-bar"></div>
+
+### Shangri-la
+
+{{< 
+figure src="img/accom-travel/shangri-la.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about Shangri-la, please [Contact Us](/contact).**
+
+
+<div class="grey-bar"></div>
+
+### CUCUVE-suites
+
+{{< 
+figure src="img/accom-travel/CUCUVE-suites.png" 
+class="full-width-on-small"
+paddingBottom="20px"
+>}} 
+
+**DESCRIPTION:** Text here. 
+
+**For further details about CUCUVE-suites, please [Contact Us](/contact).**

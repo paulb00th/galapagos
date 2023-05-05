@@ -18,7 +18,7 @@ With a PADI or SSI certification you can dive in nearly 200 countries and territ
 
 #### Discover Scuba Diving (DSD)
 
-The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI instructor.  Let the team at **Galapagos Dive Academy** introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
+The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI/SSI instructor.  Let the team at **Galapagos Dive Academy** introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
 
 **To join us for a DSD experience you must:**
 
@@ -98,7 +98,7 @@ If you would like to book our Scuba Diver course, please [Contact Us](/contact)
 You can further progress your SCUBA training by taking the Advanced Open Water course.  This lifelong qualification, usually taught over 3 days, is designed to improve your technique and introduce you to new diving skills – building your experience, confidence, and capabilities.
  
 The theory component of the course is taught digitally, with an extensive array of online materials allowing you to tailor your study. The practical component encompasses five blue water dives, the following two of which are compulsory: 
-1)  A deep dive taking you and your PADI instructor far beyond the 18 m ‘Open Water’ limit.  During the preparation for this you will learn about how to plan for deep diving, so that it’s both safe and fun.
+1)  A deep dive taking you and your PADI/SSI instructor far beyond the 18 m ‘Open Water’ limit.  During the preparation for this you will learn about how to plan for deep diving, so that it’s both safe and fun.
  
 2)  An underwater navigation dive that will build on the skills learned during your ‘Open Water’ course and teach you about more complex navigational practice.  
 
@@ -158,7 +158,7 @@ If you would like to book our EFR course, please [Contact Us](/contact)
 
 The Rescue Diver course will change the way you dive in the best possible way. Learn to identify and fix minor issues before they become big ones, gain confidence, and have some serious fun along the way.
  
-Thinking like a rescue diver is taught through a combination of home study and practical skills training set over 2-3 days. Our course is flexible, and highly performance based. You first get to practice basic rescue techniques and then to show how you can apply them effectively in an open water environment (max. water depth for training, 10 m).  **Our version of the course offers a unique extra, courtesy of our co-location with DAN,** a presentation about dive medicine given by Dr. Gabriel Idrobo, a hyperbaric specialist and PADI instructor. For many of our divers this is their favourite  course, providing the knowledge and inspiration to progress a career as a PADI Pro.
+Thinking like a rescue diver is taught through a combination of home study and practical skills training set over 2-3 days. Our course is flexible, and highly performance based. You first get to practice basic rescue techniques and then to show how you can apply them effectively in an open water environment (max. water depth for training, 10 m).  **Our version of the course offers a unique extra, courtesy of our co-location with DAN,** a presentation about dive medicine given by Dr. Gabriel Idrobo, a hyperbaric specialist and PADI instructor. For many of our divers this is their favourite  course, providing the knowledge and inspiration to progress a career as a dive Pro.
  
 **To take our Rescue Diver course you must:**
 <blockquote>
@@ -168,7 +168,7 @@ Thinking like a rescue diver is taught through a combination of home study and p
 
 <p>Have received EFR primary and secondary care training (or comparable/qualifying training) within the past 24 months</p>
 
-<p>Please note: If you don't have an EFR certificate and want to take the Rescue Course, we can facilitate EFR co-incident training supplied by the PADI instructors who manage the island's decompression chamber. What better place could there be to learn!</p>
+<p>Please note: If you don't have an EFR certificate and want to take the Rescue Course, we can facilitate EFR co-incident training supplied by the PADI/SSI instructors who manage the island's decompression chamber. What better place could there be to learn!</p>
 </blockquote>
 
 Learn more about the [PADI Rescue Diver course](https://www.padi.com/courses/rescue-diver)
@@ -223,7 +223,7 @@ If you would like to book our Dive Master course, please [Contact Us](/contact)
 
 #### ReActivate / Refresh
 
-If you haven't dived for several years, the ReActivate/Refresh option is for you.  Whichever of these courses you take, you will have the opportunity to review the most important diving theories and techniques, on an outing with a PADI instructor in the sea or in a pool.  This will prepare you to re-enter the big blue feeling relaxed and confident.
+If you haven't dived for several years, the ReActivate/Refresh option is for you.  Whichever of these courses you take, you will have the opportunity to review the most important diving theories and techniques, on an outing with a PADI/SSI instructor in the sea or in a pool.  This will prepare you to re-enter the big blue feeling relaxed and confident.
  
 **To take the ReActivate / Refresh course with us, you must:**
 <blockquote>
@@ -245,7 +245,7 @@ If you would like to book our ReActivate/Refresh course, please [Contact Us](/co
 
 #### ENRICHED AIR (NITROX)
 
-Enriched air, also known as nitrox or EANx, contains less nitrogen than normal air. Breathing less nitrogen when you’re underwater means you can enjoy longer dives and shorter surface intervals. It's no wonder that PADI’s Enriched Air course has become so famous!
+Enriched air, also known as nitrox or EANx, contains less nitrogen than normal air. Breathing less nitrogen when you’re underwater means you can enjoy longer dives and shorter surface intervals. It's no wonder that Enriched Air courses have become so famous!
  
 Online technology makes it easy to take the Enriched Air course, even if you have a busy schedule - complete the knowledge development section of the qualification where and when it is convenient, working at your own pace.  You can connect with your instructor whenever you have a question and after you’ve completed the independent study, they will teach you how to analyse a tank, fill out an enriched air log, and set up your dive computer for nitrox.  Thereafter, you can take two optional dives with your instructor.
  
