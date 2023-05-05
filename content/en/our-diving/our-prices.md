@@ -9,6 +9,10 @@
  
 #### Course fees
 
+**Discover Scuba Diving (DSD) course (inc. 1 dive in Academy Bay with Instructor)**
+1 student, $270
+2 or more students, $180 each
+
 **Open Water (OW) course (inc. digital theory + pool class + 4 OW dives in the bay)**
 1 student, $928
 2 or more students, $605 each

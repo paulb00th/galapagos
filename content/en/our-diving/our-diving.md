@@ -1,13 +1,15 @@
 +++ 
 +++
 
-### OUR DIVING - The PADI courses and adventures we offer
+### OUR DIVING - The courses and adventures we offer
 
 <span class="strapline">Expertly taught and fun to learn! </span>
  
 {{< figure src="img/PADI-logo.png" class="align-right" width="60" >}}
 
-**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors.  With a PADI certification you can dive in 186 countries and territories, at more than 6,600 dive centres and resorts. PADI is the world's largest diving and ocean exploration organization, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
+**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors and with with [SSI](https://www.divessi.com) Scuba Schools International.  
+
+With a PADI or SSI certification you can dive in nearly 200 countries and territories, at thousands of dive centres and resorts. PADI and SSI are the world's leading diving and ocean exploration organizations, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
  
 [See Our Prices](/our-diving/our-prices)
 
@@ -39,9 +41,9 @@ If you would like to book our DSD trip, please [Contact Us](/contact)
 
 <div class="grey-bar"></div>
 
-#### PADI OPEN WATER COURSE
+#### OPEN WATER COURSE
 
-If you would like to progress your SCUBA training after your DSD experience, you can take the PADI Open Water course - a lifelong qualification.  This is PADI’s most popular course worldwide, being designed so that the student can either start at home and finish on vacation or complete the entire course whilst on holiday. 
+If you would like to progress your SCUBA training after your DSD experience, you can take an Open Water course - a lifelong qualification.  This is the most popular course worldwide, being designed so that the student can either start at home and finish on vacation or complete the entire course whilst on holiday. 
  
 The Open Water course is in two parts. The first is academic and theoretical, and conducted with new easy to access online materials.  You can undertake this section slowly at home or in just a few days while on vacation.  The second part is a mix of confined (pool-based) and open water practical training during which you learn how to handle scuba equipment and become an independent diver.  This section usually takes 3 days to complete and provides for a total of 4-dives in the sea.  Following certification, you are qualified to a maximum depth of 18m.
  
@@ -53,25 +55,25 @@ The Open Water course is in two parts. The first is academic and theoretical, an
 <p>Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving)</p>
 </blockquote>
 
-We teach the PADI Open Water course in Academy Bay, using several sites, these being:  [Punta Estrada](/our-diving/our-main-dive-sites), [Loberia](/our-diving/our-main-dive-sites), [El Bajo](/our-diving/our-main-dive-sites), and [El Barranco](/our-diving/our-main-dive-sites).
+We teach our Open Water course in Academy Bay, using several sites, these being:  [Punta Estrada](/our-diving/our-main-dive-sites), [Loberia](/our-diving/our-main-dive-sites), [El Bajo](/our-diving/our-main-dive-sites), and [El Barranco](/our-diving/our-main-dive-sites).
 
 We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
  
-Learn more about [our PADI Open Water course](/our-diving/more-about-ow)
+Learn more about [our Open Water course](/our-diving/more-about-ow)
  
-If you would like to book our PADI Open Water course, please [Contact Us](/contact)
+If you would like to book an Open Water course, or learn more about the differences between the PADI and SSI versions, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/OW1.png,img/our-diving/OW2.png,img/our-diving/OW3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
-#### PADI SCUBA DIVER COURSE
+#### SCUBA DIVER COURSE
 
-If your time is limited (or you were unable to complete your PADI Open Water course for any reason), the PADI Scuba Diver course is for you.  You complete the same academic study as for the Open Water qualification, but the confined water practices and two open water dives are conducted in just 2 days.
+If your time is limited (or you were unable to complete your Open Water course for any reason), the Scuba Diver course might be just what you need.  You complete the same academic study as for the Open Water qualification, but the confined water practices and two open water dives are conducted in just 2 days.
  
-Upon completion of the course, you will receive a digital certificate as a PADI Scuba Diver which will allow you to descend, under the direct supervision of a PADI professional, to a maximum depth 12m/40ft.  Once you have the PADI Scuba Diver qualification, you can complete Open Water training at any PADI dive centre worldwide and thereby UPGRADE your qualification.
+Upon completion of the course, you will receive a digital certificate as a Scuba Diver which will allow you to descend, under the direct supervision of a professional, to a maximum depth 12m/40ft.  Once you have the Scuba Diver qualification, you can complete Open Water training at any appropriate dive centre worldwide and thereby UPGRADE your qualification.
  
-**To join us for the PADI Scuba Diver course you must:**
+**To join us for the our Scuba Diver course you must:**
 <blockquote>
 
 <p>Be a minimum of 10 years old</p>
@@ -80,7 +82,7 @@ Upon completion of the course, you will receive a digital certificate as a PADI 
 <p>Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving</p>
 </blockquote>
 
-We teach the PADI Scuba Diver course in Academy Bay, at the dive site we call [Punta Estrada](/our-diving/our-main-dive-sites), and offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
+We teach our Scuba Diver course in Academy Bay, at the dive site we call [Punta Estrada](/our-diving/our-main-dive-sites), and offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
  
 Learn more about [our Scuba Diver course](https://www.padi.com/courses/scuba-diver)
  
@@ -90,9 +92,9 @@ If you would like to book our Scuba Diver course, please [Contact Us](/contact)
 
 <div class="grey-bar"></div>
 
-#### PADI ADVANCED OPEN WATER
+#### ADVANCED OPEN WATER
 
-You can further progress your SCUBA training by taking the PADI Advanced Open Water course.  This lifelong qualification, usually taught over 3 days, is designed to improve your technique and introduce you to new diving skills – building your experience, confidence, and capabilities.
+You can further progress your SCUBA training by taking the Advanced Open Water course.  This lifelong qualification, usually taught over 3 days, is designed to improve your technique and introduce you to new diving skills – building your experience, confidence, and capabilities.
  
 The theory component of the course is taught digitally, with an extensive array of online materials allowing you to tailor your study. The practical component encompasses five blue water dives, the following two of which are compulsory: 
 1)  A deep dive taking you and your PADI instructor far beyond the 18 m ‘Open Water’ limit.  During the preparation for this you will learn about how to plan for deep diving, so that it’s both safe and fun.
@@ -110,7 +112,7 @@ You might also like to ask us about our Naturalist, Fish ID, Drift Dive and othe
 
 At Galapagos Dive Academy we can combine the advanced course with long trips to remote destinations, ask us for details about this combined option.
  
-**To take our PADI Advanced Open Water course you must:**
+**To take our Advanced Open Water course you must:**
 <blockquote>
 </p>Be a minimum of 12 years old</p>
 
@@ -119,9 +121,9 @@ At Galapagos Dive Academy we can combine the advanced course with long trips to 
 <p>Please note: The exact depth to which a student will descend during the course depends upon age, but the maximum for an adult is 30 meters/100 feet</p>
 </blockquote>
 
-Learn more about our [PADI Advanced Open Water course](/our-diving/more-about-aow)
+Learn more about our [Advanced Open Water course](/our-diving/more-about-aow)
  
-If you would like to book our PADI Advanced Open Water course, please [Contact Us](/contact)
+If you would like to book an Advanced Open Water course, or learn more about the differences between the PADI and SSI versions, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/AOW1.png,img/our-diving/AOW2.png,img/our-diving/AOW3.png" paddingTop="10px" >}}
 
@@ -129,7 +131,7 @@ If you would like to book our PADI Advanced Open Water course, please [Contact U
 
 #### EMERGENCY FIRST RESPONSE – EFR
 
-EFR is a first aid course, taught by our PADI instructors. Learn the skills to aid in primary and secondary emergencies through a combination of home-based online study and practical face-to-face classroom drills. This knowledge will help prepare you for any emergency that arises, wherever you are.
+EFR is a first aid course, taught by our instructors. Learn the skills to aid in primary and secondary emergencies through a combination of home-based online study and practical face-to-face classroom drills. This knowledge will help prepare you for any emergency that arises, wherever you are.
 
 **The following details summarise the course:**
 
@@ -151,13 +153,13 @@ If you would like to book our EFR course, please [Contact Us](/contact)
 
 <div class="grey-bar"></div>
 
-#### PADI RESCUE DIVER
+#### RESCUE DIVER
 
-The PADI Rescue Diver course will change the way you dive in the best possible way. Learn to identify and fix minor issues before they become big ones, gain confidence, and have some serious fun along the way.
+The Rescue Diver course will change the way you dive in the best possible way. Learn to identify and fix minor issues before they become big ones, gain confidence, and have some serious fun along the way.
  
-Thinking like a rescue diver is taught through a combination of home study and practical skills training set over 2-3 days. PADI’s course is flexible, and highly performance based. You first get to practice basic rescue techniques and then to show how you can apply them effectively in an open water environment (max. water depth for training, 10 m).  **Our version of the course offers a unique extra, courtesy of our co-location with DAN,** a presentation about dive medicine given by Dr. Gabriel Idrobo, a hyperbaric specialist and PADI instructor. For many of our divers this is their favourite  course, providing the knowledge and inspiration to progress a career as a PADI Pro.
+Thinking like a rescue diver is taught through a combination of home study and practical skills training set over 2-3 days. Our course is flexible, and highly performance based. You first get to practice basic rescue techniques and then to show how you can apply them effectively in an open water environment (max. water depth for training, 10 m).  **Our version of the course offers a unique extra, courtesy of our co-location with DAN,** a presentation about dive medicine given by Dr. Gabriel Idrobo, a hyperbaric specialist and PADI instructor. For many of our divers this is their favourite  course, providing the knowledge and inspiration to progress a career as a PADI Pro.
  
-**To take the PADI Rescue Diver course with us you must:**
+**To take our Rescue Diver course you must:**
 <blockquote>
 <p>Be a minimum of 12 years old
 
@@ -170,19 +172,19 @@ Thinking like a rescue diver is taught through a combination of home study and p
 
 Learn more about the [PADI Rescue Diver course](https://www.padi.com/courses/rescue-diver)
 
-If you would like to book our PADI Rescue Diver course, please [Contact Us](/contact)
+If you would like to book our Rescue Diver course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/RD1.png,img/our-diving/RD2.png,img/our-diving/RD3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
-#### PADI DIVE MASTER
+#### DIVE MASTER
 
-Become a diving professional, expand your knowledge, and have the option to work worldwide. The PADI Divemaster course teaches you to be a leader and take charge of diving activities.  During your DM study you will undertake classwork, practical exercises, and participate in diver training in both confined and open water conditions. 
+Become a diving professional, expand your knowledge, and have the option to work worldwide. Our Divemaster course teaches you to be a leader and take charge of diving activities.  During your DM study you will undertake classwork, practical exercises, and participate in diver training in both confined and open water conditions. 
  
 Topics and hands-on seminars associated with the DM course include:
  
-• The role and character of the PADI Divemaster
+• The role and character of the Divemaster
 • Supervising diving activities and assisting with student divers
 • Diver safety and risk management
 • Specialized techniques
@@ -195,7 +197,7 @@ Topics and hands-on seminars associated with the DM course include:
 • Leading a scuba review and a skin diver course
 • Assisting with Discover Scuba Diving (DSD) programs and guided diving programs.
  
-**To take the PADI Dive Master course with us you must:**
+**To take our Dive Master course you must:**
 <blockquote>
 <p>Be a minimum of 18 years old</p>
 
@@ -210,19 +212,19 @@ Topics and hands-on seminars associated with the DM course include:
 <p>Expect to make a time commitment towards your qualification of approximately 50 hours</p>
 </blockquote>
 
-Learn more about the [PADI Dive Master course](https://www.padi.com/courses/divemaster)
+Learn more about the [Dive Master course](https://www.padi.com/courses/divemaster)
 
-If you would like to book our PADI Dive Master course, please [Contact Us](/contact)
+If you would like to book our Dive Master course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/DM1.png,img/our-diving/DM2.png,img/our-diving/DM3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
-#### PADI ReActivate / Refresh
+#### ReActivate / Refresh
 
-If you haven't dived for several years, the PADI ReActivate/Refresh option is for you.  Whichever of these courses you take, you will have the opportunity to review the most important diving theories and techniques, on an outing with a PADI instructor in the sea or in a pool.  This will prepare you to re-enter the big blue feeling relaxed and confident.
+If you haven't dived for several years, the ReActivate/Refresh option is for you.  Whichever of these courses you take, you will have the opportunity to review the most important diving theories and techniques, on an outing with a PADI instructor in the sea or in a pool.  This will prepare you to re-enter the big blue feeling relaxed and confident.
  
-**To take the PADI ReActivate / Refresh course with us, you must:**
+**To take the ReActivate / Refresh course with us, you must:**
 <blockquote>
 <p>Be a minimum of 10 years old</p>
 
@@ -231,31 +233,31 @@ If you haven't dived for several years, the PADI ReActivate/Refresh option is fo
 <p>Commit to the 2-6 hour engagement required for the course</p>
 </blockquote>
 
-Learn more about the [PADI ReActivate/Refresh course](https://www.padi.com/courses/reactivate)
+Learn more about the [ReActivate/Refresh course](https://www.padi.com/courses/reactivate)
 
-If you would like to book our PADI ReActivate/Refresh course, please [Contact Us](/contact)
+If you would like to book our ReActivate/Refresh course, please [Contact Us](/contact)
 
 
 {{< image-row images="img/our-diving/RA2.png,img/our-diving/RA1.png,img/our-diving/RA3.png" paddingTop="10px" >}}
 
 <div class="grey-bar"></div>
 
-#### PADI ENRICHED AIR (NITROX)
+#### ENRICHED AIR (NITROX)
 
 Enriched air, also known as nitrox or EANx, contains less nitrogen than normal air. Breathing less nitrogen when you’re underwater means you can enjoy longer dives and shorter surface intervals. It's no wonder that PADI’s Enriched Air course has become so famous!
  
-PADI’s online ‘eLearning’® technology makes it easy to take the Enriched Air course, even if you have a busy schedule - complete the knowledge development section of the qualification where and when it is convenient, working at your own pace.  You can connect with your instructor whenever you have a question and after you’ve completed the independent study, they will teach you how to analyse a tank, fill out an enriched air log, and set up your dive computer for nitrox.  Thereafter, you can take two optional dives with your instructor.
+Online technology makes it easy to take the Enriched Air course, even if you have a busy schedule - complete the knowledge development section of the qualification where and when it is convenient, working at your own pace.  You can connect with your instructor whenever you have a question and after you’ve completed the independent study, they will teach you how to analyse a tank, fill out an enriched air log, and set up your dive computer for nitrox.  Thereafter, you can take two optional dives with your instructor.
  
-**To take the PADI enriched air course with us, you must:**
+**To take our enriched air course, you must:**
 <blockquote>
 <p>Be a minimum of 12 years old</p>
 
 <p>Commit to the 2-4 hours of engagement required for the eLearning component of the course, and the 1-2 days of instructor led training</p>
 </blockquote>
 
-Learn more about the [PADI Enriched Air course](https://www.padi.com/courses/enriched-air-diver)
+Learn more about the [Enriched Air course](https://www.padi.com/courses/enriched-air-diver)
 
-If you would like to book our PADI Enriched Air course, please [Contact Us](/contact)
+If you would like to book an Enriched Air course, please [Contact Us](/contact)
 
 {{< image-row images="img/our-diving/EAN1.png,img/our-diving/EAN2.png,img/our-diving/EAN3.png" paddingTop="10px" >}}
 

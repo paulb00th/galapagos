@@ -30,13 +30,13 @@ I’ve worked with all the best operators across the islands, forged great relat
 
 {{< figure src="img/about/A-Us-Juan-Carlos-Balda.png" class="align-right full-width">}}
 
-I was born in Guayaquil in southern Ecuador and fell in love with marine animals and the unique character of the underwater world at a very young age, thanks to my family.  
+I was born in Guayaquil, the large coastal city in southern Ecuador and fell in love with marine animals and the unique character of the underwater world at a very young age, thanks to my family.  
 
 Dedicating my life to diving and natural history seemed a powerful way to teach others about the wonders of the sea and the need for us to take far better care of it.   
 
 I have been a diver since 2001 and a PADI Instructor since 2008, certifying some 300 students over the last 15 years.  
 
-Alongside Claudia, I’ve been developing our business supporting international film crews working in the islands and today, my roles are split between teaching and supporting documentary makers.
+Alongside Claudia, I’ve been developing our business supporting international film crews working in the islands and today, my roles are split between teaching and supporting documentary film makers.
 
 *Image - Juan-Carlos Balda*
 
@@ -78,35 +78,33 @@ When you dive with Sofia you will experience her passion for sea life and discov
 
 ##### Alan Jacome - PADI Free-Diving Instructor
 
-{{< figure src="img/about/A-Us-captain.png" class="align-right full-width">}}
+{{< figure src="img/about/Alan Jacome.png" class="align-right full-width">}}
 
-I'm a local, having been born and raised on Santa Cruz Island in the Galapagos.  Since I was a kid, I've been exploring the island's snorkeling and surfing sites. 
+I’m a local, having been born and raised in the Galapagos on Santa Cruz Island and, since childhood, I’ve enjoyed our many snorkelling and surfing sites.  A few years ago, while at ‘Las Grietas’, a series of water filled lagoons adjacent to the coast, I was overcome with the desire to reach the bottom and this became my motivation to learn freediving. I started a formal courses in 2020, and became a PADI Freedive Instructor in 2021. 
 
-While visiting 'Las Grietas' a few years ago, (perhaps my favourite dive venue), I was overcome with the desire to reach the bottom and this became my motivation to learn the techniques of freediving.  I started a formal freediving courses during the pandemic, in 2020, and became a PADI Freedive Instructor in 2021. Since then I've been able to explore many of the islands best sites to a whole new level.
+In 2022 I was invited by Claudia and Juan Carlos to join Galapagos Dive Academy and, since then, I’ve been sharing my passion for freediving with guests!  I’m often asked, *‘why should I freedive’?* For me, answer is simple, the training takes you deeper for longer, provides for magical encounters with shy marine life, and connects you to the ocean with minimal impact. 
 
-In 2022 I was invited by Claudia and Juan Carlos to join the Galapagos Dive Academy team and, since then, I've been sharing my passion for freediving and my love of the Galapagos - such an amazing place to live!
-
-I'm often asked, 'why should I free dive'?  The answer is simple, freediving provides an entirely different way to experience the underwater world - taking you deeper for longer, and connecting you directly to the ocean - nature at its very best.  Freedivers silently blend into the underwater environment. They enjoy magical encounters with shy marine life and hear the many sounds of the ocean itself.
-
-Freediving is the perfect way to rexplore the depths of the oceans with minimal impact. While some people freedive for the challenge, for many, the true appeal  is in the silence and calm it brings to a hectic life.
-
-
+Some people freedive for the challenge, but for me its true appeal lays in the calm it brings to hectic world.  While on a breath hold dive, I can silently merge with the underwater world and enjoy its many rare sights and extraordinary sounds - come join me!.
 
 <div class="grey-bar"></div>
 
-##### Cristian Rodriguez - Boat Captain
+##### Cristian Solis - Boat Captain
 
-{{< figure src="img/about/A-Us-captain.png" class="align-right full-width">}}
+{{< figure src="img/about/Captain-Cristian-Solis.png" class="align-right full-width">}}
 
-Cristian looks after our dive vessel, ‘NINA’, and all aboard her.  
+Cristian is a native of the islands, his family arrived in 1960 and were pioneers in the Galapagos.
 
-Cristian has more than 20-years of experience navigating in the Galapagos islands and brings great expertise and humour to our trips.  
+He was the second generation of his family to become a fisherman but, in recent years, he’s dedicated himself to tourism.
 
-We greatly enjoy having Cristian as our dive boat captain and encourage you to get to know him when onboard, we are sure you will appreciate his enthusiasm, knowledge, friendly disposition and his supporting hand as you climb back onboard the boat!
+As the captain of  ‘NINA’, our dive platform, he is responsible for the boat itself and all aboard her. 
 
-Cristian owns several dozen peaked caps and he especially appreciates guests who bring an extra one to add to his ever-growing collection, perhaps you have a hat for Cristian! 
+Over the course of his working life Cristian has amassed a great deal of knowledge about marine technology and the seas around the Galapagos islands and he brings this expertise, alongside his positive attitude and sense of humour, to all of our trips.  
 
-*Image - Cristian onboard NINA in Academy Bay - busily navigating!*
+We greatly enjoy having Cristian as our dive boat captain and encourage you to get to know him when onboard, we are sure you will be equally appreciative of his enthusiasm, knowledge, friendly disposition, and his supporting hand as you climb back onboard the boat!
+
+Cristian is a diver and regularly spends time under the water.  When he’s not working with our boat, he enjoys life on his farm, communing with nature and pursuing his very positive attitude to life!
+
+*Image - Cristian Solis*
 
 <br>
 

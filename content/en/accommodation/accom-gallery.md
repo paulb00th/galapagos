@@ -5,9 +5,9 @@
 
 <span class="strapline">Let those in the know help...</span>
  
-Set out below is a small selection of images representing some of the different units of accommodation we can offer for your visit.
+Set out below is a selection of our favourite accommodations in the Puerto Ayora area.
 
-Feel free to [Contact Us](/contact) if any of these appeal, or if you are looking for something similar.
+Feel free to [Contact Us](/contact) if any of these appeal, or if you are looking for something similar on Santa Cruz Island of elsewhere in the Galapagos.
 
 ### Sol Marina Suite 
 
