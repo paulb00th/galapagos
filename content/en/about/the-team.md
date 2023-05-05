@@ -44,7 +44,7 @@ Alongside Claudia, I’ve been developing our business supporting international 
 
 ##### Mathieu Idrovo - PADI Instructor 
 
-{{< figure src="img/about/A-Us-Mathieu-Idrovo.png" class="align-right full-width">}}
+{{< figure src="img/about/A-Us-Mat.png" class="align-right full-width">}}
 
 I’ve grown up in the Galapagos Islands. 
 
@@ -54,7 +54,7 @@ I soon obtained my EFR certification, and I went on from that to gain my Open Wa
 
 Apart from instruction, I love exploration diving, sailing, and kayaking.  So, when not working, I can most often be found indulging these interests in the expansive and fascinating bay adjacent to Puerto Ayora.
 
-Apart from working with Claudia and Juan-Carlos, I’m employed at the town’s Hyperbaric Chamber where I’m a certified operator.
+Apart from working with Claudia and Juan-Carlos, I’m employed at the town’s [SSS Hyperbaric Recompression Chamber](https://www.sssnetwork.com/pages/galapagoshome.html),  where I’m a certified operator. 
 
 *Image - Mathieu Idrovo*
 
