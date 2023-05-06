@@ -10,7 +10,7 @@
 
 Here’ a little detail about those at the heart of the operation...
  
-##### Claudia Molina - PADI IDC Staff Instructor and co-owner.
+##### Claudia Molina - PADI IDC Staff Instructor, SSI Instructor and co-owner.
 
 {{< figure src="img/about/A-Us-ClaudiaMolina.png" class="align-right full-width">}}
 
@@ -30,7 +30,9 @@ I’ve worked with all the best operators across the islands, forged great relat
 
 {{< figure src="img/about/A-Us-Juan-Carlos-Balda.png" class="align-right full-width">}}
 
-I was born in Guayaquil, the large coastal city in southern Ecuador and fell in love with marine animals and the unique character of the underwater world at a very young age, thanks to my family.  
+I was born in Guayaquil, the large coastal city in southern Ecuador.
+
+I fell in love with marine animals and the unique character of the underwater world at a very young age, thanks to my family.  
 
 Dedicating my life to diving and natural history seemed a powerful way to teach others about the wonders of the sea and the need for us to take far better care of it.   
 
@@ -52,27 +54,13 @@ My first PADI dive was made at the age of 12 and the marine world has fascinated
 
 I soon obtained my EFR certification, and I went on from that to gain my Open Water Instructor certification in Cozumel, Mexico.
 
-Apart from instruction, I love exploration diving, sailing, and kayaking.  So, when not working, I can most often be found indulging these interests in the expansive and fascinating bay adjacent to Puerto Ayora.
+Apart from instruction, I love exploration diving, sailing, and kayaking.
+
+When not working, I can most often be found indulging these interests in the expansive and fascinating bay adjacent to Puerto Ayora.
 
 Apart from working with Claudia and Juan-Carlos, I’m employed at the town’s [SSS Hyperbaric Recompression Chamber](https://www.sssnetwork.com/pages/galapagoshome.html),  where I’m a certified operator. 
 
 *Image - Mathieu Idrovo*
-
-<div class="grey-bar"></div>
-
-##### Sofia Green - Divemaster
-
-{{< figure src="img/about/A-Us-SofiaMGreen.png" class="align-right full-width">}}
-
-Sofía Green Iturralde is a marine biologist and divemaster from Ecuador. 
-
-Sophia has been working in the Galapagos Islands as a scientific researcher, diver, and wildlife photographer since 2017, and working as a divemaster and lecturer on board educational expeditions since 2021. 
-
-Sophia's main scientific focus has been on the whale shark population in the islands, as she has worked collaboratively with a research project led by a local Galapagos organisation. 
-
-When you dive with Sofia you will experience her passion for sea life and discover how you can work as a citizen scientist in support of marine conservation. 
-
-*Image - Sophia Green*
 
 <div class="grey-bar"></div>
 
@@ -85,6 +73,26 @@ I’m a local, having been born and raised in the Galapagos on Santa Cruz Island
 In 2022 I was invited by Claudia and Juan Carlos to join Galapagos Dive Academy and, since then, I’ve been sharing my passion for freediving with guests!  I’m often asked, *‘why should I freedive’?* For me, answer is simple, the training takes you deeper for longer, provides for magical encounters with shy marine life, and connects you to the ocean with minimal impact. 
 
 Some people freedive for the challenge, but for me its true appeal lays in the calm it brings to hectic world.  While on a breath hold dive, I can silently merge with the underwater world and enjoy its many rare sights and extraordinary sounds - come join me!.
+
+*Image - Alan Jacome*
+
+<div class="grey-bar"></div>
+
+##### Sofia Green - Divemaster
+
+{{< figure src="img/about/A-Us-SofiaMGreen.png" class="align-right full-width">}}
+
+Sofía Green Iturralde is a marine biologist and divemaster from Ecuador. 
+
+Sophia has been working in the Galapagos Islands as a scientific researcher, diver, and wildlife photographer since 2017.
+
+Since 2021, she has also worked as a divemaster and lecturer on board educational expeditions. 
+
+Sophia's main scientific focus has been on the whale shark population in the islands, as she has worked collaboratively with a research project led by a local Galapagos organisation. 
+
+When you dive with Sofia you will experience her passion for sea life and discover how you can work as a citizen scientist in support of marine conservation. 
+
+*Image - Sophia Green*
 
 <div class="grey-bar"></div>
 
@@ -112,19 +120,19 @@ Cristian is a diver and regularly spends time under the water.  When he’s not 
 
 {{< figure src="img/about/N&Pworking_small.png" class="align-right full-width">}}
 
-Nick and Paul both live in the UK.  Nick in Brighton and Paul in Hove.
+Nick and Paul both live in the UK. Nick in Brighton and Paul in Hove.
 
-They have know each other for many years and when not busy with work and their families they occassionally collaborate to produce websites and provide IT support to organisations working in the scuba diving and outdoor activities industries.
+They have know each other for many years and when not busy with work and their families they occasionally collaborate as *‘Nick and Paul Multimedia’* to produce websites and provide IT support to individuals and organisations working in the scuba sector.
 
-We have come to hold those at Galapagos Dive Academy in high regard and are keen to see their business realise its full potential
+Nick and Paul say:
 
-Our best wishes to to Claudia, Juan-Carlos and everyone associoated with the new company!
+ *We have come to hold those at Galapagos Dive Academy in high regard and are keen to see their business realise its full potential.  Our best wishes to to Claudia, Juan-Carlos and everyone associated with the new company!*
 
-For any techies out there we built this website using Hugo and we've hosted it on Github Pages.  If you need to contact us, use the email in the website footer.
+For the techies out there, we built this website using Hugo and we’ve hosted it on Github Pages. 
+
+If you would like to contact us, use the email address in the website footer.
 
 *Image - Nick and Paul at work on the GDA website*
-
-<br>
 
 <div class="grey-bar"></div>
 

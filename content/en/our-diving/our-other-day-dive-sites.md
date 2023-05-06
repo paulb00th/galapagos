@@ -119,7 +119,7 @@ Description:  An exposed rock providing for a single dive site, with a small cav
 
 **FLOREANA**
 
-{{< figure src="img/dive-sites/300-Floreana.png" class="align-right full-width-on-small" >}}
+{{< figure src="img/dive-sites/300-Floreana2.png" class="align-right full-width-on-small" >}}
 
 Travel duration: 1.5 – 2 hours from Puerto Ayora, depending on sea conditions.
 
