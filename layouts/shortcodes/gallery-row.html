@@ -1,66 +1,15 @@
-{{ $images := split (.Get "images") "," }}
+{{ $thumbs := split (.Get "thumbs") "," }}
+{{ $fullsize := split (.Get "fullsize") "," }}
 {{ $altText := split (.Get "alt") "," }}
 {{ $paddingTop := default "" (.Get "paddingTop") }}
 {{ $paddingBottom := default "" (.Get "paddingBottom") }}
 
-<style>
-.image-row {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.image-wrapper {
-  flex: 1;
-  overflow: hidden;
-  position: relative;
-}
-
-.image-wrapper img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  object-position: center;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-}
-</style>
-
 <div class="image-row" style="padding-top: {{ $paddingTop }}; padding-bottom: {{ $paddingBottom }}">
-    {{ range $index, $image := $images }}
+    {{ range $index, $thumb := $thumbs }}
         <div class="image-wrapper">
-            <a href="{{ $image | safeURL | relURL }}" class="lightbox-image gallery">
-                <img src="{{ $image | safeURL | relURL }}" alt="{{ index $altText $index }}" title="{{ index $altText $index }}">
+          <a href="{{ index $fullsize $index | safeURL | relURL }}" class="lightbox-image gallery" title="{{ index $altText $index }}" data-alt-text="{{ index $altText $index }}">
+                <img src="{{ $thumb | safeURL | relURL }}" alt="{{ index $altText $index }}" title="{{ index $altText $index }}">
             </a>
         </div>
     {{ end }}
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const imageRows = document.querySelectorAll(".image-row");
-
-  imageRows.forEach((row) => {
-    const images = row.querySelectorAll("img");
-    let minHeight = Infinity;
-    let loadedImagesCount = 0;
-
-    images.forEach((img) => {
-      img.onload = function () {
-        loadedImagesCount++;
-        const imgHeight = img.clientHeight;
-        if (imgHeight < minHeight) {
-          minHeight = imgHeight;
-        }
-
-        if (loadedImagesCount === images.length) {
-          row.querySelectorAll(".image-wrapper").forEach((imgWrapper) => {
-            imgWrapper.style.height = minHeight + "px";
-          });
-        }
-      };
-    });
-  });
-});
-</script>
