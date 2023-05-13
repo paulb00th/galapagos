@@ -33,7 +33,7 @@ WiFi
 Cable TV
 Filtered water
 
-**For further details about Sol Marina Properties, please [Contact Us](/contact).**
+**For further details about Sol Marina Properties, please [Contact Us](/contact?message=Enquiry%20about%20Sol%20Marina%20Properties).**
 
 <div class="grey-bar"></div>
 
@@ -47,11 +47,11 @@ paddingBottom="20px"
 
 **DESCRIPTION:** Set in a privileged location, Lava House provides clients with the means to easily enjoy the most exclusive area in Puerto Ayora, while being only minutes away from the central Charles Darwin Avenue.
 
-Lave House provides 11 rooms with private bathrooms, each with hot water, A/C, cable TV, telephone in the room, purified water, hair dryer, hand and bath towels, eco soap, shampoo and conditioner.  At reception, guests will find beach towels, and a safe deposit box.  The hostel is happy to provide tourist information and to safeguard clients' bags on the day of checkout.  Breakfast and WIFI are both available.
+Lava House provides 11 rooms with private bathrooms, each with hot water, A/C, cable TV, telephone in the room, purified water, hair dryer, hand and bath towels, eco soap, shampoo and conditioner.  At reception, guests will find beach towels, and a safe deposit box.  The hostel is happy to provide tourist information and to safeguard clients' bags on the day of checkout.  Breakfast and WIFI are both available.
 
 Please note, Lave House does not provide, sodas, beers, etc. or free airport-hostel transfers. 
 
-**For further details about Lave House, please [Contact Us](/contact).**
+**For further details about Lave House, please [Contact Us](/contact?message=Enquiry%20about%20Lava%20House).**
 
 
 <div class="grey-bar"></div>
@@ -74,7 +74,7 @@ Each unit benefits from an ultraviolet water treatment system, so you can confid
 
 Both units provide everything you would expect in regard to kitchens, living areas, bedrooms and bathrooms, including air conditioning and ceiling fans. Additionally, guests can access, laundry services, the internet, (wifi), and free on-premises parking. 
 
-**For further details about Casa de Mathias, please [Contact Us](/contact).**
+**For further details about Casa de Mathias, please [Contact Us](/contact?message=Enquiry%20about%20Casa%20de%20Mathias).**
 
 
 <div class="grey-bar"></div>
@@ -96,7 +96,7 @@ Relax after a long day and de-stress in a comfortable hammock and, perhaps, enjo
   
 Max and Lourdes provide guest with comfort, warmth, and great service.  You can rely upon them to help your vacation deliver its full potential! 
 
-**For further details about Capitan Max, please [Contact Us](/contact).**
+**For further details about Capitan Max, please [Contact Us](/contact?message=Enquiry%20about%20Capitan%20Max).**
 
 
 <div class="grey-bar"></div>
@@ -119,7 +119,7 @@ Select from a range of single and double rooms designed and built with the comfo
 
 Please note, the hostel has a strict ‘No Smoking’ policy in all indoor areas but provides smoking and vaping areas to the outside of the property. 
 
-**For further details about Hostal Sueños Silvestres, please [Contact Us](/contact).**
+**For further details about Hostal Sueños Silvestres, please [Contact Us](/contact?message=Enquiry%20about%20Hostal%20Sueños%20Silvestres).**
 
 
 <div class="grey-bar"></div>
@@ -148,7 +148,7 @@ Joseline holds a bachelor's degree in Tourism and Hotel Management, and a master
 
 With conservation in mind, the hotel has adopted strict recycling policies and these, alongside the use of biodegradable products, careful use of electricity and water help to minimise human impact on the Islands. 
 
-**For further details about Galapagos Suites,please [Contact Us](/contact).**
+**For further details about Galapagos Suites,please [Contact Us](/contact?message=Enquiry%20about%20Comfort%20Properties).**
 
 <div class="grey-bar"></div>
 
@@ -168,7 +168,7 @@ A buffet, à la carte or continental breakfast is available every morning.
 
 Popular points of interest near the accommodation include La Estacion Beach, Los Alemanes (German) Beach and Tortuga Bay.  
 
-**For further details about La isla, please [Contact Us](/contact).**
+**For further details about La isla, please [Contact Us](/contact?message=Enquiry%20about%20La%20Isla).**
 
 <div class="grey-bar"></div>
 
@@ -186,7 +186,7 @@ Guests enjoy free Wi-Fi and breakfast and have access to a bar, restaurant, game
 
 An airport shuttle is available (ask re. details), as are family rooms, free parking, and facilities for disabled visitors. 
 
-**For further details about Hotel Fiesta, please [Contact Us](/contact).**
+**For further details about Hotel Fiesta, please [Contact Us](/contact?message=Enquiry%20about%20Hotel%20Fiesta).**
 
 <div class="grey-bar"></div>
 
@@ -206,7 +206,7 @@ A total of 19 rooms are available, each with cable TV, hot water, air conditioni
 
 Villa Laguna invites you to book for an unforgettable stay!
 
-**For further details about Villa Laguna, please [Contact Us](/contact).**
+**For further details about Villa Laguna, please [Contact Us](/contact?message=Enquiry%20about%20Villa%20Laguna).**
 
 <div class="grey-bar"></div>
 
@@ -232,7 +232,7 @@ The hotel’s comfortable rooms offer ample space and an exquisite design that a
 
 Whether you are visiting for business, pleasure, or relaxation, consider making Ikala your choice! 
 
-**For further details about Ikala, please [Contact Us](/contact).**
+**For further details about Ikala, please [Contact Us](/contact?message=Enquiry%20about%20Ikala).**
 
 
 <div class="grey-bar"></div>
@@ -255,7 +255,7 @@ The subtle architectural design of the property mimics the surrounding volcanic 
 
 No matter how you choose to explore the Galapagos, be it by land or sea, Finch Bay will help you fully appreciate the islands’ essence.  
 
-**For further details about Finch-Bay, please [Contact Us](/contact).**
+**For further details about Finch-Bay, please [Contact Us](/contact?message=Enquiry%20about%20Finch-Bay).**
 
 
 <div class="grey-bar"></div>
@@ -276,7 +276,7 @@ Located in a secluded ‘auto-free’ zone a short aqua-taxi ride from central P
 
 In addition to high quality interiors, Shangri-La offers its guests beach and harbour views, a swimming bool and bar, patios and a balcony.  It is perhaps, the perfect place from which to undertake your Galapagos experience. 
 
-**For further details about Shangri-la, please [Contact Us](/contact).**
+**For further details about Shangri-la, please [Contact Us](/contact?message=Enquiry%20about%20Shangri-la).**
 
 
 <div class="grey-bar"></div>
@@ -297,4 +297,4 @@ All rooms provide wonderful beds, flat-screen TVs, private bathrooms with shower
 
 Judith and Hans undertake continuous improvements to the hotel, as they seek to mitigate the impacts of the modern world on the islands and develop an ever more welcoming home for the visitor.  
 
-**For further details about Hotel Cucuve, please [Contact Us](/contact).**
+**For further details about Hotel Cucuve, please [Contact Us](/contact?message=Enquiry%20about%20Hotel%20Cucuve).**

@@ -120,6 +120,30 @@
 
     </div>
     <!-- /.row -->
+
+    <script>
+        function getQueryParams() {
+            let queryParams = {};
+            window.location.search.substring(1).split('&').forEach(param => {
+                let keyValue = param.split('=');
+                if (keyValue.length === 2) {
+                    queryParams[decodeURIComponent(keyValue[0])] = decodeURIComponent(keyValue[1]);
+                }
+            });
+            return queryParams;
+        }
+    
+        function prefillMessageTextarea() {
+            let queryParams = getQueryParams();
+            if (queryParams.message) {
+                let messageTextarea = document.getElementById('message');
+                messageTextarea.value = queryParams.message;
+            }
+        }
+    
+        document.addEventListener('DOMContentLoaded', prefillMessageTextarea);
+    </script>
+    
 </div>
 
 {{ partial "map.html" . }}
