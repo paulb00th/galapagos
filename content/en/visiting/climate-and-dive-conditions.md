@@ -23,7 +23,7 @@ The Galapagos islands astonishingly rich marine environment results from the con
 If you take a liveaboard that visits Punta Vincente Roca on the northwest coast of Isabela, you will come to understand the cool nature of the Cromwell undercurrent!
 
 #### Life through the year
-As a result of these various influences, animal and plant life varies seasonally through the year (and cyclically, every 3 to 7 years, due to the fluctuations known as El Nino and La Nina).  Set out below is a general guide to the key marine animals that are present through the year:
+As a result of these various influences, animal and plant life varies seasonally through the year (and cyclically, every 3 to 7 years, due to the fluctuations known as El Nino and La Nina). Set out below is a general guide to the key marine animals that are present through the year:
  
 **Hammerhead Sharks**
 All year (but more frequent between February and June)
@@ -55,9 +55,10 @@ Generally, August to December/January
 **Whale Sharks**
 Generally, July to November
  
+*Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.*
 {{<
 image-row
-title="Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.  Set out below a few of the locals!"
+title="A few of the locals!"
 images="img/visiting/Climate-600-galapagos_fish1.png,img/visiting/Climate-600-galapagos_fish2.png,img/visiting/Climate-600-galapagos_fish3.png" 
 paddingTop="10px"
 paddingBottom="0px"
