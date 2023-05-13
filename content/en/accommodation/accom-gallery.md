@@ -104,7 +104,7 @@ Max and Lourdes provide guest with comfort, warmth, and great service.  You can 
 ### Hostal Sueños Silvestres
 
 {{< 
-figure src="img/accom-travel/Hostal Sueños Silvestres.png" 
+figure src="img/accom-travel/HostalSS.png" 
 class="full-width-on-small"
 paddingBottom="20px"
 >}} 
