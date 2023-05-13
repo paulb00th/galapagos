@@ -7,7 +7,7 @@
  
 {{< padi-ssi >}}
 
-**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors and with with [SSI](https://www.divessi.com) Scuba Schools International.  
+**Galapagos Dive Academy** is affiliated with [PADI](https://www.padi.com), the Professional Association of Diving Instructors, and with [SSI](https://www.divessi.com), Scuba Schools International.  
 
 With a PADI or SSI certification you can dive in nearly 200 countries and territories, at thousands of dive centres and resorts. PADI and SSI are the world's leading diving and ocean exploration organizations, enabling people around the world to seek adventure and save the ocean through underwater education, life-changing experiences, and travel.
  

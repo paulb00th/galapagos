@@ -21,7 +21,7 @@ Some of the liveaboards we can arrange for you to join are set out below.  If on
 
 **Finally,** liveaboard operators expect clients to have significant dive experience before booking, with most looking for between 50 and 100 dives in the recent past.  Please bear this in mind when considering your trip.</I>
 
-**PS** - If you're in the UK and would like to make contact with someone who has travelled on the Tiburon Explorer, make contact with Nick, who helped develop this website, he'd be happy to share his thoughts on the boat and the best way to organise your trip.  His email is: nandpmultimedia@gmail.com.
+**PS** - If you're English speaking and would like to contact someone who has travelled on the Tiburon Explorer for an opinion about the trip, email Nick who helped develop this website, he'd be happy to share his thoughts and discuss how to organise your trip.  His address is: nandpmultimedia@gmail.com.
 
 
 **Tiburon Explorer**

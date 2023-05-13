@@ -10,17 +10,17 @@
 
 Here’ a little detail about those at the heart of the operation...
  
-##### Claudia Molina - PADI IDC Staff Instructor, SSI Instructor and co-owner.
+##### Claudia Molina - PADI IDC Staff Instructor, SSI Instructor, and co-owner.
 
 {{< figure src="img/about/A-Us-ClaudiaMolina.png" class="align-right full-width">}}
 
 I grew up in Brazil, living close to the sea, and quickly learned to love the marine world.  
 
-I moved to Ecuador at the age of 16 to study Ecological Tourism in Quito.  Following this, I arrived in the Galapagos for the first time in 2001, when I initially experienced diving.  I knew immediately that I would seek employment in the dive industry, and I became a PADI Instructor in 2004, thereafter working in Brazil, and Honduras before returning to the Galapagos.  
+I moved to Ecuador at the age of 16 to study Ecological Tourism in Quito.  Following this, I arrived in the Galapagos for the first time in 2001, when I initially experienced diving.  I knew immediately that I would seek employment in the dive industry, and I became a PADI Instructor in 2004, thereafter working in Brazil and Honduras before returning to the Galapagos.  
 
 It’s the islands here (and my Ecuadorian husband) that have captured my heart - and now I’m here to stay.
  
-I’ve worked with all the best operators across the islands, forged great relations with them, and certified over 600 PADI students in recent years. When I’m not working on behalf of our dive or film companies, I’m to be found enjoying the sun’s rays and playing in the sea alongside my husband, Juan Carlos, and our two children.
+I’ve worked with all the best operators across the islands, forged great relations with them, and certified over 600 PADI students in recent years. When I’m not working on behalf of our dive and film operations, I’m to be found enjoying the sun’s rays and playing in the sea alongside my husband, Juan Carlos, and our two children..
 
 *Image - Claudia Molina*
 
@@ -68,31 +68,30 @@ Apart from working with Claudia and Juan-Carlos, I’m employed at the town’s 
 
 {{< figure src="img/about/Alan Jacome.png" class="align-right full-width">}}
 
-I’m a local, having been born and raised in the Galapagos on Santa Cruz Island and, since childhood, I’ve enjoyed our many snorkelling and surfing sites.  A few years ago, while at ‘Las Grietas’, a series of water filled lagoons adjacent to the coast, I was overcome with the desire to reach the bottom and this became my motivation to learn freediving. I started a formal courses in 2020, and became a PADI Freedive Instructor in 2021. 
+I’m a local, having been born and raised in the Galapagos on Santa Cruz Island and, since childhood, I’ve enjoyed our many snorkelling and surfing sites. A few years ago, while at ‘Las Grietas’, a series of water filled lagoons adjacent to the coast, I was overcome with the desire to reach the bottom, and this became my motivation to learn freediving. I started a formal course in 2020 and became a PADI Freedive Instructor in 2021. 
 
-In 2022 I was invited by Claudia and Juan Carlos to join Galapagos Dive Academy and, since then, I’ve been sharing my passion for freediving with guests!  I’m often asked, *‘why should I freedive’?* For me, answer is simple, the training takes you deeper for longer, provides for magical encounters with shy marine life, and connects you to the ocean with minimal impact. 
+In 2022 I was invited by Claudia and Juan Carlos to join Galapagos Dive Academy and, since then, I’ve been sharing my passion for freediving with guests! I’m often asked, ‘why should I freedive’? For me, answer is simple, the training takes you deeper for longer, provides for magical encounters with shy marine life, and connects you to the ocean with minimal impact 
 
-Some people freedive for the challenge, but for me its true appeal lays in the calm it brings to hectic world.  While on a breath hold dive, I can silently merge with the underwater world and enjoy its many rare sights and extraordinary sounds - come join me!.
+Some people freedive for the challenge, but for me it’s true appeal lays in the calm it brings to a hectic world. While on a breath hold dive, I can silently merge with the underwater world and enjoy its many rare sights and extraordinary sounds - come join me!
 
 *Image - Alan Jacome*
 
 <div class="grey-bar"></div>
 
-##### Sofia Green - Divemaster
+##### Sofía Green Iturralde - Divemaster
 
 {{< figure src="img/about/A-Us-SofiaMGreen.png" class="align-right full-width">}}
 
-Sofía Green Iturralde is a marine biologist and divemaster from Ecuador. 
+I’m a marine biologist and divemaster from Ecuador and I’ve been working in the Galapagos Islands as a scientific researcher, diver, and wildlife photographer since 2017.
 
-Sophia has been working in the Galapagos Islands as a scientific researcher, diver, and wildlife photographer since 2017.
+Since 2021, I have also worked as a divemaster and lecturer on board educational expeditions ranging across our archipelago.
 
-Since 2021, she has also worked as a divemaster and lecturer on board educational expeditions. 
+My main scientific focus has been on the whale shark population in the islands, in pursuit of which I have worked collaboratively with research projects led by local Galapagos organisations.
 
-Sophia's main scientific focus has been on the whale shark population in the islands, as she has worked collaboratively with a research project led by a local Galapagos organisation. 
+When you dive with me, I hope you will experience my passion for sea life as I help you discover how you can work as a citizen scientist in support of marine conservation.
+ 
 
-When you dive with Sofia you will experience her passion for sea life and discover how you can work as a citizen scientist in support of marine conservation. 
-
-*Image - Sophia Green*
+*Image - Sofia Green*
 
 <div class="grey-bar"></div>
 
@@ -100,17 +99,16 @@ When you dive with Sofia you will experience her passion for sea life and discov
 
 {{< figure src="img/about/Captain-Cristian-Solis.png" class="align-right full-width">}}
 
-Cristian is a native of the islands, his family arrived in 1960 and were pioneers in the Galapagos.
+I’m a native of the islands, my family arrived in 1960 and were pioneers in the development of the Galapagos.
 
-He was the second generation of his family to become a fisherman but, in recent years, he’s dedicated himself to tourism.
+I’m the second generation of my family to have become a fisherman but, in recent years, I’ve turned away from this profession and dedicated myself to tourism.
 
-As the captain of  ‘NINA’, our dive platform, he is responsible for the boat itself and all aboard her. 
+As the captain of ‘NINA’, our dive platform, it’s my responsibility to look after the boat itself and all aboard her. To do this, I draw on the knowledge I’ve amassed over my working life about both marine technology and the seas around the Galapagos islands.  This know how comes with me on all our trips, alongside a positive attitude and sense of humour!
 
-Over the course of his working life Cristian has amassed a great deal of knowledge about marine technology and the seas around the Galapagos islands and he brings this expertise, alongside his positive attitude and sense of humour, to all of our trips.  
+I’m also a scuba diver and regularly spend time under the water. When I’m not working or diving, I like to enjoy life on my farm, communing with nature and pursuing a positive attitude to life.
 
-We greatly enjoy having Cristian as our dive boat captain and encourage you to get to know him when onboard, we are sure you will be equally appreciative of his enthusiasm, knowledge, friendly disposition, and his supporting hand as you climb back onboard the boat!
+(Claudia adds, *‘We greatly enjoy having Cristian as our dive boat captain and encourage you to get to know him when onboard, we are sure you will be appreciative of his enthusiasm, knowledge, friendly disposition, and his supporting hand as you climb back onboard the boat!*)
 
-Cristian is a diver and regularly spends time under the water.  When he’s not working with our boat, he enjoys life on his farm, communing with nature and pursuing his very positive attitude to life!
 
 *Image - Cristian Solis*
 
@@ -120,17 +118,15 @@ Cristian is a diver and regularly spends time under the water.  When he’s not 
 
 {{< figure src="img/about/N&Pworking_small.png" class="align-right full-width">}}
 
-Nick and Paul both live in the UK. Nick in Brighton and Paul in Hove.
-
-They have know each other for many years and when not busy with work and their families they occasionally collaborate as *‘Nick and Paul Multimedia’* to produce websites and provide IT support to individuals and organisations working in the scuba sector.
+Nick and Paul have known each other for many years and when not busy with work and their families they dive - Nick is a DM and Paul a Rescue Diver. Occasionally, they also collaborate, as ‘Nick and Paul Multimedia’, to produce websites and provide IT support to individuals and organisations working in the scuba sector.
 
 Nick and Paul say:
 
  *We have come to hold those at Galapagos Dive Academy in high regard and are keen to see their business realise its full potential.  Our best wishes to to Claudia, Juan-Carlos and everyone associated with the new company!*
 
-For the techies out there, we built this website using Hugo and we’ve hosted it on Github Pages. 
+For the techies out there, this website was built using Hugo and is hosted on Github Pages. 
 
-If you would like to contact us, use the email address in the website footer.
+If you would like to contact Nick and Paul, use the email address in the website footer.
 
 *Image - Nick and Paul at work on the GDA website*
 

@@ -89,12 +89,12 @@ Average 21°-27° C (70°-80°F).  Good time to visit for mild weather, combini
  
 •    July – December: average 18°-23°C (65°-75°F)
  
-Depending upon the season during which you visit, we provide 5 to 7mm wetsuits, so that nobody is shivering rather than enjoying themselves!  In the cooler seasons we also provide accessories such as hoods.  If you are not used to cold seas or if you feel the cold more than others, please feel free to bring an extra base layer (although we do keep a few spares on hand).
+Depending upon the season during which you visit, we provide 5 to 7mm wetsuits, so that there’s no shivering!  In the cooler seasons we also provide accessories such as hoods.  If you are not used to cold seas or if you feel the cold more than most, please feel free to bring an extra base layer (although we do keep a few spares on hand).
 
 If you plan to snorkel, we recommend using a 3mm wetsuit during the cooler period of the year and a dive skin during the warmer period.  You can rent these locally or bring your own.
 
 #### Visibility
-On average, visibility in the Galapagos is between 8 and 10m (25ft to 35ft) with an increase to some 18m (60ft) on good days.  If you’re used to 20, 30, 40 or 50 m of visibility, don’t worry! A unique aspect of the Galapagos is that its wildlife is both abundant and often curious. You will be diving close enough to sea lions, sharks, rays and other animals that the difficulty is most often choosing where to look, not the vis!
+On average, visibility in the Galapagos is between 8 and 10m (25ft to 35ft) with an increase to some 18m (60ft) on good days.  If you’re used to 20, 30, 40 or 50 m of visibility, don’t worry, a unique aspect of the Galapagos is that its wildlife is both abundant and curious - you will find yourself diving close to sea lions, sharks, rays and other animals and the ‘difficulty’ will be choosing where to look, not the vis!
 
 **-**
 Return to [Visiting us](/visiting/introduction)

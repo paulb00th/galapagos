@@ -15,10 +15,10 @@ We are especially grateful to the following for their contributions to the Galle
 *Naire Thanaporn Sajjavanij,*
 *NickT,*
 *Nushi*
-and
+*and*
 *The Galapagos Dive Academy Team*
 
-Some recent, mostly 2023, images
+### Recent, mostly 2023, images (click to enlarge):
 <ul>
 {{<
 gallery-row
