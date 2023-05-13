@@ -58,7 +58,7 @@ Generally, July to November
 *Note - During significant El Nino and La Nina cycles some species increase in number, while other decrease, as sea surface temperatures, nutrients in the water, rainfall, sea level, and wave action, undergo fluctuation.*
 {{<
 image-row
-title="A few of the locals!"
+title="Set out below, a few of the locals!"
 images="img/visiting/Climate-600-galapagos_fish1.png,img/visiting/Climate-600-galapagos_fish2.png,img/visiting/Climate-600-galapagos_fish3.png" 
 paddingTop="10px"
 paddingBottom="0px"
