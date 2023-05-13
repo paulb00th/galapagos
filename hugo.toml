@@ -27,7 +27,7 @@ paginate = 10
 # not pluralize title pages by default
 pluralizelisttitles = false
 
-canonifyURLs = false
+canonifyURLs = true
 
 [markup]
   [markup.goldmark]
