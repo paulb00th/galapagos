@@ -1,19 +1,19 @@
 +++
 +++
 
-### TOURS - Commercial land & water based day-trips
+### TOURS - Commercial land & water-based day-trips
 
 {{< figure src="img/Iguana-image.png" class="align-right full-width-on-small" >}}
  
 <span class="strapline">Organised by professionals, with professionals, to improve the experience of a lifetime!</span>
 
-Our land and sea based day trips can take you across wonderful Santa Cruz Island itself, where we are based, or far beyond to many of the surrounding islands that comprise our magnificent archipelago.  
+Our land and sea-based day trips can take you across wonderful Santa Cruz Island itself, where we are based, or far beyond to many of the surrounding islands that comprise our magnificent archipelago.  
 
 Whether you want to snorkel with the local sea life or marvel at tortoises or huge bird colonies, we can show you to the best the islands have to offer.  Here’s a brief taster of the daytrips we can arrange, all perfect for the resting diver and non-diver alike.  
 
-If you would like further information, request an e-brochure and let us power-up your imagination!  
+If you would like further information, request an e-brochure, and let us power-up your imagination!  
 
-Interested, then [Contact Us](/contact)
+Interested?  Then [Contact Us](/contact)
  <Br></B>
 ##### Bartolome Island
 A wild and unearthly moon-scape-like lava landscape, with penguins and giant rocks. See the image to the right! 
@@ -100,8 +100,10 @@ paddingTop="10px"
 >}}
 
 ##### Day-tours verses multi-day activities?
-We are regularly asked by visitors whether multi-day trips/cruises or day tours are the better option.  The truth is both have a lot to offer.
-The positive side of some cruise boats is that they take you to islands that cannot be visited during one-day tours. On the other hand, some day vessels visit the same sites as the cruise ships.  Bear in mind also that when cruising, you are on a multiday break, so your trip has no set pause points while its ongoing and is perhaps more relaxing.   
-Day tours, on the other hand, are usually done by 5pm, so you’re back to your hotel each evening and able to stroll around the town to look for dinner and a drink.  And, of course, if you are not naturally comfortable on a boat, you don’t feel awful throughout your whole trip!
+We are regularly asked by visitors whether multi-day trips/cruises or day tours are the better option.  The truth is both have a lot to offer.
 
-The decision really depends on your viewpoint and your budget.  Just bear in mind that the two options provide for very different experiences. 
+The positive side of some cruise boats is that they take you to islands that cannot be visited during one-day tours. On the other hand, some day vessels visit the same sites as the cruise ships.  Bear in mind also that when cruising, you are on a multiday break, so your trip has no set pause points while its ongoing and is perhaps more relaxing.
+   
+Day tours, on the other hand, are usually done by 5pm, so you’re back to your hotel each evening and able to stroll around the town to look for dinner and a drink.  And, of course, if you are not naturally comfortable on a boat, you don’t feel awful throughout your whole trip!
+
+The decision really depends on your viewpoint and your budget.  Just bear in mind that the two options provide for very different experiences. 

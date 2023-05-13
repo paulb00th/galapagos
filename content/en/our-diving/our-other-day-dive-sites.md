@@ -6,7 +6,7 @@
 <span class="strapline">World class diving with an evolutionary edge!</span>
 
 
-Go directly to [Our long-range, day-trip, dive locations](#2-full-dives) set out below
+Go directly to [Our long-range, daytrip, dive locations](#2-full-dives) set out below
 
 
 
@@ -53,7 +53,7 @@ All our long-range day diving trips include:
 
 
 
-#### Our long-range, day-trip, dive locations 
+#### Our long-range, daytrip, dive locations 
 
 **BARTOLOME**
 

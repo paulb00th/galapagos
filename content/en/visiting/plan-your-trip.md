@@ -7,9 +7,10 @@
 
 {{< figure src="img/Arriving.png" class="align-right full-width-on-small" >}}
  
-Almost all visitors to Ecuador can obtain a visa on arrival for a period of 90 days, provided their passport is valid for 6 months or more and they hold a return ticket. However, we always recommend that you double-check regarding up to the minute entry requirements with your local Ecuadorian Consulate. 
+Almost all visitors to Ecuador can obtain a visa on arrival, provided their passport is valid for 6 months or more and they hold a return ticket. However, we always recommend that you double-check regarding up to the minute entry requirements with your local Ecuadorian Consulate.
 
-Entry into the Galapagos islands is traightforward, but please be aware of the following:
+Entry into the Galapagos islands is straightforward, but please be aware of the following:
+
 
 **1** - All flights to Galapagos originate on mainland Ecuador, there are no direct international connections.
 
@@ -62,7 +63,7 @@ Quito and Guayaquil Standard Time is -5 hours GMT (i.e., the same as EST).
 
 The Galapagos Islands are -6 hrs GMT (i.e., -1 hr EST). 
 
-Don’t forget to set your timepiece to local time when you arrive in the islands. Many phones/watches don’t automatically adjust and its not uncommon to hear irate customer calling island service providers asking for their pickups an hour before they are due to arrive!
+Don’t forget to set your timepiece to local time when you arrive in the islands. Many phones/watches don’t automatically adjust and it’s not uncommon to hear irate customer calling island service providers asking for their pickups an hour before they are due to arrive!
 
 ##### Tips
 Crew gratuities are not included in tour package /dive prices. This is a sensitive matter for everyone.  Below we set out our personal thoughts and the general guidelines used on the islands. 
@@ -92,7 +93,7 @@ The most important rules when exploring the islands are as follows:
 
 **5** -	Do not take souvenirs (rocks/shells, etc)
 
-**6** -	Do not get too close to animals (especially newborn animals and juveniles).  The rule is generally. keep 2 m distance.
+**6** -	Do not get too close to animals (especially new-born animals and juveniles).  The rule is generally. keep 2 m distance.
 
 
 **7** -	Do not drop/leave litter

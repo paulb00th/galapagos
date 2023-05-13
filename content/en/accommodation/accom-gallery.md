@@ -1,13 +1,11 @@
 +++
 +++
 
-### ACCOMODATION GALLERY
+### ACCOMMODATION GALLERY
 
 <span class="strapline">Let those in the know help...</span>
  
-Set out below is a selection of our favourite accommodations in the Puerto Ayora area.
-
-Feel free to [Contact Us](/contact) if any of these appeal, or if you are looking for something similar on Santa Cruz Island of elsewhere in the Galapagos.
+Set out below is a selection of our favourite accommodations in the Puerto Ayora area.  Feel free to [Contact Us](/contact) if any of these appeal, or if you are looking for something similar on Santa Cruz Island of elsewhere in the Galapagos.
 
 ### Standard Properties
 _____________
@@ -20,13 +18,13 @@ class="full-width-on-small"
 paddingBottom="20px"
 >}}
 
-**DESCRIPTION:** Sol Marina offer three types of accommodation in a total of four units. The largest is their Garden House, a pleasing two storey, two bedroom, one and a half bathroom property designed for up to four visitors.  They have two delightful, mid-sized, duplex apartments each designed for two visitors - but equipped with sofa beds for additional guests, as required.  The smallest unit is a cozy, single storey, upper floor suite, designed for one or two people - and when necessary, a small child.
+**DESCRIPTION:** Sol Marina offer three types of accommodation in a total of four units. The largest is their Garden House, a pleasing two storey, two bedroom, one-and-a-half-bathroom property designed for up to four visitors.  They have two delightful, mid-sized, duplex apartments each designed for two visitors - but equipped with sofa beds for additional guests, as required.  The smallest unit is a cosy, single storey, upper floor suite, designed for one or two people - and when necessary, a small child.
 
-All of the above units are set in an attractive private garden located in the quiet, El Eden, residential neighbourhood of Puerto Ayora, on Santa Cruz Island.  The accommodations are within easy walking distance of the Charles Darwin Research Station, the town centre, and its harbour (5-15 mins.)  If you’re seeking access to Puerto Ayora's many visitor attractions from a comfortable and secure place to stay, look no further!
+All of the above are set within an attractive private garden located in the quiet, El Eden, residential neighbourhood of Puerto Ayora, on Santa Cruz Island.  The accommodations are within easy walking distance of the Charles Darwin Research Station, the town centre, and its harbour (5-15 mins.)  If you’re seeking access to Puerto Ayora’s many visitor attractions from a comfortable and secure place to stay, look no further!
 
-At the entranceway to each unit, excluding the Suite, there’s a wooden deck with hammock/s, while, in the garden there’s a swing for children.  The duplex properties and the suite offer balconies, equipped with tables and chairs, overlooking the garden.
+At the entranceway to each unit, excluding the Suite, there’s a wooden deck with hammock/s, while, in the garden there’s a swing for children. The duplex properties and the suite offer balconies, equipped with tables and chairs, overlooking the garden.
 
-The units each provide kitchens, alongside dining, living, bedroom and bathroom areas and all come with high ceilings, large windows and inbuilt A/C. 
+The units each provide kitchens, alongside dining, living, bedroom and bathroom areas and all come with high ceilings, large windows, and inbuilt A/C. 
 
 Additionally, the units all come with:
 A free laundry service
@@ -47,9 +45,9 @@ class="full-width-on-small"
 paddingBottom="20px"
 >}} 
 
-**DESCRIPTION:** In a privileged location, Lava House provides clients with the means to easily enjoy the most exclusive area in Puerto Ayora, while being only minutes away from the central Charles Darwin Avenue.
+**DESCRIPTION:** Set in a privileged location, Lava House provides clients with the means to easily enjoy the most exclusive area in Puerto Ayora, while being only minutes away from the central Charles Darwin Avenue.
 
-Lave House provides 11 rooms with private bathrooms, each with hot water, A/C, cable TV, telephone in the room, purified water, hair dryer, hand and bath towels, eco soap, shampoo and conditioner.  At reception guests will find beach towels, and a safe deposit box.  The hostel is happy to provide tourist information and to safeguard clients bags on the day of checkout.  Breakfast and WIFI are both available.
+Lave House provides 11 rooms with private bathrooms, each with hot water, A/C, cable TV, telephone in the room, purified water, hair dryer, hand and bath towels, eco soap, shampoo and conditioner.  At reception, guests will find beach towels, and a safe deposit box.  The hostel is happy to provide tourist information and to safeguard clients' bags on the day of checkout.  Breakfast and WIFI are both available.
 
 Please note, Lave House does not provide, sodas, beers, etc. or free airport-hostel transfers. 
 
@@ -70,11 +68,11 @@ paddingBottom="20px"
 
 The owner, Mathias Espinosa, co-owner of Scuba Iguana Divers and a Naturalist Guide Diver in the National Park, lives in the main property. (Mathias has provided guiding services to Bill Gates, John McCain, Larry Ellison, Bo Derek, and the Princess of Thailand Maha Chakri Sirindhorn).  
 
-In the gardens are a suite and an apartment, built specifically for visitors. These single storey accommodations, without stairs, are perfect for couples , families with children and business travellers.  The fully furnished suite provides one bedroom with bathroom and kitchen, while the apartment offers two bedrooms.  
+In the gardens are a suite and an apartment, built specifically for visitors. These single storey accommodations, without stairs, are perfect for couples, families with children and business travellers.  The fully furnished suite provides one bedroom with bathroom and kitchen, while the apartment offers two bedrooms.  
 
-Each unit benefits from an ultraviolet water treatment system, so you can confidently prepare meals.The garden is richly detailed and attracts mocking birds, finches, yellow warblers and many other birds, as well as the lava lizards unique to thes islands.  Airy porches with hammocks, tables and chairs provide great places for guests to enjoy the cool of the evenings.
+Each unit benefits from an ultraviolet water treatment system, so you can confidently prepare meals and refreshments. The garden is richly detailed and attracts mockingbirds, finches, yellow warblers and many other birds, as well as the lava lizards unique to the islands.  Airy porches with hammocks, tables and chairs provide great places for guests to enjoy the cool of the evening.
 
-Both units provide everything you would expect in regard to kitchens, living areas, bedrooms and bathrooms, including air conditioning and ceiling fans. Additionally, guests can access, laundry services, the internet, (wifi), and free on premises parking. 
+Both units provide everything you would expect in regard to kitchens, living areas, bedrooms and bathrooms, including air conditioning and ceiling fans. Additionally, guests can access, laundry services, the internet, (wifi), and free on-premises parking. 
 
 **For further details about Casa de Mathias, please [Contact Us](/contact).**
 
@@ -90,13 +88,13 @@ paddingBottom="20px"
 >}} 
 
 **DESCRIPTION:** 
-Max Arias and his wife Lourdes Gómez manage Capitan Max, attending to guests' reservations and requests, resolving their concerns, and providing advice about local attractions and opportunities.. Max has more than 20 years of experience in tourism and is descended from one of the oldest families in The Galapagos.
+Max Arias and his wife Lourdes Gómez manage Capitan Max, attending to guests' reservations and requests, resolving their concerns, and providing advice about local attractions and opportunities. Max has more than 20 years of experience in tourism and is descended from one of the oldest families in The Galapagos.
 
-Select from Capitan Max’s double and triple rooms, equipped with generous beds, air-conditioning, private bathrooms with showers, hot water, biodegradable shampoos and soaps, hair dryers, and safety deposit boxes.  Please note, all rooms are covered by our strict ‘no-smoking’ policy.
+Select from Capitan Max’s double and triple rooms, equipped with generous beds, air-conditioning, private bathrooms with showers, hot water, biodegradable shampoos and soaps, hair dryers, and safety deposit boxes.  Please note, all rooms are covered by a strict ‘no-smoking’ policy.
 
 Relax after a long day and de-stress in a comfortable hammock and, perhaps, enjoy the complimentary wireless Internet access, there to help keep you connected.
   
-Max and Lourdes provide guest with comfort, warmth and great service, and are always willing and ready to assist.  You can rely upon them to help ensure your vacation will be the best you ever experienced!. 
+Max and Lourdes provide guest with comfort, warmth, and great service.  You can rely upon them to help your vacation deliver its full potential! 
 
 **For further details about Capitan Max, please [Contact Us](/contact).**
 
@@ -113,13 +111,13 @@ paddingBottom="20px"
 
 **DESCRIPTION:** This hostel was opened just seven years ago, in 2016, with the goal of creating the best such facility in the Galapagos Islands.
 
-Visitors at Sueños Silvestres are certainly pampered, being provided with great comfort and high quality service that always aims to satisfying the needs and expectations of guests, while adhering to strict social and environmental protection standards.
+Visitors at Sueños Silvestres are certainly pampered, being provided with great comfort and high-quality service that always aims to satisfying the needs and expectations of guests, while adhering to strict social and environmental protection standards.
 
-The hostal team see their main mission as allowing clients to fully enjoy the beauty of our ‘enchanted islands’.  
+The hostel team see their main mission as allowing clients to fully enjoy the beauty of the ‘enchanted islands’.  
 
-Select from a range of single and double rooms designed and built with the comfort of guests to the fore.  All provide, the secure, tranquil and comforting atmosphere so essential for a good night's rest, and all come with comfortable beds, A/C, private bathrooms, hot water, cable TV, hair dryers, and small desks.
+Select from a range of single and double rooms designed and built with the comfort of guests to the fore.  All provide, the secure, tranquil  atmosphere so essential for a good night's rest, and all come with comfortable beds, A/C, private bathrooms, hot water, cable TV, hair dryers, and small desks.
 
-Please note, the hostel has a strict ‘No Smoking’ policy in all indoor areas, but provides smoking and vaping areas to the outside of the property. 
+Please note, the hostel has a strict ‘No Smoking’ policy in all indoor areas but provides smoking and vaping areas to the outside of the property. 
 
 **For further details about Hostal Sueños Silvestres, please [Contact Us](/contact).**
 
@@ -146,8 +144,9 @@ Six rooms are available, each with private bathroom, air conditioning and free w
 
 In the mornings,  a delicious breakfast is provided with local and organic products to the fore, including homemade cakes and exotic Ecuadorian fruit juices.
 
-Joseline holds a Bachelor's degree in Tourism and Hotel Management and a Master degree in the Management and Planning of Tourism.  Additionally, she is a qualified Naturalist Guide in the Galápagos Islands, allowing her to share with her guests the wonders of the Enchanted Islands and the importance of protecting the fragile environment for future generations. 
-With the future in mind, the hotel has adopted strict recycling policies and these, alongside the use of biodegradable products, careful use of electricity and water help to minimise human impact on the Islands. 
+Joseline holds a bachelor's degree in Tourism and Hotel Management, and a master's degree in the Management and Planning of Tourism. Additionally, she is a qualified Naturalist Guide in the Galápagos Islands, allowing her to share with her guests the wonders of the Enchanted Islands and the importance of protecting the fragile environment for future generations.
+
+With conservation in mind, the hotel has adopted strict recycling policies and these, alongside the use of biodegradable products, careful use of electricity and water help to minimise human impact on the Islands. 
 
 **For further details about Galapagos Suites,please [Contact Us](/contact).**
 
@@ -161,9 +160,9 @@ class="full-width-on-small"
 paddingBottom="20px"
 >}} 
 
-**DESCRIPTION:** Excellently located close to the main road through town, Hotel La Isla features twin and double rooms, a shared lounge, terrace, restaurant and bar. Additionally, there’s a hot tub, room service and free WiFi.
+**DESCRIPTION:** Excellently located close to the main road through town, Hotel La Isla features twin and double rooms, a shared lounge, terrace, restaurant, and bar. Additionally, there’s a hot tub, room service and free WiFi.
 
-All rooms are air-conditioned and offer a desk, a safety deposit box, a flat-screen TV, a balcony and a private bathroom with a shower. 
+All rooms are air-conditioned and offer a desk, a safety deposit box, a flat-screen TV, a balcony, and a private bathroom with shower. 
 
 A buffet, à la carte or continental breakfast is available every morning.
 
@@ -201,9 +200,9 @@ paddingBottom="20px"
 
 **DESCRIPTION:** Hotel Villa Laguna is located diagonally to the Las Ninfas lagoon, on the road that leads to the ‘paradisiacal’ beach at Tortuga Bay.
 
-The hotel has been created with the national and international traveler in mind and aims to provide all the comforts required to fully enjoy a trip to the Galapagos and its natural attractions.
+The hotel has been created with the national and international traveller in mind and aims to provide all the comforts required to fully enjoy a trip to the Galapagos and its natural attractions.
 
-A total of 19 rooms are available, each with cable TV, hot water, air conditioning and refrigerator. There’s an outdoor pool and a restaurant. Nearby, in the town centre, you can find ATMs, restaurants, bars and souvenir shops.
+A total of 19 rooms are available, each with cable TV, hot water, air conditioning and refrigerator. There’s an outdoor pool and a restaurant. Nearby, in the town centre, you can find ATMs, restaurants, bars, and souvenir shops.
 
 Villa Laguna invites you to book for an unforgettable stay!
 
@@ -223,7 +222,7 @@ class="full-width-on-small"
 paddingBottom="20px"
 >}} 
 
-**DESCRIPTION:** The Ikala Galapagos Hotel offers a made to measure experience. 
+**DESCRIPTION:** The Ikala Galapagos Hotel offers a *'made to measure'* experience. 
 
 Surrounded by beautiful trees, and gardens that offer a refreshing ambience that shields  you from the heat of the day, the Hotel has 15 spacious suites, 6 standard rooms, and 1 duplex suite with private living room and kitchen.
 
@@ -252,9 +251,9 @@ With 27 rooms arranged over two floors, the hotel provides an ideal home-base f
 
 Early risers can wade out into the calm waters of the beach to the south of the hotel and spot yellow warblers darting among the mangroves, or snorkel with juvenile rays and sharks.  Guests can also enjoy kayaking, massages, an outdoor pool with poolside bar, a health club and a fitness centre. 
 
-The subtle architectural design of the property mimics the surrounding volcanic rocks while attractive wooden walkways leaves the surrounding natural environment undisturbed.  Finch Bay is an 'expedition' hotel with a distinct sense of place and an award-winning approach to environmental sustainability and social initiatives.
+The subtle architectural design of the property mimics the surrounding volcanic rocks, while attractive wooden walkways leave the surrounding natural environment undisturbed.  Finch Bay is an *'expedition'* hotel with a distinct sense of place and an award-winning approach to environmental sustainability and social initiatives.
 
-However you choose to explore the Galapagos, be it by land or sea, Finch Bay will help you fully appreciate the islands’ essence.  
+No matter how you choose to explore the Galapagos, be it by land or sea, Finch Bay will help you fully appreciate the islands’ essence.  
 
 **For further details about Finch-Bay, please [Contact Us](/contact).**
 
@@ -294,10 +293,8 @@ paddingBottom="20px"
 
 Their hotel is oriented towards the culture of conservation, taking care of detail, and merging Swiss standards with Ecuadorian warmth.
 
-All rooms provide wonderful beds, flat-screen TVs, private bathrooms with showers and free toiletries. In addition, some rooms have a balcony.  Free WiFi access is available throughout the property.
+All rooms provide wonderful beds, flat-screen TVs, private bathrooms with showers, and free toiletries. In addition, some rooms have a balcony.  Free WiFi access is available throughout the property.
 
 Judith and Hans undertake continuous improvements to the hotel, as they seek to mitigate the impacts of the modern world on the islands and develop an ever more welcoming home for the visitor.  
-
-This venue has proved to be especially popular with couples, with many providing the hotel with top ratings. 
 
 **For further details about Hotel Cucuve, please [Contact Us](/contact).**
