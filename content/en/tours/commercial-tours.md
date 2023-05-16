@@ -32,7 +32,7 @@ Wonderful, picturesque, and rich with opportunities to swim and snorkel.
 ##### Santa Fe & Playa Escondida
 Fabulous swimming and snorkelling locations.
 
-{{< image-row images="img/about/600PG-Booby-nest.png,img/about/600PG-Bird-flight.png,img/about/600PG_Preening-bird.png,"paddingTop="10px" >}}
+{{< image-row images="img/about/600PG-Booby-nest.png,img/about/600PG-Bird-flight.png,img/about/600PG_Preening-bird.png" paddingTop="10px" >}}
 
 ### TOURS - Commercial multiday land & water based tours
 
