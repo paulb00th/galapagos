@@ -17,7 +17,7 @@ With a PADI or SSI certification you can dive in nearly 200 countries and territ
 
 #### Discover Scuba Diving (DSD)
 
-The DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI/SSI instructor.  Let the team at **Galapagos Dive Academy** introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
+Our DSD program is designed to offer your first diving experience, under the supervision of a qualified PADI/SSI instructor.  Let the team at **Galapagos Dive Academy** introduce you to the equipment and techniques you will use while in the underwater world - with our focus on safety always to the fore.  
 
 **To join us for a DSD experience you must:**
 
@@ -33,7 +33,7 @@ The DSD program is designed to offer your first diving experience, under the sup
 
 Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora office and teaching centre, at the dive site named [Punta Estrada](/our-diving/our-main-dive-sites).  During your experience we will aim to take you to a maximum depth of 12m for about 45 minutes.  Please bear in mind that the actual time you will spend underwater depends on your breathing pattern, so start practicing long slow breathing techniques today!  We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to each candidate or pair of candidates, up to a maximum of 4 participants assisted by 2 instructors.
  
-Learn more about [our DSD course](/our-diving/more-about-dsd)
+Learn more about our [DSD course](/our-diving/more-about-dsd)
  
 If you would like to book our DSD trip, please [Contact Us](/contact)
 
@@ -45,7 +45,7 @@ If you would like to book our DSD trip, please [Contact Us](/contact)
 
 If you would like to progress your SCUBA training after your DSD experience, you can take an Open Water course - a lifelong qualification.  This is the most popular course worldwide, being designed so that the student can either start at home and finish on vacation or complete the entire course whilst on holiday. 
  
-The Open Water course is in two parts. The first is academic and theoretical, and conducted with new easy to access online materials.  You can undertake this section slowly at home or in just a few days while on vacation.  The second part is a mix of confined (pool-based) and open water practical training during which you learn how to handle scuba equipment and become an independent diver.  This section usually takes 3 days to complete and provides for a total of 4-dives in the sea.  Following certification, you are qualified to a maximum depth of 18m.
+The Open Water course is in two parts. The first is academic and theoretical, and conducted with easy to access online materials.  You can undertake this section slowly at home or in just a few days while on vacation.  The second part is a mix of confined (pool-based) and open water practical training during which you learn how to handle scuba equipment and become an independent diver.  This section usually takes 3 days to complete and provides for a total of 4-dives in the sea.  Following certification, you are qualified to a maximum depth of 18m.
  
 **To join us for an Open Water course you must:**
 <blockquote>
@@ -71,7 +71,7 @@ If you would like to book an Open Water course, or learn more about the differen
 
 If your time is limited (or you were unable to complete your Open Water course for any reason), the Scuba Diver course might be just what you need.  You complete the same academic study as for the Open Water qualification, but the confined water practices and two open water dives are conducted in just 2 days.
  
-Upon completion of the course, you will receive a digital certificate as a Scuba Diver which will allow you to descend, under the direct supervision of a professional, to a maximum depth 12m/40ft.  Once you have the Scuba Diver qualification, you can complete Open Water training at any appropriate dive centre worldwide and thereby UPGRADE your qualification.
+Upon completion of the course, you will receive a digital certificate as a Scuba Diver which will allow you to descend, under the direct supervision of a professional, to a maximum depth of 12m/40ft.  Once you have the Scuba Diver qualification, you can complete Open Water training at any appropriate dive centre worldwide and thereby UPGRADE your qualification.
  
 **To join us for the our Scuba Diver course you must:**
 <blockquote>
@@ -84,7 +84,7 @@ Upon completion of the course, you will receive a digital certificate as a Scuba
 
 We teach our Scuba Diver course in Academy Bay, at the dive site we call [Punta Estrada](/our-diving/our-main-dive-sites), and offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
  
-Learn more about [our Scuba Diver course](https://www.padi.com/courses/scuba-diver)
+Learn more about our [Scuba Diver course](https://www.padi.com/courses/scuba-diver)
  
 If you would like to book our Scuba Diver course, please [Contact Us](/contact)
 
@@ -220,11 +220,11 @@ If you would like to book our Dive Master course, please [Contact Us](/contact)
 
 <div class="grey-bar"></div>
 
-#### ReActivate / Refresh
+#### ReActivate / ReFresh
 
-If you haven't dived for several years, the ReActivate/Refresh option is for you.  Whichever of these courses you take, you will have the opportunity to review the most important diving theories and techniques, on an outing with a PADI/SSI instructor in the sea or in a pool.  This will prepare you to re-enter the big blue feeling relaxed and confident.
+If you haven't dived for several years, the ReActivate/ReFresh option is for you.  Whichever of these courses you take, you will have the opportunity to review the most important diving theories and techniques, on an outing with a PADI/SSI instructor in the sea or in a pool.  This will prepare you to re-enter the big blue feeling relaxed and confident.
  
-**To take the ReActivate / Refresh course with us, you must:**
+**To take the ReActivate / ReFresh course with us, you must:**
 <blockquote>
 <p>Be a minimum of 10 years old</p>
 
@@ -233,9 +233,9 @@ If you haven't dived for several years, the ReActivate/Refresh option is for you
 <p>Commit to the 2-6 hour engagement required for the course</p>
 </blockquote>
 
-Learn more about the [ReActivate/Refresh course](https://www.padi.com/courses/reactivate)
+Learn more about the [ReActivate/ReFresh course](https://www.padi.com/courses/reactivate)
 
-If you would like to book our ReActivate/Refresh course, please [Contact Us](/contact)
+If you would like to book our ReActivate/ReFresh course, please [Contact Us](/contact)
 
 
 {{< image-row images="img/our-diving/RA2.png,img/our-diving/RA1.png,img/our-diving/RA3.png" paddingTop="10px" >}}
@@ -244,7 +244,7 @@ If you would like to book our ReActivate/Refresh course, please [Contact Us](/co
 
 #### ENRICHED AIR (NITROX)
 
-Enriched air, also known as nitrox or EANx, contains less nitrogen than normal air. Breathing less nitrogen when you’re underwater means you can enjoy longer dives and shorter surface intervals. It's no wonder that Enriched Air courses have become so famous!
+Enriched air, also known as nitrox or EANx, contains less nitrogen than normal air. Breathing less nitrogen when you’re underwater means you can enjoy longer dives and shorter surface intervals. It's no wonder that Enriched Air courses have become so popular!
  
 Online technology makes it easy to take the Enriched Air course, even if you have a busy schedule - complete the knowledge development section of the qualification where and when it is convenient, working at your own pace.  You can connect with your instructor whenever you have a question and after you’ve completed the independent study, they will teach you how to analyse a tank, fill out an enriched air log, and set up your dive computer for nitrox.  Thereafter, you can take two optional dives with your instructor.
  

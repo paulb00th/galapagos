@@ -84,11 +84,11 @@ Some people freedive for the challenge, but for me it’s true appeal lays in th
 
 I’m a marine biologist and divemaster from Ecuador and I’ve been working in the Galapagos Islands as a scientific researcher, diver, and wildlife photographer since 2017.
 
-Since 2021, I have also worked as a divemaster and lecturer on board educational expeditions ranging across our archipelago.
+Since 2021, I have also acted as a divemaster and lecturer on board educational expeditions ranging across our archipelago.
 
 My main scientific focus has been on the whale shark population in the islands, in pursuit of which I have worked collaboratively with research projects led by local Galapagos organisations.
 
-When you dive with me, I hope you will experience my passion for sea life as I help you discover how you can work as a citizen scientist in support of marine conservation.
+When you dive with me, I hope you will experience my passion for sea life, as I help you discover how to work as a citizen scientist in support of marine conservation.
  
 
 *Image - Sofia Green*
@@ -103,9 +103,9 @@ I’m a native of the islands, my family arrived in 1960 and were pioneers in th
 
 I’m the second generation of my family to have become a fisherman but, in recent years, I’ve turned away from this profession and dedicated myself to tourism.
 
-As the captain of ‘NINA’, our dive platform, it’s my responsibility to look after the boat itself and all aboard her. To do this, I draw on the knowledge I’ve amassed over my working life about both marine technology and the seas around the Galapagos islands.  This know how comes with me on all our trips, alongside a positive attitude and sense of humour!
+As the captain of ‘NINA’, our dive platform, it’s my responsibility to look after the boat itself and all aboard her. To do this, I draw on the knowledge I’ve amassed over my working life about both marine technology and the seas around the Galapagos islands.  This know-how comes with me on all our trips, alongside a positive attitude and sense of humour!
 
-I’m also a scuba diver and regularly spend time under the water. When I’m not working or diving, I like to enjoy life on my farm, communing with nature and pursuing a positive attitude to life.
+I’m a scuba diver and regularly spend time under the water. When I’m not working or diving, I like to enjoy life on my farm, communing with nature and pursuing a positive attitude to life.
 
 (Claudia adds, *‘We greatly enjoy having Cristian as our dive boat captain and encourage you to get to know him when onboard, we are sure you will be appreciative of his enthusiasm, knowledge, friendly disposition, and his supporting hand as you climb back onboard the boat!*)
 
