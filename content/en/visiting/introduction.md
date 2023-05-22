@@ -71,4 +71,6 @@ There are small passenger planes that regularly fly between Baltra, Isabela and 
 
 **-**
 
-For details of the entry requirements to visit the Galapagos, see ['Plan Your Trip'](/visiting/plan-your-trip/)
+For details of the entry requirements to visit the Galapagos, see [Visiting us](/visiting/plan-your-trip)
+For information about seasonal condtions, see [Climate and dive conditions](/visiting/climate-and-dive-conditions)
+For a list of useful things to bring on your trip, see [Packing list](/visiting/packing-list)
