@@ -27,7 +27,7 @@ Location:  To the southwest side of the bay.
 
 Description:  This site provides our best training location, with a depth of between just 6m and 15m and a flat sandy bottom.  
 
-Whilst undertaking dive exercises it’s not unusual for our clients to reef fish, various rays, sea turtles, white-tip sharks, octopus, lobsters, and other local creatures such as sea cucumbers and sea stars. 
+Whilst undertaking dive exercises it’s not unusual for our clients to see reef fish, various rays, sea turtles, white-tip sharks, octopus, lobsters, and other local creatures such as sea cucumbers and sea stars. 
 
 We cannot recommend a better place to train in the Galapagos than Punta Estrada, it will provide a natural boost to your learning and enhance the enjoyment of your course!
 
@@ -48,7 +48,7 @@ Description: This site provides ideal conditions for training dives 3 and 4 of t
 
 Loberia is also a site much loved by Free Divers and is an excellent choice for those undertaking the Apnea 2 qualification. 
 
- If you are interested in Free Diving, please bear in mind that we have an in-house expert, PADI Free-Diving Instructor, Alan Jacome.
+ If you are interested in Free Diving, please bear in mind that we have an in-house expert, PADI Free-Diving Instructor, [Alan Jacome.](/about/the-team)
 
 <div class="grey-bar"></div>
 

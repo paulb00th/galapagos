@@ -34,7 +34,7 @@ I was born in Guayaquil, the large coastal city in southern Ecuador.
 
 I fell in love with marine animals and the unique character of the underwater world at a very young age, thanks to my family.  
 
-Dedicating my life to diving and natural history seemed a powerful way to teach others about the wonders of the sea and the need for us to take far better care of it.   
+Dedicating my life to diving and natural history seemed a powerful way to teach others about the wonders of the sea and the need for us to take far better care of our oceans.   
 
 I have been a diver since 2001 and a PADI Instructor since 2008, certifying some 300 students over the last 15 years.  
 
@@ -68,7 +68,7 @@ Apart from working with Claudia and Juan-Carlos, I’m employed at the town’s 
 
 {{< figure src="img/about/Alan Jacome.png" class="align-right full-width">}}
 
-I’m a local, having been born and raised in the Galapagos on Santa Cruz Island and, since childhood, I’ve enjoyed our many snorkelling and surfing sites. A few years ago, while at ‘Las Grietas’, a series of water filled lagoons adjacent to the coast, I was overcome with the desire to reach the bottom, and this became my motivation to learn freediving. I started a formal course in 2020 and became a PADI Freedive Instructor in 2021. 
+I’m a local, having been born and raised in the Galapagos on Santa Cruz Island.  Here, since childhood, I’ve enjoyed our many snorkelling and surfing sites. A few years ago, while at ‘Las Grietas’, a series of water filled lagoons adjacent to the coast, I was overcome with the desire to reach the bottom, and this became my motivation to learn freediving. I started a formal course in 2020 and became a PADI Freedive Instructor in 2021. 
 
 In 2022 I was invited by Claudia and Juan Carlos to join Galapagos Dive Academy and, since then, I’ve been sharing my passion for freediving with guests! I’m often asked, ‘why should I freedive’? For me, answer is simple, the training takes you deeper for longer, provides for magical encounters with shy marine life, and connects you to the ocean with minimal impact 
 
@@ -82,7 +82,7 @@ Some people freedive for the challenge, but for me it’s true appeal lays in th
 
 {{< figure src="img/about/A-Us-SofiaMGreen.png" class="align-right full-width">}}
 
-I’m a marine biologist and divemaster from Ecuador and I’ve been working in the Galapagos Islands as a scientific researcher, diver, and wildlife photographer since 2017.
+I’m a marine biologist and divemaster from Ecuador and I’ve been working in the Galapagos Islands as a scientific researcher, diver, and wildlife photographer for some 7 years.
 
 Since 2021, I have also acted as a divemaster and lecturer on board educational expeditions ranging across our archipelago.
 

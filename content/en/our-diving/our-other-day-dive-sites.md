@@ -28,7 +28,7 @@ Your chosen destination/s is located to the south or east of Santa Cruz Island, 
 
 *In either circumstance, participants complete two dives during the trip and enjoy snacks during the dive interval and lunch at the end of the second dive.   You are generally returned to your accommodation between 15.30 and 16.00 hrs., depending on the destination and vessel involved.*
 
-For further detail about individual trips/trip combinations, ask us.  LINK
+**For further detail about individual trips/trip combinations, please [Contact Us](/contact?message=Enquiry%20about%20Long-range%20day-diving).**
 
 #### Notes
 1) Young divers: It is mandatory in the Galapagos that 10- to 11-year-old Open Water certified children require a private guide on day trips, because they are certified to a maximum depth of 12 m/40feet, while the rest of the group will be diving to a minimum of 18 m/60feet. 
@@ -127,7 +127,7 @@ Dive Difficulty: Qualification required, Open Water Diver.  This site does not n
 
 Location: To the south of Santa Cruz Island. 
 
-Description:  Floreana offers 3 dive sites, Punta Cormorant, Champion, and Enderby.  Between them, these provide for an interesting topography, sporting rocky outcrops, small caves, and areas of sand, each providing resting/hiding places for the varied marine animals present.  These include large schools of black striped salema, which envelop the diver, the red-lipped batfish, with leg-like fins and cherry-red lips, white and blacktip reef sharks, green sea turtles, stingrays, eagle rays, and hammerhead sharks.  Floreana is a special place to snorkel and dive with the baby sea lions, who often appear to stick themselves to the tips of your fins!
+Description:  Floreana offers 3 dive sites, Punta Cormorant, Champion, and Enderby.  Between them, these provide for an interesting topography sporting rocky outcrops, small caves, and areas of sand, each providing resting/hiding places for the varied marine animals present.  These include large schools of black striped salema, which envelop the diver, the red-lipped batfish, with leg-like fins and cherry-red lips, white and blacktip reef sharks, green sea turtles, stingrays, eagle rays, and hammerhead sharks.  Floreana is a special place to snorkel and dive with the baby sea lions, who often appear to stick themselves to the tips of your fins!
 
 <div class="grey-bar"></div>
 
@@ -177,7 +177,7 @@ Dive Difficulty: Qualification required, Open Water Diver.  Easy relaxing diving
 
 Location: To the northeast of Santa Cruz Island.
 
-Description:  Visitors have for some time been forbidden to go ashore on North Plaza but diving off the backside of the site is permitted. Entry is usually along the centre of the north shore, where a boulder-laden slope inclines gradually to a sand bottom at about 24m (80 ft).
+Description:  Visitors have for some time been forbidden to go ashore on North Plaza but diving to the back of the site is permitted. Entry is usually along the centre of the north shore, where a boulder-laden slope inclines gradually to a sand bottom at about 24m (80 ft).
 
 White tipped reef sharks, marble and diamond rays, and waving fields of Galapagos garden-eels are found in sandy patches throughout this area. 
 
@@ -197,7 +197,7 @@ Dive Difficulty: Qualification required, Open Water Diver.  Easy shallow diving 
 
 Location: To the southeast of Santa Cruz Island.
 
-Description:  Santa Fe is renowned for offering some of the easiest diving in the Galapagos Islands, with a mean depth of 18 m. But the location’s easily negotiated dive sites do not diminish the beauty on offer at La Bahia and El Arco, the two main dive sites.  Sea lions, turtles, whitetip reef sharks, rays, and large assemblies of schooling fish are ever present, along with corals and sponges.  An easily negotiated cavern/cave dive, at 16 meters, also makes for a pleasant experience for both novice and experienced divers alike.
+Description:  With a mean depth of 18 m, Santa Fe is renowned for offering some of the easiest diving in the Galapagos Islands. But the location’s easily negotiated dive sites do not diminish the beauty on offer at La Bahia and El Arco, the two main dive sites.  Sea lions, turtles, whitetip reef sharks, rays, and large assemblies of schooling fish are ever present, along with corals and sponges.  An easily negotiated cavern/cave dive, at 16 meters, also makes for a pleasant experience for both novice and experienced divers alike.
 
 <div class="grey-bar"></div>
 
@@ -235,7 +235,7 @@ The site regularly delivers turtles, Galapagos, white tip reef, and hammerhead s
 
 #### Prices for long range day diving trips:
 
-Our 2023 price list for longer range day diving varies from $250 to $270 per person/per day, depending on the dive centre with which we book you, the destination you select, and whether you bring own dive gear. 
+Our 2023 price list for longer range day diving varies from $250 to $270 per person/per day, depending on the destination you select, the dive operator you're booked you, and whether you bring your own dive gear. 
 
 Please note that we can likely find you better priced last-minute deals, at between $180 and $200 per person/per day, if you are prepared to accept that there will sometimes be no spaces left on your preferred trip and that you will then need to book an alternative location/tour.
 

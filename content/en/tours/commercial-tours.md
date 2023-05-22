@@ -11,9 +11,10 @@ Our land and sea-based day trips can take you across wonderful Santa Cruz Island
 
 Whether you want to snorkel with the local sea life or marvel at tortoises or huge bird colonies, we can show you to the best the islands have to offer.  Here’s a brief taster of the daytrips we can arrange, all perfect for the resting diver and non-diver alike.  
 
-If you would like further information, request an e-brochure, and let us power-up your imagination!  
+If you would like further information, request an e-brochure, and let us power-up your imagination!
 
-Interested?  Then [Contact Us](/contact)
+**Interested? Then [Contact Us](/contact?message=Enquiry%20about%20Galapagos%20Tours).**
+
  <Br></B>
 ##### Bartolome Island
 A wild and unearthly moon-scape-like lava landscape, with penguins and giant rocks. See the image to the right! 

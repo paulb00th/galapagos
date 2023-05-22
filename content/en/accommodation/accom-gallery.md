@@ -5,7 +5,7 @@
 
 <span class="strapline">Let those in the know help...</span>
  
-Set out below is a selection of our favourite accommodations in the Puerto Ayora area.  Feel free to contact us, via the links below, if any of these appeal, or if you are looking for something similar on Santa Cruz Island of elsewhere in the Galapagos.
+Set out below is a selection of our favourite accommodations in the Puerto Ayora area.  Feel free to contact us via the links below if any of these appeal, or if you are looking for something similar on Santa Cruz Island of elsewhere in the Galapagos.
 
 ### Standard Properties
 _____________

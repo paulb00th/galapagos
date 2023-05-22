@@ -35,7 +35,7 @@ Our DSD adventure is held in the bay directly adjacent to our Puerta Ayora offic
  
 Learn more about our [DSD course](/our-diving/more-about-dsd)
  
-If you would like to book our DSD trip, please [Contact Us](/contact)
+**If you would like to book our DSD trip, please [Contact Us](/contact?message=Enquiry%20about%20DSD%20Course).**
 
 {{< image-row images="img/our-diving/DSD1.png,img/our-diving/DSD2.png,img/our-diving/DSD3.png" paddingTop="10px" >}}
 
@@ -60,8 +60,8 @@ We teach our Open Water course in Academy Bay, using several sites, these being:
 We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
  
 Learn more about [our Open Water course](/our-diving/more-about-ow)
- 
-If you would like to book an Open Water course, or learn more about the differences between the PADI and SSI versions, please [Contact Us](/contact)
+
+**If you would like to book an Open Water course, or learn more about the differences between the PADI and SSI versions, please [Contact Us](/contact?message=Enquiry%20about%20OpenWater%20Course).**
 
 {{< image-row images="img/our-diving/OW1.png,img/our-diving/OW2.png,img/our-diving/OW3.png" paddingTop="10px" >}}
 
@@ -85,8 +85,8 @@ Upon completion of the course, you will receive a digital certificate as a Scuba
 We teach our Scuba Diver course in Academy Bay, at the dive site we call [Punta Estrada](/our-diving/our-main-dive-sites), and offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
  
 Learn more about our [Scuba Diver course](https://www.padi.com/courses/scuba-diver)
- 
-If you would like to book our Scuba Diver course, please [Contact Us](/contact)
+
+**If you would like to book a Scuba Diver course, please [Contact Us](/contact?message=Enquiry%20about%20ScubaDiver%20Course).**
 
 {{< image-row images="img/our-diving/SDC1.png,img/our-diving/SDC2.png,img/our-diving/SDC3.png" paddingTop="10px" >}}
 
@@ -123,7 +123,7 @@ At Galapagos Dive Academy we can combine the advanced course with long trips to 
 
 Learn more about our [Advanced Open Water course](/our-diving/more-about-aow)
  
-If you would like to book an Advanced Open Water course, or learn more about the differences between the PADI and SSI versions, please [Contact Us](/contact)
+**If you would like to book an Advanced Open Water course, or learn more about the differences between the PADI and SSI versions, please [Contact Us](/contact?message=Enquiry%20about%20AdvancedOpenWater%20Course).**
 
 {{< image-row images="img/our-diving/AOW1.png,img/our-diving/AOW2.png,img/our-diving/AOW3.png" paddingTop="10px" >}}
 
@@ -146,8 +146,8 @@ EFR is a first aid course, taught by our instructors. Learn the skills to aid in
 </blockquote>
 
 Learn more about our [EFR course](https://www.padi.com/courses/efr)
- 
-If you would like to book our EFR course, please [Contact Us](/contact)
+
+**If you would like to book our EFR course, please [Contact Us](/contact?message=Enquiry%20about%20EFR%20Course).**
 
 {{< image-row images="img/our-diving/EFR1.png,img/our-diving/EFR2.png,img/our-diving/EFR3.png" paddingTop="10px" >}}
 
@@ -172,7 +172,7 @@ Thinking like a rescue diver is taught through a combination of home study and p
 
 Learn more about the [PADI Rescue Diver course](https://www.padi.com/courses/rescue-diver)
 
-If you would like to book our Rescue Diver course, please [Contact Us](/contact)
+**If you would like to book our Rescue Diver course, please [Contact Us](/contact?message=Enquiry%20about%20RescueDiver%20Course).**
 
 {{< image-row images="img/our-diving/RD1.png,img/our-diving/RD2.png,img/our-diving/RD3.png" paddingTop="10px" >}}
 
@@ -214,7 +214,7 @@ Topics and hands-on seminars associated with the DM course include:
 
 Learn more about the [Dive Master course](https://www.padi.com/courses/divemaster)
 
-If you would like to book our Dive Master course, please [Contact Us](/contact)
+**If you would like to book our Dive Master course, please [Contact Us](/contact?message=Enquiry%20about%20DiveMaster%20Course).**
 
 {{< image-row images="img/our-diving/DM1.png,img/our-diving/DM2.png,img/our-diving/DM3.png" paddingTop="10px" >}}
 
@@ -235,7 +235,7 @@ If you haven't dived for several years, the ReActivate/ReFresh option is for you
 
 Learn more about the [ReActivate/ReFresh course](https://www.padi.com/courses/reactivate)
 
-If you would like to book our ReActivate/ReFresh course, please [Contact Us](/contact)
+**If you would like to book our ReActivate/ReFresh course, please [Contact Us](/contact?message=Enquiry%20about%20ReActivate/ReFresh%20Course).**
 
 
 {{< image-row images="img/our-diving/RA2.png,img/our-diving/RA1.png,img/our-diving/RA3.png" paddingTop="10px" >}}
@@ -257,7 +257,7 @@ Online technology makes it easy to take the Enriched Air course, even if you hav
 
 Learn more about the [Enriched Air course](https://www.padi.com/courses/enriched-air-diver)
 
-If you would like to book an Enriched Air course, please [Contact Us](/contact)
+**If you would like to book our Enriched Air course, please [Contact Us](/contact?message=Enquiry%20about%20EnrichedAir%20Course).**
 
 {{< image-row images="img/our-diving/EAN1.png,img/our-diving/EAN2.png,img/our-diving/EAN3.png" paddingTop="10px" >}}
 
@@ -280,7 +280,7 @@ No matter how many times you dive a site during daylight hours, when you return 
 
 Learn more about our [Night Dive Adventure](/our-diving/more-about-nd)
 
-If you would like to book our Night Dive Adventure, please [Contact Us](/contact)
+**If you would like to book our Night Dive Adventure, please [Contact Us](/contact?message=Enquiry%20about%20NightDiveAdventure%20Course).**
 
 {{< image-row images="img/our-diving/ND1.png,img/our-diving/ND2.png,img/our-diving/ND3.png" paddingTop="10px" >}}
 
