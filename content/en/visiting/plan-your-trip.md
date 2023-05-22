@@ -106,4 +106,7 @@ The most important rules when exploring the islands are as follows:
 **While these rules might seem excessive, following them is the only way to protect our unique archipelago for future generations.**
 
 **-**
-Return to [Visiting us](/visiting/introduction)
+Also in this section: 
+[Visiting us](/visiting/introduction)
+[Climate and dive conditions](/visiting/climate-and-dive-conditions)
+[Packing list](/visiting/packing-list)
