@@ -73,6 +73,6 @@ $25
 
 **Logbooks**
 $12
+_
 
-**-**
-Return to [Our Diving](/our-diving/our-diving)
+For details of all our diving course and adventures, see: [Our Diving](/our-diving/our-diving)

@@ -54,4 +54,7 @@ Perhaps an exposure suit lycra rash vest, neoprene skin, or similar - *it’s ea
 Perhaps also your full dive kit - *but note all this gear can be rented once you’re here!*
 
 **-**
-Return to [Visiting us](/visiting/introduction)
+Also in this section: 
+[Visiting us - Introduction](/visiting/introduction)
+[Plan your trip](/visiting/plan-your-trip)
+[Climate and dive conditions](/visiting/climate-and-dive-conditions)

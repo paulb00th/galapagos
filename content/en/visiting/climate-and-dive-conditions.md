@@ -98,4 +98,7 @@ If you plan to snorkel, we recommend using a 3mm wetsuit during the cooler perio
 On average, visibility in the Galapagos is between 8 and 10m (25ft to 35ft) with an increase to some 18m (60ft) on good days.  If you’re used to 20, 30, 40 or 50 m of visibility, don’t worry, a unique aspect of the Galapagos is that its wildlife is both abundant and curious - you will find yourself diving close to sea lions, sharks, rays and other animals and the ‘difficulty’ will be choosing where to look, not the vis!
 
 **-**
-Return to [Visiting us](/visiting/introduction)
+Also in this section: 
+[Visiting us - Introduction](/visiting/introduction)
+[Plan your trip](/visiting/plan-your-trip)
+[Packing list](/visiting/packing-list)

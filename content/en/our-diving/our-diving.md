@@ -59,7 +59,7 @@ We teach our Open Water course in Academy Bay, using several sites, these being:
 
 We offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
  
-Learn more about [our Open Water course](/our-diving/more-about-ow)
+Learn more about our [Open Water course](/our-diving/more-about-ow)
 
 **If you would like to book an Open Water course, or learn more about the differences between the PADI and SSI versions, please [Contact Us](/contact?message=Enquiry%20about%20OpenWater%20Course).**
 
@@ -73,7 +73,7 @@ If your time is limited (or you were unable to complete your Open Water course f
  
 Upon completion of the course, you will receive a digital certificate as a Scuba Diver which will allow you to descend, under the direct supervision of a professional, to a maximum depth of 12m/40ft.  Once you have the Scuba Diver qualification, you can complete Open Water training at any appropriate dive centre worldwide and thereby UPGRADE your qualification.
  
-**To join us for the our Scuba Diver course you must:**
+**To join us for a Scuba Diver course you must:**
 <blockquote>
 
 <p>Be a minimum of 10 years old</p>
@@ -82,9 +82,9 @@ Upon completion of the course, you will receive a digital certificate as a Scuba
 <p>Please note: If you are 60 or older, or if you are suffering from any type of significant illness, a medical certificate is recommended to confirm your fitness for diving</p>
 </blockquote>
 
-We teach our Scuba Diver course in Academy Bay, at the dive site we call [Punta Estrada](/our-diving/our-main-dive-sites), and offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
+We teach the Scuba Diver course in Academy Bay, at the dive site we call [Punta Estrada](/our-diving/our-main-dive-sites), and offer daily morning and afternoon trips (8 AM and 1 PM start times) with an instructor catering to no more than four adult candidates (maximum of 5 adult participants assisted by 2 instructors).  Children aged 10 to 12 years are taught in smaller groups.
  
-Learn more about our [Scuba Diver course](https://www.padi.com/courses/scuba-diver)
+Learn more about the [Scuba Diver course](https://www.padi.com/courses/scuba-diver) *note, this link opens an external page.*
 
 **If you would like to book a Scuba Diver course, please [Contact Us](/contact?message=Enquiry%20about%20ScubaDiver%20Course).**
 
@@ -145,7 +145,7 @@ EFR is a first aid course, taught by our instructors. Learn the skills to aid in
 <p>The practical drills for this course are carried out over a single day</p>
 </blockquote>
 
-Learn more about our [EFR course](https://www.padi.com/courses/efr)
+Learn more about the [EFR course](https://www.padi.com/courses/efr) *note, this link opens an external page.*
 
 **If you would like to book our EFR course, please [Contact Us](/contact?message=Enquiry%20about%20EFR%20Course).**
 
@@ -170,7 +170,7 @@ Thinking like a rescue diver is taught through a combination of home study and p
 <p>Please note: If you don't have an EFR certificate and want to take the Rescue Course, we can facilitate EFR co-incident training supplied by the PADI/SSI instructors who manage the island's decompression chamber. What better place could there be to learn!</p>
 </blockquote>
 
-Learn more about the [PADI Rescue Diver course](https://www.padi.com/courses/rescue-diver)
+Learn more about the [PADI Rescue Diver course](https://www.padi.com/courses/rescue-diver) *note, this link opens an external page.*
 
 **If you would like to book our Rescue Diver course, please [Contact Us](/contact?message=Enquiry%20about%20RescueDiver%20Course).**
 
@@ -212,7 +212,7 @@ Topics and hands-on seminars associated with the DM course include:
 <p>Expect to make a time commitment towards your qualification of approximately 50 hours</p>
 </blockquote>
 
-Learn more about the [Dive Master course](https://www.padi.com/courses/divemaster)
+Learn more about the [Dive Master course](https://www.padi.com/courses/divemaster) *note, this link opens an external page.*
 
 **If you would like to book our Dive Master course, please [Contact Us](/contact?message=Enquiry%20about%20DiveMaster%20Course).**
 
@@ -233,7 +233,7 @@ If you haven't dived for several years, the ReActivate/ReFresh option is for you
 <p>Commit to the 2-6 hour engagement required for the course</p>
 </blockquote>
 
-Learn more about the [ReActivate/ReFresh course](https://www.padi.com/courses/reactivate)
+Learn more about the [ReActivate/ReFresh course](https://www.padi.com/courses/reactivate) *note, this link opens an external page.*
 
 **If you would like to book our ReActivate/ReFresh course, please [Contact Us](/contact?message=Enquiry%20about%20ReActivate/ReFresh%20Course).**
 
@@ -255,7 +255,7 @@ Online technology makes it easy to take the Enriched Air course, even if you hav
 <p>Commit to the 2-4 hours of engagement required for the eLearning component of the course, and the 1-2 days of instructor led training</p>
 </blockquote>
 
-Learn more about the [Enriched Air course](https://www.padi.com/courses/enriched-air-diver)
+Learn more about the [Enriched Air course](https://www.padi.com/courses/enriched-air-diver) *note, this link opens an external page.*
 
 **If you would like to book our Enriched Air course, please [Contact Us](/contact?message=Enquiry%20about%20EnrichedAir%20Course).**
 

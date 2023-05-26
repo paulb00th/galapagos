@@ -13,7 +13,7 @@ We can arrange your trip on a number of different specialised ultra-long-range d
 
 Just decide whether you want to master solely on Wolf and Darwin or also include an additional selection of remote sites where other varieties of exotic species are found.  Whatever your preference, let us know and we’ll do the rest!
 
-Some of the liveaboards we can arrange for you to join are set out below.  If one of these is of interest, or you have a specific vessel that you would like to join, please let us know, especially if you are looking for a last-minute price - [Contact Us](/contact)
+Some of the liveaboards we can arrange for you are set out below.  If one of these is of interest, or you have a specific vessel that you would like to join, please let us know, especially if you are looking for a last-minute price - [Contact Us](/contact?message=Enquiry%20about%20Liveaboard%20Diving).
 
 **Please note,** the northern sites of the Galapagos (Wolf and Darwin) are famous for large schools of Scalloped Hammerheads, perhaps most especially so on Darwin during the warm season (January to May).  Whale Sharks are generally around between June and November, Manta Rays between October and December, Dolphins, Galapagos Sharks, Silky Sharks, Mola Mola, and White Spotted Eagle Rays are to be expected through most of the year.
 
@@ -48,5 +48,6 @@ image-row
 images="img/liveaboard/600Penguino.jpg,img/liveaboard/600Calipso.png,img/liveaboard/600Master.jpg"
 paddingTop="10px" 
 >}}
+_
 
-Return to [Our Diving](/our-diving/our-diving)
+For details of all our diving course and adventures, see: [Our Diving](/our-diving/our-diving)

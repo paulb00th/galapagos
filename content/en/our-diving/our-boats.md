@@ -19,6 +19,6 @@ Set out below are three images of such boats, each of which we regularly use for
 image-row 
 images="img/our-boats/600AB-boat.png,img/our-boats/600SI-boat.png,img/our-boats/600GT-boat.png"
 paddingTop="10px" 
->}}
+>}}_
 
-Return to [Our Diving](/our-diving/our-diving)
+For details of all our diving course and adventures, see: [Our Diving](/our-diving/our-diving)

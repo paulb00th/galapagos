@@ -107,6 +107,6 @@ The most important rules when exploring the islands are as follows:
 
 **-**
 Also in this section: 
-[Visiting us](/visiting/introduction)
+[Visiting us - Introduction](/visiting/introduction)
 [Climate and dive conditions](/visiting/climate-and-dive-conditions)
 [Packing list](/visiting/packing-list)
