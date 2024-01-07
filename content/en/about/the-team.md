@@ -134,4 +134,4 @@ If you would like to contact Nick and Paul, use the email address in the website
 
 <span class="strapline">Want to join our team? </span>
 
-We are actively looking for volunteers and paid staff as we expand our business.  If you would like to be considered for a position as an instructor/divemaster/or office-based team member, do please send us your CV and a brief letter setting out your hopes and aspirations.  Fluency in German, French, Japanese or Chinese, as well as in Spanish, is of especial interest.
+We are actively looking for volunteers and paid staff as we expand our business.  If you would like to be considered for a position as an instructor/divemaster/or office-based team member, do please send us your CV and a brief letter setting out your hopes and aspirations.  Fluency in German, French, Japanese or Chinese, as well as in Spanish, is of special interest.
