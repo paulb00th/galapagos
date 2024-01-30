@@ -23,7 +23,7 @@ There are several excellent scuba operators in the Galapagos, but each primarily
 
 Let **Galapagos Dive Academy** teach you to the highest of standards in the safest of places.  We also offer refresher courses in Academy Bay, and diving for those seeking to test-out new imaging and research  equipment before embarking on an extended trip.
 
-**Galapagos Dive Academy** is co-located alongside DAN, (Diver’s Alert Network), the world’s most recognised and respected dive safety organisation, in the recently developed centre housing Santa Cruz Island’s main decompression chamber.
+**Galapagos Dive Academy** is located alongside DAN, (Diver’s Alert Network), the world’s most recognised and respected dive safety organisation. Our entrance way is 10m to the north of their recently developed centre housing Santa Cruz Island’s main decompression chamber.
 
 Besides offering the highest quality dive training, **Galapagos Dive Academy** specialises in providing:
 

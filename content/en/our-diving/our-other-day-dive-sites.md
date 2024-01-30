@@ -235,7 +235,7 @@ The site regularly delivers turtles, Galapagos, white tip reef, and hammerhead s
 
 #### Prices for long range day diving trips:
 
-Our 2023 price list for longer range day diving varies from $250 to $270 per person/per day, depending on the destination you select, the dive operator you're booked you, and whether you bring your own dive gear. 
+Our 2023 price list for longer range day diving varies from $230 to $28 0 per person/per day, depending on the destination you select, the dive operator you're booked you, and whether you bring your own dive gear. 
 
 Please note that we can likely find you better priced last-minute deals, at between $180 and $200 per person/per day, if you are prepared to accept that there will sometimes be no spaces left on your preferred trip and that you will then need to book an alternative location/tour.
 

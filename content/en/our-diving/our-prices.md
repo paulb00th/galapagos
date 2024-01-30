@@ -56,7 +56,7 @@
 $150 per person
 
 **Long range day dive tours**
-$250 to $270 per person
+$230 to $280 per person
 
 **Night Dive Experience**
 1 diver, $305
