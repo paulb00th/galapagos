@@ -44,26 +44,6 @@ Alongside Claudia, I’ve been developing our business supporting international 
 
 <div class="grey-bar"></div>
 
-##### Mathieu Idrovo - PADI Instructor 
-
-{{< figure src="img/about/A-Us-Mat.png" class="align-right full-width">}}
-
-I’ve grown up in the Galapagos Islands. 
-
-My first PADI dive was made at the age of 12 and the marine world has fascinated me ever since.  
-
-I soon obtained my EFR certification, and I went on from that to gain my Open Water Instructor certification in Cozumel, Mexico.
-
-Apart from instruction, I love exploration diving, sailing, and kayaking.
-
-When not working, I can most often be found indulging these interests in the expansive and fascinating bay adjacent to Puerto Ayora.
-
-Apart from working with Claudia and Juan-Carlos, I’m employed at the town’s [SSS Hyperbaric Recompression Chamber](https://www.sssnetwork.com/pages/galapagoshome.html),  where I’m a certified operator. 
-
-*Image - Mathieu Idrovo*
-
-<div class="grey-bar"></div>
-
 ##### Alan Jacome - PADI Free-Diving Instructor
 
 {{< figure src="img/about/Alan Jacome.png" class="align-right full-width">}}
